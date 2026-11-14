@@ -1,0 +1,96 @@
+corridor,u,v,corr
+C2-C7,Chandigarh (Grain/F&V) APMC (Chandigarh),Firozabad APMC (Uttar Pradesh),0.2663302942558626
+C1-C7,"Anand(Veg,Yard,Anand) APMC (Gujarat)",Buland Shahr APMC (Uttar Pradesh),0.14340840633344032
+C6-C7,Bhuj APMC (Gujarat),Buland Shahr APMC (Uttar Pradesh),0.007838166109884264
+C1-C7,Deesa(Deesa Veg Yard) APMC (Gujarat),Azamgarh APMC (Uttar Pradesh),0.15804536558781718
+C1-C7,Dhoraji APMC (Gujarat),Buland Shahr APMC (Uttar Pradesh),0.33988427419356365
+C6-C7,Jetpur(Dist.Rajkot) APMC (Gujarat),Buland Shahr APMC (Uttar Pradesh),0.22082756709977042
+C0-C1,Mahuva(Station Road) APMC (Gujarat),Basti APMC (Uttar Pradesh),0.14136167120277235
+C1-C7,Mehsana(Mehsana Veg) APMC (Gujarat),Azamgarh APMC (Uttar Pradesh),0.30270112436292407
+C6-C7,"New Grain Market , Faridabad APMC (Haryana)",Buland Shahr APMC (Uttar Pradesh),0.08314043141890538
+C1-C3,Belgaum APMC (Karnataka),Basti APMC (Uttar Pradesh),0.07538687838855063
+C1-C3,Bhopal(F&V) APMC (Madhya Pradesh),Basti APMC (Uttar Pradesh),0.07428912361500416
+C1-C7,Gautampura APMC (Madhya Pradesh),Buland Shahr APMC (Uttar Pradesh),0.06751321765385783
+C0-C1,Jabalpur(F&V) APMC (Madhya Pradesh),Nasik APMC (Maharashtra),0.12309512427608815
+C6-C7,Jaora APMC (Madhya Pradesh),Mirzapur APMC (Uttar Pradesh),0.1303709860052603
+C1-C7,Mandsaur APMC (Madhya Pradesh),Agra APMC (Uttar Pradesh),0.1968531242792052
+C0-C1,Neemuch APMC (Madhya Pradesh),Nasik APMC (Maharashtra),0.15634527640856474
+C2-C7,Shajapur APMC (Madhya Pradesh),Buland Shahr APMC (Uttar Pradesh),0.25751098813533374
+C0-C3,Shajapur(F&V) APMC (Madhya Pradesh),Lasalgaon(Vinchur) APMC (Maharashtra),0.11047845020719696
+C0-C3,AGRICULTURE PRODUCE MARKET COMITEE CHANDWAD (Maharashtra),Yeola APMC (Maharashtra),0.18362014537430504
+C1-C3,AGRICULTURE PRODUCE MARKET COMITEE CHANDWAD (Maharashtra),Basti APMC (Uttar Pradesh),0.13045693901608515
+C2-C5,Akola APMC (Maharashtra),Lakhimpur APMC (Uttar Pradesh),0.15492957160158877
+C1-C3,Chandrapur(Ganjwad) APMC (Maharashtra),Lasalgaon(Vinchur) APMC (Maharashtra),0.17202428886836862
+C1-C4,Chandrapur(Ganjwad) APMC (Maharashtra),Nagpur APMC (Maharashtra),0.13290696427292206
+C6-C7,Dhule APMC (Maharashtra),Buland Shahr APMC (Uttar Pradesh),0.07770881657626273
+C6-C7,Kalvan APMC (Maharashtra),Buland Shahr APMC (Uttar Pradesh),0.15557976879788987
+C1-C3,Khed(Chakan) APMC (Maharashtra),Basti APMC (Uttar Pradesh),0.041782108204195346
+C1-C4,Kolhapur APMC (Maharashtra),Azamgarh APMC (Uttar Pradesh),0.2336449247351004
+C1-C4,Kolhapur APMC (Maharashtra),Basti APMC (Uttar Pradesh),0.2252422965498667
+C1-C4,Kolhapur APMC (Maharashtra),Khanna APMC (Punjab),0.14440725541692015
+C0-C3,Lasalgaon APMC (Maharashtra),Lasalgaon(Vinchur) APMC (Maharashtra),0.22522886600801065
+C0-C3,Lasalgaon(Niphad) APMC (Maharashtra),Lasalgaon(Vinchur) APMC (Maharashtra),0.2577083432580683
+C0-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Yeola APMC (Maharashtra),0.30499350348383125
+C0-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Pimpalgaon Baswant(Saykheda) APMC (Maharashtra),0.277396784449089
+C0-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Nasik APMC (Maharashtra),0.26226678936956765
+C1-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Azamgarh APMC (Uttar Pradesh),0.237350328771659
+C1-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Basti APMC (Uttar Pradesh),0.23411170657449865
+C0-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Manmad APMC (Maharashtra),0.20121648227250583
+C0-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Nandgaon APMC (Maharashtra),0.1210806107802107
+C0-C3,Lasalgaon(Vinchur) APMC (Maharashtra),Dehradoon APMC (Uttarakhand),0.03610141968870262
+C1-C4,Nagpur APMC (Maharashtra),Basti APMC (Uttar Pradesh),0.2172576264435287
+C1-C4,Nagpur APMC (Maharashtra),Azamgarh APMC (Uttar Pradesh),0.2142398417452052
+C0-C1,Nasik APMC (Maharashtra),Basti APMC (Uttar Pradesh),0.2709239762285317
+C0-C1,Nasik APMC (Maharashtra),Azamgarh APMC (Uttar Pradesh),0.26783985720254183
+C0-C1,Nasik APMC (Maharashtra),Pratapgarh APMC (Rajasthan),0.22469188954041674
+C0-C3,Nasik APMC (Maharashtra),Pimpalgaon Baswant APMC (Maharashtra),0.17611013567272946
+C0-C3,Pimpalgaon Baswant APMC (Maharashtra),Pimpalgaon Baswant(Saykheda) APMC (Maharashtra),0.1936683711169639
+C1-C4,Pune APMC (Maharashtra),Basti APMC (Uttar Pradesh),0.1429067587119763
+C0-C1,Yeola APMC (Maharashtra),Basti APMC (Uttar Pradesh),0.20757653727384928
+C2-C5,Bargarh(Barapalli) APMC (Odisha),Lakhimpur APMC (Uttar Pradesh),0.09348378674794322
+C5-C6,Hinjilicut APMC (Odisha),Kanpur(Grain) APMC (Uttar Pradesh),0.036227482682428945
+C2-C6,Hinjilicut APMC (Odisha),Lakhimpur APMC (Uttar Pradesh),0.017260929988213054
+C1-C7,Ludhiana APMC (Punjab),Azamgarh APMC (Uttar Pradesh),0.291398843422365
+C1-C7,Phagwara APMC (Punjab),Azamgarh APMC (Uttar Pradesh),0.21491835426218475
+C2-C5,Ajmer(F&V) APMC (Rajasthan),Lakhimpur APMC (Uttar Pradesh),0.1472420611525176
+C5-C7,Jaipur (F&V) APMC (Rajasthan),Buland Shahr APMC (Uttar Pradesh),0.11740793252782089
+C1-C7,Agra APMC (Uttar Pradesh),Azamgarh APMC (Uttar Pradesh),0.4431422988333412
+C1-C7,Agra APMC (Uttar Pradesh),Basti APMC (Uttar Pradesh),0.43259704241382013
+C1-C7,Agra APMC (Uttar Pradesh),Asansol APMC (West Bengal),0.33652261340488543
+C6-C7,Akbarpur APMC (Uttar Pradesh),Buland Shahr APMC (Uttar Pradesh),0.4486015866564684
+C2-C6,Akbarpur APMC (Uttar Pradesh),Lakhimpur APMC (Uttar Pradesh),0.43172054337743054
+C6-C7,Akbarpur APMC (Uttar Pradesh),Mirzapur APMC (Uttar Pradesh),0.4296139587800839
+C2-C7,Aligarh APMC (Uttar Pradesh),Buland Shahr APMC (Uttar Pradesh),0.23242168710739783
+C1-C7,Azamgarh APMC (Uttar Pradesh),Buland Shahr APMC (Uttar Pradesh),0.4652810703866043
+C1-C7,Azamgarh APMC (Uttar Pradesh),Mirzapur APMC (Uttar Pradesh),0.4361650036546465
+C1-C7,Azamgarh APMC (Uttar Pradesh),Pratapgarh APMC (Uttar Pradesh),0.4339353676837992
+C1-C7,Azamgarh APMC (Uttar Pradesh),Jaunpur APMC (Uttar Pradesh),0.39711002843922194
+C1-C3,Badayoun APMC (Uttar Pradesh),Basti APMC (Uttar Pradesh),0.07076486959316405
+C1-C7,Basti APMC (Uttar Pradesh),Buland Shahr APMC (Uttar Pradesh),0.4524055175481947
+C1-C7,Basti APMC (Uttar Pradesh),Sainthia APMC (West Bengal),0.28248567637308386
+C1-C7,Basti APMC (Uttar Pradesh),Purulia APMC (West Bengal),0.26393510531492487
+C1-C7,Basti APMC (Uttar Pradesh),Rampurhat APMC (West Bengal),0.15770105455384595
+C1-C3,Basti APMC (Uttar Pradesh),Fatehpur APMC (Uttar Pradesh),0.08527000507278136
+C1-C7,Basti APMC (Uttar Pradesh),Burdwan APMC (West Bengal),0.08491081264684634
+C2-C7,Buland Shahr APMC (Uttar Pradesh),Lakhimpur APMC (Uttar Pradesh),0.4695612444063575
+C2-C7,Buland Shahr APMC (Uttar Pradesh),Firozabad APMC (Uttar Pradesh),0.4494150881436042
+C2-C7,Buland Shahr APMC (Uttar Pradesh),Pilibhit APMC (Uttar Pradesh),0.44124400316477125
+C1-C7,Buland Shahr APMC (Uttar Pradesh),Jangipur APMC (West Bengal),0.43298757229279916
+C2-C7,Buland Shahr APMC (Uttar Pradesh),Gorakhpur APMC (Uttar Pradesh),0.42390248312707074
+C2-C7,Buland Shahr APMC (Uttar Pradesh),Haathras APMC (Uttar Pradesh),0.4164786158502397
+C6-C7,Buland Shahr APMC (Uttar Pradesh),Lucknow APMC (Uttar Pradesh),0.40837956710556644
+C1-C7,Buland Shahr APMC (Uttar Pradesh),Partaval APMC (Uttar Pradesh),0.36688605301261973
+C6-C7,Buland Shahr APMC (Uttar Pradesh),Gazipur APMC (Uttar Pradesh),0.3600827304920618
+C5-C7,Buland Shahr APMC (Uttar Pradesh),Kanpur(Grain) APMC (Uttar Pradesh),0.26697890327205903
+C5-C7,Buland Shahr APMC (Uttar Pradesh),Golagokarnath APMC (Uttar Pradesh),0.24806527756001742
+C5-C7,Buland Shahr APMC (Uttar Pradesh),Rasda APMC (Uttar Pradesh),0.2471333708081306
+C2-C7,Buland Shahr APMC (Uttar Pradesh),Etah APMC (Uttar Pradesh),0.03767007381022843
+C2-C7,Firozabad APMC (Uttar Pradesh),Pratapgarh APMC (Uttar Pradesh),0.42556870981515327
+C6-C7,Gazipur APMC (Uttar Pradesh),Mirzapur APMC (Uttar Pradesh),0.3503644119738874
+C2-C5,Golagokarnath APMC (Uttar Pradesh),Lakhimpur APMC (Uttar Pradesh),0.3065463961604885
+C2-C5,Kanpur(Grain) APMC (Uttar Pradesh),Lakhimpur APMC (Uttar Pradesh),0.24730714325401448
+C5-C6,Kanpur(Grain) APMC (Uttar Pradesh),Lucknow APMC (Uttar Pradesh),0.2173412535748566
+C2-C7,Lakhimpur APMC (Uttar Pradesh),Pratapgarh APMC (Uttar Pradesh),0.44749875744927936
+C2-C7,Lakhimpur APMC (Uttar Pradesh),Mirzapur APMC (Uttar Pradesh),0.4410229359917951
+C2-C6,Lakhimpur APMC (Uttar Pradesh),Lucknow APMC (Uttar Pradesh),0.3941958088701618
+C2-C5,Lakhimpur APMC (Uttar Pradesh),Mohammdi APMC (Uttar Pradesh),0.2810455831846414

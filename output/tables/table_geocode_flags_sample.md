@@ -1,0 +1,64 @@
+| mandi                                                  |   flagged_records |   max_km_from_canonical |   lat |   lon | method                                                  |
+|:-------------------------------------------------------|------------------:|------------------------:|------:|------:|:--------------------------------------------------------|
+| Maharashtra|Nandgaon APMC                              |               702 |                  258.14 | 20.31 | 74.66 | relocated to gazetteer: market name                     |
+| Maharashtra|Sangamner APMC                             |               701 |                   79.41 | 19.63 | 74.29 | variant confirmed by gazetteer: market name in district |
+| Maharashtra|SHRI.SIDDHESHWAR  APMC                     |               685 |                   69.65 | 17.67 | 75.91 | relocated to gazetteer: district seat                   |
+| Uttar Pradesh|Muradabad APMC                           |               667 |                  252.38 | 28.88 | 78.81 | variant confirmed by gazetteer: market name in district |
+| Uttar Pradesh|Sirsa APMC                               |               666 |                  825.21 | 25.47 | 81.85 | variant confirmed by gazetteer: market name             |
+| Maharashtra|Kopargaon APMC                             |               642 |                   92.29 | 19.88 | 74.48 | variant confirmed by gazetteer: market name in district |
+| Uttar Pradesh|Raibareilly APMC                         |               639 |                  306.21 | 26.25 | 81.25 | variant confirmed by gazetteer: market name in district |
+| Uttar Pradesh|Paliakala APMC                           |               631 |                  321.08 | 28.43 | 80.58 | relocated to gazetteer: market name                     |
+| Uttar Pradesh|Akbarpur APMC                            |               601 |                 1750.66 | 26.4  | 82.61 | variant confirmed by gazetteer: market name in district |
+| Uttar Pradesh|Pratapgarh APMC                          |               594 |                  744.37 | 25.75 | 81.75 | variant confirmed by gazetteer: market name in district |
+| Gujarat|Jetpur(Dist.Rajkot) APMC                       |               575 |                   64.36 | 21.75 | 70.62 | relocated to gazetteer: market name in district         |
+| Uttar Pradesh|Prayagraj APMC                           |               536 |                  448.27 | 25.28 | 81.9  | variant confirmed by gazetteer: market name in district |
+| Uttar Pradesh|Partaval APMC                            |               534 |                  245.78 | 27.14 | 83.54 | variant confirmed by gazetteer: district seat           |
+| Gujarat|Mahuva(Station Road) APMC                      |               427 |                  106.58 | 21.77 | 72.14 | variant confirmed by gazetteer: district seat           |
+| Uttar Pradesh|Ahirora APMC                             |               421 |                  215.87 | 24.93 | 82.63 | variant confirmed by gazetteer: district seat           |
+| Uttar Pradesh|Jangipura APMC                           |               421 |                  947.97 | 29.04 | 77.31 | dominant in-state variant (no gazetteer match)          |
+| Rajasthan|Pratapgarh APMC                              |               409 |                  744.37 | 24.02 | 74.62 | variant confirmed by gazetteer: market name in district |
+| Maharashtra|Junnar(Alephata) APMC                      |               392 |                   75.68 | 19.2  | 73.88 | variant confirmed by gazetteer: market name             |
+| Maharashtra|Karjat(Raigad) APMC                        |               386 |                   50.4  | 18.91 | 73.32 | variant confirmed by gazetteer: market name             |
+| Maharashtra|Shevgaon APMC                              |               359 |                  278.16 | 20.79 | 76.7  | relocated to gazetteer: market name                     |
+| West Bengal|Durgapur APMC                              |               353 |                   70.6  | 23.6  | 87.3  | variant confirmed by gazetteer: market name             |
+| Maharashtra|Solapur APMC                               |               353 |                   69.65 | 17.67 | 75.91 | relocated to gazetteer: market name in district         |
+| West Bengal|Asansol APMC                               |               346 |                   70.6  | 23.6  | 87.3  | variant confirmed by gazetteer: market name             |
+| Uttar Pradesh|Chandoli APMC                            |               338 |                  683.56 | 25.37 | 82.94 | variant confirmed by gazetteer: district seat           |
+| Chhattisgarh|Tiphra APMC                               |               321 |                 1151.62 | 22.16 | 82.14 | variant confirmed by gazetteer: district seat           |
+| West Bengal|Burdwan APMC                               |               301 |                   66.44 | 23.39 | 87.91 | dominant in-state variant (no gazetteer match)          |
+| Maharashtra|Junnar(Otur) APMC                          |               298 |                   76.56 | 19.21 | 73.88 | relocated to gazetteer: market name                     |
+| Uttar Pradesh|Bijnaur APMC                             |               297 |                   50.63 | 29.41 | 78.48 | variant confirmed by gazetteer: market name in district |
+| Rajasthan|Sriganganagar (F&V) APMC                     |               296 |                   58.32 | 29.92 | 73.88 | variant confirmed by gazetteer: market name in district |
+| Uttar Pradesh|Buland Shahr APMC                        |               286 |                  147.74 | 28.39 | 77.97 | variant confirmed by gazetteer: market name in district |
+| Uttar Pradesh|Devariya APMC                            |               282 |                  788.68 | 26.42 | 83.76 | variant confirmed by gazetteer: market name in district |
+| Gujarat|Dhoraji APMC                                   |               282 |                   75.37 | 21.72 | 70.44 | variant confirmed by gazetteer: market name in district |
+| Gujarat|Ahmedabad(Chimanbhai Patal Market Vasana) APMC |               278 |                  158.29 | 22.75 | 72.3  | variant confirmed by gazetteer: market name in district |
+| Maharashtra|Chattrapati Sambhajinagar APMC             |               275 |                  256.32 | 19.87 | 75.32 | variant confirmed by gazetteer: market name             |
+| Uttar Pradesh|Rasda APMC                               |               274 |                  332.96 | 25.88 | 84.12 | dominant in-state variant (no gazetteer match)          |
+| Maharashtra|Amrawati(Frui & Veg. Market) APMC          |               271 |                  577.12 | 21.15 | 77.64 | variant confirmed by gazetteer: market name             |
+| Gujarat|Anand(Veg,Yard,Anand) APMC                     |               270 |                 1180.47 | 22.47 | 72.74 | variant confirmed by gazetteer: market name in district |
+| Kerala|Palayam Market                                  |               265 |                  332.58 |  8.49 | 76.95 | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Junnar APMC                                |               246 |                   83.41 | 19.26 | 73.98 | variant confirmed by gazetteer: market name             |
+| Maharashtra|Pimpalgaon Baswant(Saykheda) APMC          |               231 |                  590.7  | 20.23 | 74.1  | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Rahata APMC                                |               221 |                   62.78 | 19.16 | 74.86 | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Devala APMC                                |               211 |                  539.73 | 20.23 | 74.1  | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Gangapur APMC                              |               206 |                 1083.3  | 19.87 | 75.32 | variant confirmed by gazetteer: market name             |
+| Maharashtra|Kalvan APMC                                |               204 |                  175.96 | 20.23 | 74.1  | variant confirmed by gazetteer: district seat           |
+| Karnataka|Raichur APMC                                 |               196 |                   50.25 | 16.21 | 77.34 | variant confirmed by gazetteer: market name in district |
+| Rajasthan|Kota (F&V) APMC                              |               187 |                  642.94 | 25.2  | 76    | variant confirmed by gazetteer: market name in district |
+| Bihar|Siwan APMC                                       |               182 |                 1009.46 | 26.13 | 84.39 | variant confirmed by gazetteer: market name in district |
+| Madhya Pradesh|Sagar(F&V) APMC                         |               178 |                 1273.11 | 23.81 | 78.76 | variant confirmed by gazetteer: market name in district |
+| Maharashtra|Nampur APMC                                |               144 |                   59.75 | 20.23 | 74.1  | variant confirmed by gazetteer: district seat           |
+| Andhra Pradesh|Kurnool APMC                            |               133 |                   61    | 15.55 | 77.55 | dominant in-state variant (no gazetteer match)          |
+| Uttar Pradesh|Mohammdi APMC                            |               127 |                   61.23 | 28.18 | 80.71 | dominant in-state variant (no gazetteer match)          |
+| Maharashtra|Shrirampur APMC                            |               127 |                   55.28 | 19.16 | 74.86 | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Umrane APMC                                |               121 |                  143.13 | 20.23 | 74.1  | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Pimpalgaon APMC                            |               116 |                  590.7  | 20.89 | 79.73 | dominant in-state variant (no gazetteer match)          |
+| Maharashtra|Akole APMC                                 |               114 |                   98.68 | 19.16 | 74.86 | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Pandharpur APMC                            |               108 |                   74.82 | 17.85 | 75.28 | variant confirmed by gazetteer: market name in district |
+| Maharashtra|Lasur Station APMC                         |               107 |                  228.95 | 19.87 | 75.32 | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Pathardi APMC                              |                97 |                  145.59 | 19.16 | 74.86 | variant confirmed by gazetteer: market name in district |
+| Madhya Pradesh|Ashta APMC                              |                88 |                  197.85 | 23.12 | 77.07 | variant confirmed by gazetteer: market name in district |
+| Maharashtra|Jamkhed APMC                               |                88 |                   75    | 19.16 | 74.86 | variant confirmed by gazetteer: district seat           |
+| Maharashtra|Paithan APMC                               |                81 |                 1083.3  | 19.87 | 75.32 | variant confirmed by gazetteer: market name             |
+| Madhya Pradesh|Gautampura APMC                         |                50 |                  138.87 | 22.71 | 75.81 | variant confirmed by gazetteer: market name in district |

@@ -1,0 +1,3436 @@
+lat,lon,name,admin1,admin2,cc
+34.9274,76.79336,Thang,Kashmir,,IN
+33.76969,74.09212,Punch,Kashmir,Punch,IN
+9.23183,78.78545,Keelakarai,Tamil Nadu,Ramanathapuram,IN
+25.96667,94.51667,Zunheboto,Nagaland,Zunheboto,IN
+27.59497,93.83854,Ziro,Arunachal Pradesh,Lower Subansiri,IN
+25.41961,83.55786,Zamania,Uttar Pradesh,Ghazipur,IN
+26.82963,81.32978,Zaidpur,Uttar Pradesh,Bara Banki,IN
+17.68138,77.60743,Zahirabad,Telangana,Medak,IN
+25.69844,82.73283,Zafarabad,Uttar Pradesh,Jaunpur,IN
+32.16667,76.2,Yol,Himachal Pradesh,Kangra,IN
+20.04262,74.48991,Yeola,Maharashtra,Nashik Division,IN
+14.96584,74.71034,Yellapur,Karnataka,Uttar Kannada,IN
+17.59064,80.32146,Yellandu,Telangana,Khammam,IN
+15.61545,76.01184,Yelbarga,Karnataka,Koppal,IN
+12.04659,77.02864,Yelandur,Karnataka,Chamrajnagar,IN
+13.10129,77.59626,Yelahanka,Karnataka,Bangalore Urban,IN
+20.39324,78.13201,Yavatmal,Maharashtra,Yavatmal,IN
+21.16753,75.69761,Yaval,Maharashtra,Jalgaon,IN
+17.65872,83.27419,Yarada,Andhra Pradesh,Vishakhapatnam,IN
+16.73308,82.21364,Yanam,Andhra Pradesh,East Godavari,IN
+30.12796,77.28371,Yamunanagar,Haryana,Yamunanagar,IN
+24.67792,94.04767,Yairipok,Manipur,Thoubal,IN
+16.77023,77.13754,Yadgir,Karnataka,Yadgir,IN
+26.09717,94.25817,Wokha,Nagaland,Wokha,IN
+27.0186,77.17636,Wer,Rajasthan,Bharatpur,IN
+11.36389,76.78525,Wellington,Tamil Nadu,Nilgiri,IN
+28.21109,79.05651,Wazirganj,Uttar Pradesh,Budaun,IN
+20.11152,77.13221,Washim,Maharashtra,Washim,IN
+21.47101,78.26965,Warud,Maharashtra,,IN
+20.23014,79.00161,Warora,Maharashtra,Chandrapur,IN
+25.0172,85.64047,Waris Aliganj,Bihar,Nawada,IN
+20.73807,78.59671,Wardha,Maharashtra,Wardha,IN
+21.76454,80.04631,Waraseoni,Madhya Pradesh,Balaghat,IN
+18.0,79.58333,Warangal,Telangana,Warangal,IN
+16.36738,78.06889,Wanparti,Telangana,Mahbubnagar,IN
+22.61198,70.94379,Wankaner,Gujarat,Rajkot,IN
+20.05555,78.95345,Wani,Maharashtra,Yavatmal,IN
+24.58921,94.06386,Wangjing,Manipur,Thoubal,IN
+12.9251,79.36626,Walajapet,Tamil Nadu,Vellore,IN
+12.79411,79.8214,Wallajahbad,Tamil Nadu,Kancheepuram,IN
+17.95276,73.89058,Wai,Maharashtra,Satara Division,IN
+20.77048,73.50074,Waghai,Gujarat,The Dangs,IN
+17.05206,76.99024,Wadi,Karnataka,Gulbarga,IN
+18.7392,73.63945,Wadgaon,Maharashtra,Pune Division,IN
+21.11079,73.39365,Vyara,Gujarat,Tapi,IN
+16.36188,80.84573,Vuyyuru,Andhra Pradesh,Krishna,IN
+27.57823,77.69806,Vrindavan,Uttar Pradesh,Mathura,IN
+11.51528,79.32186,Vriddhachalam,Tamil Nadu,Cuddalore,IN
+18.11692,83.41148,Vizianagaram,Andhra Pradesh,Vizianagaram District,IN
+17.27343,74.53792,Vite,Maharashtra,Sangli,IN
+23.69855,72.5521,Visnagar,Gujarat,Mahesana,IN
+17.68009,83.20161,Visakhapatnam,Andhra Pradesh,Vishakhapatnam,IN
+21.33954,70.74966,Visavadar,Gujarat,Junagadh,IN
+9.58509,77.95787,Virudunagar,Tamil Nadu,Virudhunagar,IN
+23.18933,73.4807,Virpur,Gujarat,Kheda,IN
+8.6961,77.51895,Viravanallur,Tamil Nadu,Tirunelveli Kattabo,IN
+12.19583,75.80355,Virarajendrapet,Karnataka,Kodagu,IN
+19.45591,72.81136,Virar,Maharashtra,Thane,IN
+11.47491,78.73725,Viraganur,Tamil Nadu,Salem,IN
+16.0518,79.74017,Vinukonda,Andhra Pradesh,Guntur,IN
+22.21027,71.37967,Vinchia,Gujarat,Rajkot,IN
+11.93975,79.49244,Villupuram,Tamil Nadu,Villupuram,IN
+9.13227,78.16635,Vilattikulam,Tamil Nadu,Thoothukkudi,IN
+12.03741,79.54449,Vikravandi,Tamil Nadu,Villupuram,IN
+17.3381,77.90441,Vikarabad,Telangana,Rangareddi,IN
+16.51928,80.63049,Vijayawada,Andhra Pradesh,Krishna,IN
+11.24423,77.5025,Vijayapuri,Tamil Nadu,Erode,IN
+23.5623,72.74848,Vijapur,Gujarat,Mahesana,IN
+23.52435,77.80972,Vidisha,Madhya Pradesh,Vidisha,IN
+8.7,76.73333,Vettur,Kerala,,IN
+12.10748,79.24488,Vettavalam,Tamil Nadu,Tiruvannamalai,IN
+10.56207,76.91305,Vettaikkaranpudur,Tamil Nadu,Coimbatore,IN
+15.78204,80.30665,Vetapalem,Andhra Pradesh,Prakasam,IN
+20.9077,70.36786,Veraval,Gujarat,Junagadh,IN
+17.77844,83.21577,Vepagunta,Andhra Pradesh,Vishakhapatnam,IN
+13.96065,79.58024,Venkatagiri,Andhra Pradesh,Nellore,IN
+15.86125,73.63182,Vengurla,Maharashtra,Sindhudurg,IN
+18.46523,78.86894,Vemalwada,Telangana,Karimnagar,IN
+11.10825,78.00113,Velur,Tamil Nadu,Namakkal,IN
+12.9184,79.13255,Vellore,Tamil Nadu,Vellore,IN
+22.69021,73.56299,Vejalpur,Gujarat,Panch Mahals,IN
+10.53054,77.9497,Vedasandur,Tamil Nadu,Dindigul,IN
+10.37208,79.85095,Vedaraniyam,Tamil Nadu,Nagapattinam,IN
+9.7,76.33333,Vayalar,Kerala,Alappuzha,IN
+10.16069,77.75883,Vattalkundu,Tamil Nadu,Dindigul,IN
+9.23921,77.41132,Vasudevanallur,Tamil Nadu,Tirunelveli Kattabo,IN
+19.40844,73.26285,Vasind,Maharashtra,Thane,IN
+15.39585,73.81568,Vasco Da Gama,Goa,South Goa,IN
+22.66079,72.75519,Vasa,Gujarat,Kheda,IN
+21.73947,72.06553,Vartej,Gujarat,Bhavnagar,IN
+8.7333,76.7167,Varkala,Kerala,Thiruvananthapuram,IN
+15.23237,73.94311,Varca,Goa,South Goa,IN
+21.01649,75.90991,Varangaon,Maharashtra,Jalgaon,IN
+25.31668,83.01041,Varanasi,Uttar Pradesh,Varanasi,IN
+20.75817,73.36389,Vansada,Gujarat,Navsari,IN
+12.68162,78.62014,Vaniyambadi,Tamil Nadu,Vellore,IN
+12.50429,79.60556,Vandavasi,Tamil Nadu,Tiruvannamalai,IN
+12.8924,80.08079,Vandalur,Tamil Nadu,Kancheepuram,IN
+20.61728,72.92843,Valsad,Gujarat,Valsad,IN
+15.53223,74.13697,Valpoy,Goa,North Goa,IN
+10.32691,76.95116,Valparai,Tamil Nadu,Coimbatore,IN
+10.71966,79.05924,Vallam,Tamil Nadu,Thanjavur,IN
+22.53333,72.9,Vallabh Vidyanagar,Gujarat,Anand,IN
+11.92094,79.58239,Valavanur,Tamil Nadu,Villupuram,IN
+11.9,75.36667,Valapattanam,Kerala,Kannur,IN
+10.89012,79.39322,Valangaiman,Tamil Nadu,Thiruvarur,IN
+21.88868,71.87935,Valabhipur,Gujarat,Bhavnagar,IN
+9.74713,76.39522,Vaikam,Kerala,Kottayam,IN
+19.92672,74.7275,Vaijapur,Maharashtra,Aurangabad Division,IN
+22.30505,73.40016,Vaghodia,Gujarat,Vadodara,IN
+22.29941,73.20812,Vadodara,Gujarat,Vadodara,IN
+23.78593,72.63893,Vadnagar,Gujarat,Mahesana,IN
+14.3097,79.80295,Vadlapudi,Andhra Pradesh,Nellore,IN
+10.08481,77.96113,Vadippatti,Tamil Nadu,Madurai,IN
+10.44026,78.09999,Vadamadurai,Tamil Nadu,Dindigul,IN
+8.38095,77.6132,Vadakku Valliyur,Tamil Nadu,Tirunelveli Kattabo,IN
+19.65347,73.14811,Vada,Maharashtra,Thane,IN
+11.16892,77.45431,Uttukkuli,Tamil Nadu,Tiruppur,IN
+12.61433,79.75748,Uttiramerur,Tamil Nadu,Kancheepuram,IN
+30.72986,78.44342,Uttarkashi,Uttarakhand,Uttarkashi,IN
+9.80701,77.32718,Uttamapalaiyam,Tamil Nadu,Theni,IN
+27.31929,82.41838,Utraula,Uttar Pradesh,Balrampur,IN
+21.23333,72.86667,Utran,Gujarat,Surat,IN
+9.96936,77.78621,Usilampatti,Tamil Nadu,Madurai,IN
+27.79817,79.23682,Usehat,Uttar Pradesh,Budaun,IN
+34.08711,74.04775,Uri,Kashmir,,IN
+14.9456,77.25928,Uravakonda,Andhra Pradesh,Anantapur,IN
+18.87813,72.93924,Uran,Maharashtra,Raigarh,IN
+11.26316,78.51326,Uppiliyapuram,Tamil Nadu,Tiruchchirappalli,IN
+21.74015,70.28256,Upleta,Gujarat,Rajkot,IN
+17.40577,78.55911,Uppal Kalan,Telangana,Rangareddi,IN
+26.54706,80.48781,Unnao,Uttar Pradesh,Unnao,IN
+23.80366,72.39101,Unjha,Gujarat,Mahesana,IN
+26.15316,75.21508,Uniyara Khurd,Rajasthan,Tonk,IN
+23.33794,75.55931,Unhel,Madhya Pradesh,Ujjain,IN
+31.46493,76.26914,Una,Himachal Pradesh,Una,IN
+20.82318,71.03795,Una,Gujarat,Junagadh,IN
+29.58479,77.2554,Un,Uttar Pradesh,Muzaffarnagar,IN
+23.88745,71.76975,Un,Gujarat,Banas Kantha,IN
+26.51056,78.93667,Umri,Madhya Pradesh,Bhind,IN
+22.69881,73.11561,Umreth,Gujarat,Anand,IN
+20.85409,79.3242,Umred,Maharashtra,Nagpur Division,IN
+21.84353,71.80305,Umrala,Gujarat,Bhavnagar,IN
+19.66529,82.20629,Umarkot,Chhattisgarh,,IN
+19.60144,77.68878,Umarkhed,Maharashtra,Yavatmal,IN
+23.52684,80.83745,Umaria,Madhya Pradesh,Umaria District,IN
+17.83841,76.62331,Umarga,Maharashtra,Osmanabad,IN
+12.8108,74.8629,Ullal,Karnataka,Dakshina Kannada,IN
+19.21667,73.15,Ulhasnagar,Maharashtra,Thane,IN
+21.97248,80.46942,Ukwa,Madhya Pradesh,Balaghat,IN
+29.51124,75.87823,Uklana,Haryana,Hisar,IN
+23.18239,75.77643,Ujjain,Madhya Pradesh,Ujjain,IN
+28.00203,79.00926,Ujhani,Uttar Pradesh,Budaun,IN
+26.79681,80.32093,Ugu,Uttar Pradesh,Unnao,IN
+10.58806,77.24779,Udumalaippettai,Tamil Nadu,Tiruppur,IN
+24.73355,75.97514,Udpura,Rajasthan,Kota,IN
+13.33467,74.74617,Udipi,Karnataka,Udupi,IN
+32.92431,75.13573,Udhampur,Kashmir,Udhampur,IN
+18.39258,77.11756,Udgir,Maharashtra,Latur,IN
+8.43048,78.02882,Udankudi,Tamil Nadu,Thoothukkudi,IN
+26.75367,92.10215,Udalguri,Assam,Udalguri,IN
+23.07434,78.51108,Udaipura,Madhya Pradesh,Raisen,IN
+27.72297,75.47178,Udaipur,Rajasthan,Jhunjhunun,IN
+24.57117,73.69183,Udaipur,Rajasthan,Udaipur,IN
+23.53333,91.48333,Udaipur,Tripura,South Tripura,IN
+20.12345,84.36906,Udaigiri,Odisha,Kandhamal,IN
+11.4134,76.69521,Ooty,Tamil Nadu,Nilgiri,IN
+29.46856,76.176,Uchana,Haryana,Jind,IN
+13.16374,76.66641,Turuvekere,Karnataka,Tumkur,IN
+11.14985,78.59888,Turaiyur,Tamil Nadu,Tiruchchirappalli,IN
+25.51421,90.20239,Tura,Meghalaya,West Garo Hills,IN
+17.35967,82.54616,Tuni,Andhra Pradesh,East Godavari,IN
+27.21384,78.23604,Tundla,Uttar Pradesh,Firozabad,IN
+21.38333,79.73333,Tumsar,Maharashtra,Bhandara,IN
+13.34149,77.101,Tumkur,Karnataka,Tumkur,IN
+27.5337,82.41653,Tulsipur,Uttar Pradesh,Balrampur,IN
+18.00804,76.07011,Tuljapur,Maharashtra,Osmanabad,IN
+26.31688,89.66549,Tufanganj,West Bengal,Koch Bihar,IN
+26.26704,94.82415,Tuensang,Nagaland,Tuensang District,IN
+33.86319,74.76524,Tsrar Sharif,Kashmir,Badgam,IN
+8.4855,76.94924,Thiruvananthapuram,Kerala,Thiruvananthapuram,IN
+19.93268,73.52907,Trimbak,Maharashtra,Nashik Division,IN
+10.51667,76.21667,Trichur,Kerala,Thrissur District,IN
+33.92769,75.11512,Tral,Kashmir,Pulwama,IN
+28.86993,75.9165,Tosham,Haryana,Bhiwani,IN
+25.45243,79.11271,Tori Fatehpur,Uttar Pradesh,Jhansi,IN
+23.90381,86.19792,Topchanchi,Jharkhand,Dhanbad,IN
+26.16638,75.78824,Tonk,Rajasthan,Tonk,IN
+9.74173,79.01774,Tondi,Tamil Nadu,Ramanathapuram,IN
+29.71332,75.90441,Tohana,Haryana,Fatehabad District,IN
+26.02401,75.48182,Todaraisingh,Rajasthan,Tonk,IN
+26.91667,76.81667,Todabhim,Rajasthan,Karauli,IN
+29.66824,77.32391,Titron,Uttar Pradesh,Saharanpur,IN
+20.28961,83.15233,Titlagarh,Odisha,Balangir,IN
+22.74252,88.37326,Titagarh,West Bengal,North 24 Parganas,IN
+26.6014,94.20386,Titabar,Assam,Jorhat,IN
+8.33249,77.86586,Tisaiyanvilai,Tamil Nadu,Tirunelveli Kattabo,IN
+13.15823,80.30181,Tiruvottiyur,Tamil Nadu,Thiruvallur,IN
+10.99857,79.45227,Thiruvidaimaruthur,Tamil Nadu,Thanjavur,IN
+12.66052,79.54308,Cheyyar,Tamil Nadu,Tiruvannamalai,IN
+12.22662,79.07461,Tiruvannamalai,Tamil Nadu,Tiruvannamalai,IN
+13.14376,79.90889,Tiruvallur,Tamil Nadu,Thiruvallur,IN
+9.3816,76.57489,Tiruvalla,Kerala,Pattanamtitta,IN
+13.17594,79.61637,Thiruthani,Tamil Nadu,Thiruvallur,IN
+9.48333,77.83333,Tiruttangal,Tamil Nadu,Virudhunagar,IN
+10.91607,75.91862,Tirur,Kerala,Malappuram,IN
+9.82556,78.25792,Tiruppuvanam,Tamil Nadu,Sivaganga,IN
+11.11541,77.35456,Tiruppur,Tamil Nadu,Tiruppur,IN
+9.88085,78.07252,Tirupparangunram,Tamil Nadu,Madurai,IN
+13.63551,79.41989,Tirupati,Andhra Pradesh,Chittoor,IN
+8.72518,77.68452,Tirunelveli,Tamil Nadu,Tirunelveli Kattabo,IN
+11.24025,79.83801,Tirumullaivasal,Tamil Nadu,Nagapattinam,IN
+13.68333,79.35,Tirumala,Andhra Pradesh,Chittoor,IN
+12.21227,76.90232,Tirumakudal Narsipur,Karnataka,Mysore,IN
+11.9662,79.20259,Tirukkoyilur,Tamil Nadu,Villupuram,IN
+10.84431,78.95647,Thirukattupalli,Tamil Nadu,Thanjavur,IN
+11.38016,77.89444,Tiruchengode,Tamil Nadu,Namakkal,IN
+10.8155,78.69651,Tiruchirappalli,Tamil Nadu,Tiruchchirappalli,IN
+8.49725,78.11906,Tiruchchendur,Tamil Nadu,Thoothukkudi,IN
+13.68835,75.24548,Tirthahalli,Karnataka,Shimoga,IN
+21.68522,79.71906,Tirodi,Madhya Pradesh,Balaghat,IN
+31.83364,76.50539,Tira Sujanpur,Himachal Pradesh,Hamirpur,IN
+13.2563,76.47768,Tiptur,Karnataka,Tumkur,IN
+27.48905,95.35992,Tinsukia,Assam,Tinsukia,IN
+13.11448,80.02713,Tinnanur,Tamil Nadu,Kancheepuram,IN
+25.61739,80.52718,Tindwari,Uttar Pradesh,Banda,IN
+12.234,79.65551,Tindivanam,Tamil Nadu,Villupuram,IN
+27.9614,79.73962,Tilhar,Uttar Pradesh,Shahjahanpur,IN
+29.2291,77.35479,Tikri,Uttar Pradesh,Baghpat,IN
+24.74327,78.83061,Tikamgarh,Madhya Pradesh,,IN
+26.94584,81.56544,Tikaitnagar,Uttar Pradesh,Bara Banki,IN
+27.93411,76.85541,Tijara,Rajasthan,Alwar,IN
+24.63881,93.99639,Thoubal,Manipur,Thoubal,IN
+10.77269,79.6368,Thiruvarur,Tamil Nadu,Thiruvarur,IN
+10.88405,79.10362,Thiruvaiyaru,Tamil Nadu,Thanjavur,IN
+31.12155,77.35838,Theog,Himachal Pradesh,Shimla,IN
+23.31667,92.75,Thenzawl,Mizoram,Aizawl,IN
+22.79831,73.21174,Thasra,Gujarat,Kheda,IN
+24.39597,71.62577,Tharad,Gujarat,Banas Kantha,IN
+10.41667,76.13333,Thanniyam,Kerala,Thrissur District,IN
+33.54228,74.38031,Thanna Mandi,Kashmir,Rajauri,IN
+10.78523,79.13909,Thanjavur,Tamil Nadu,Thanjavur,IN
+29.97323,76.83214,Thanesar,Haryana,Kurukshetra,IN
+19.19704,72.96355,Thane,Maharashtra,Thane,IN
+23.00868,74.57717,Thandla,Madhya Pradesh,Jhabua,IN
+29.58605,77.41811,Thana Bhawan,Uttar Pradesh,Muzaffarnagar,IN
+22.57422,71.19942,Than,Gujarat,Surendranagar,IN
+26.42742,88.13112,Thakurganj,Bihar,Kishanganj,IN
+29.19203,78.86145,Thakurdwara,Uttar Pradesh,Moradabad,IN
+27.91256,96.12882,Tezu,Arunachal Pradesh,Lohit District,IN
+26.63333,92.8,Tezpur,Assam,Sontipur,IN
+16.49379,75.04667,Terdal,Karnataka,Bagalkot,IN
+24.98209,81.64224,Teonthar,Madhya Pradesh,Rewa,IN
+8.96003,77.31525,Thenkasi,Tamil Nadu,Tirunelveli Kattabo,IN
+10.01531,77.482,Teni,Tamil Nadu,Theni,IN
+23.39598,79.53912,Tendukheda,Madhya Pradesh,Damoh,IN
+11.74776,75.49338,Thalassery,Kerala,Kannur,IN
+21.02694,76.83889,Telhara,Maharashtra,Akola,IN
+18.6057,84.23546,Tekkali,Andhra Pradesh,Srikakulam,IN
+15.53467,76.87561,Tekkalakote,Karnataka,Bellary,IN
+24.94216,84.843,Tekari,Bihar,Gaya,IN
+25.99401,78.28322,Tekanpur,Madhya Pradesh,Gwalior,IN
+30.39086,78.4803,Tehri,Uttarakhand,Tehri-Garhwal,IN
+25.49109,85.94166,Teghra,Bihar,Begusarai,IN
+27.57417,91.92437,Tawang,Arunachal Pradesh,Tawang,IN
+11.12337,78.44972,Tattayyangarpettai,Tamil Nadu,Tiruchchirappalli,IN
+17.037,74.60171,Tasgaon,Maharashtra,Sangli,IN
+31.45112,74.92538,Tarn Taran,Punjab,Tarn Taran,IN
+13.70954,75.81382,Tarikere,Karnataka,Chikmagalur,IN
+19.86499,72.68426,Tarapur,Maharashtra,Thane,IN
+11.02764,79.85425,Tharangambadi,Tamil Nadu,Nagapattinam,IN
+28.6686,75.03207,Taranagar,Rajasthan,Churu,IN
+23.33508,76.04156,Tarana,Madhya Pradesh,Ujjain,IN
+11.7,77.98333,Taramangalam,Tamil Nadu,Salem,IN
+22.88605,88.01363,Tarakeswar,West Bengal,Hugli,IN
+20.73252,83.67443,Tarabha,Odisha,Subarnapur,IN
+28.21173,76.94984,Taoru,Haryana,Mewat,IN
+16.75319,81.68457,Tanuku,Andhra Pradesh,West Godavari,IN
+22.65622,70.74945,Tankara,Gujarat,Rajkot,IN
+17.24849,77.57698,Tandur,Telangana,Rangareddi,IN
+28.97474,78.94243,Tanda,Uttar Pradesh,Rampur,IN
+26.55063,82.65802,Tanda,Uttar Pradesh,Ambedkar Nagar,IN
+29.06925,80.1126,Tanakpur,Uttarakhand,Udham Singh Nagar,IN
+22.30083,87.92593,Tamluk,West Bengal,Purba Medinipur,IN
+31.9498,75.86645,Talwara,Punjab,Hoshiarpur,IN
+30.85584,74.92979,Talwandi Bhai,Punjab,Ferozepur,IN
+21.5606,74.21258,Taloda,Maharashtra,Nandurbar,IN
+12.03454,75.36161,Taliparamba,Kerala,Kannur,IN
+16.47631,76.31087,Talikota,Karnataka,Bijapur,IN
+27.05,79.65,Talgram,Uttar Pradesh,Kannauj,IN
+23.56903,76.72832,Talen,Madhya Pradesh,Rajgarh,IN
+15.46915,73.83285,Taleigao,Goa,North Goa,IN
+18.73502,73.67561,Talegaon Dabhade,Maharashtra,Pune Division,IN
+20.94927,85.23354,Talcher,Odisha,Angul District,IN
+25.04222,78.43364,Talbahat,Madhya Pradesh,,IN
+21.3527,72.03524,Talaja,Gujarat,Bhavnagar,IN
+23.71979,75.38514,Tal,Madhya Pradesh,Ratlam,IN
+22.58867,88.93253,Taki,West Bengal,North 24 Parganas,IN
+22.12879,81.86974,Takhatpur,Chhattisgarh,Bilaspur,IN
+25.32269,73.00322,Takhatgarh,Rajasthan,Pali,IN
+29.16349,78.48403,Tajpur,Uttar Pradesh,Bijnor,IN
+14.90813,78.01108,Tadpatri,Andhra Pradesh,Anantapur,IN
+16.81304,81.52874,Tadepallegudem,Andhra Pradesh,West Godavari,IN
+16.48333,80.6,Tadepalle,Andhra Pradesh,Guntur,IN
+10.95749,79.32776,Swamimalai,Tamil Nadu,Thanjavur,IN
+23.94667,76.08825,Susner,Madhya Pradesh,Shajapur,IN
+17.14054,79.62045,Suriapet,Telangana,Nalgonda,IN
+25.46333,82.42058,Surianwan,Uttar Pradesh,Sant Ravi Das Nagar,IN
+20.55956,73.63747,Surgana,Maharashtra,Nashik Division,IN
+22.72706,71.64856,Surendranagar,Gujarat,Surendranagar,IN
+29.3215,73.89979,Suratgarh,Rajasthan,Ganganagar,IN
+21.19594,72.83023,Surat,Gujarat,Surat,IN
+8.97574,77.41923,Surandai,Tamil Nadu,Tirunelveli Kattabo,IN
+28.31005,75.73271,Surajgarh,Rajasthan,Jhunjhunun,IN
+26.11503,86.59527,Supaul,Bihar,Supaul,IN
+12.45594,75.8297,Suntikoppa,Karnataka,Kodagu,IN
+24.37065,75.95708,Sunel,Rajasthan,Jhalawar,IN
+31.53276,76.90594,Sundarnagar,Himachal Pradesh,Mandi,IN
+22.11667,84.03333,Sundargarh,Odisha,Sundargarh,IN
+30.1297,75.80715,Sunam,Punjab,Sangrur,IN
+34.23024,74.64828,Sumbal,Kashmir,Baramula,IN
+12.56458,75.39085,Sulya,Karnataka,Dakshina Kannada,IN
+13.7,80.01667,Suluru,Andhra Pradesh,Nellore,IN
+11.02427,77.12565,Sulur,Tamil Nadu,Coimbatore,IN
+31.21448,75.19563,Sultanpur Lodhi,Punjab,Kapurthala,IN
+29.75534,78.11034,Sultanpur,Uttarakhand,Haridwar,IN
+26.25996,82.07314,Sultanpur,Uttar Pradesh,Sultanpur,IN
+23.13664,77.93475,Sultanpur,Madhya Pradesh,Raisen,IN
+24.64933,76.04423,Suket,Rajasthan,Kota,IN
+27.7,74.46667,Sujangarh,Rajasthan,Churu,IN
+8.1531,77.46596,Suchindram,Tamil Nadu,Kanniyakumari,IN
+29.02668,79.0576,Suar,Uttar Pradesh,Rampur,IN
+9.51272,77.63369,Srivilliputhur,Tamil Nadu,Virudhunagar,IN
+18.04592,73.01552,Srivardhan,Maharashtra,Raigarh,IN
+8.62931,77.91281,Srivaikuntam,Tamil Nadu,Thoothukkudi,IN
+16.07277,78.8692,Srisailam,Andhra Pradesh,Kurnool,IN
+17.26652,78.25544,Sriramnagar,Telangana,Rangareddi,IN
+12.96763,79.94197,Sriperumbudur,Tamil Nadu,Kancheepuram,IN
+13.33933,78.2119,Srinivaspur,Karnataka,Kolar,IN
+13.41698,75.25271,Sringeri,Karnataka,Chikmagalur,IN
+34.08842,74.80298,Srinagar,Kashmir,Srinagar,IN
+30.22243,78.78341,Srinagar,Uttarakhand,Garhwal,IN
+11.40103,79.40403,Srimushnam,Tamil Nadu,Cuddalore,IN
+27.46599,75.59736,Sri Madhopur,Rajasthan,Sikar,IN
+29.84042,73.45519,Karanpur,Rajasthan,Ganganagar,IN
+18.29692,83.89732,Srikakulam,Andhra Pradesh,Srikakulam,IN
+28.09617,74.00868,Sri Dungargarh,Rajasthan,Bikaner,IN
+20.59611,75.61781,Soygaon,Maharashtra,Aurangabad Division,IN
+27.89012,78.7467,Soron,Uttar Pradesh,Kanshiram Nagar,IN
+21.27851,86.68833,Soro,Odisha,Baleshwar,IN
+26.48612,90.8859,Sorbhog,Assam,Barpeta,IN
+19.76082,84.42997,Sorada,Odisha,Ganjam,IN
+14.38144,75.09183,Sorab,Karnataka,Shimoga,IN
+34.28787,74.47219,Sopur,Kashmir,Baramula,IN
+28.99587,77.01165,Sonipat,Haryana,Sonipat,IN
+21.16966,73.56357,Songadh,Gujarat,Tapi,IN
+20.83333,83.91667,Sonepur,Odisha,Subarnapur,IN
+20.62915,78.69207,Sonegaon,Maharashtra,Wardha,IN
+27.02462,95.01629,Sonari,Assam,Sibsagar,IN
+23.47547,91.2659,Sonamura,Tripura,West Tripura,IN
+23.30521,87.41336,Sonamukhi,West Bengal,Bankura,IN
+12.59479,75.84833,Somvarpet,Karnataka,Kodagu,IN
+18.94419,84.58449,Sompeta,Andhra Pradesh,Srikakulam,IN
+13.49112,75.06646,Someshwar,Karnataka,Udupi,IN
+15.61521,73.7674,Solim,Goa,North Goa,IN
+30.90908,77.10869,Solan,Himachal Pradesh,Solan,IN
+22.53884,72.71984,Sojitra,Gujarat,Anand,IN
+25.92493,73.66633,Sojat,Rajasthan,Pali,IN
+28.24737,77.06544,Sohna,Haryana,Gurgaon,IN
+22.70055,78.19522,Sohagpur,Madhya Pradesh,Hoshangabad,IN
+24.98225,81.69688,Sohagi,Madhya Pradesh,Rewa,IN
+22.70428,88.39166,Sodpur,West Bengal,North 24 Parganas,IN
+26.16806,91.57111,Soalkuchi,Assam,Kamrup,IN
+25.65154,72.42243,Siwana,Rajasthan,Barmer,IN
+26.22152,84.35879,Siwan,Bihar,Siwan,IN
+9.44999,77.79797,Sivakasi,Tamil Nadu,Virudhunagar,IN
+11.1194,77.78788,Sivagiri,Tamil Nadu,Erode,IN
+9.34461,77.42911,Sivagiri,Tamil Nadu,Tirunelveli Kattabo,IN
+9.84701,78.48358,Sivaganga,Tamil Nadu,Sivaganga,IN
+23.90806,87.52773,Siuri,West Bengal,Birbhum,IN
+28.93214,79.70452,Sitarganj,Uttarakhand,Udham Singh Nagar,IN
+27.56192,80.68265,Sitapur,Uttar Pradesh,Sitapur,IN
+24.01473,75.35324,Sitamau,Madhya Pradesh,Mandsaur,IN
+26.59357,85.4906,Sitamarhi,Bihar,Sitamarhi,IN
+27.14652,83.75803,Siswa Bazar,Uttar Pradesh,Maharajganj,IN
+29.41386,77.4689,Sisauli,Uttar Pradesh,Muzaffarnagar,IN
+18.8276,74.37475,Sirur,Maharashtra,Pune Division,IN
+11.32137,77.00521,Sirumugai,Tamil Nadu,Coimbatore,IN
+15.63138,76.89271,Siruguppa,Karnataka,Bellary,IN
+18.38865,78.81048,Sirsilla,Telangana,Karimnagar,IN
+28.63933,78.64152,Sirsi,Uttar Pradesh,Moradabad,IN
+14.61687,74.83087,Sirsi,Karnataka,Uttar Kannada,IN
+27.05745,78.68665,Sirsaganj,Uttar Pradesh,Firozabad,IN
+29.53489,75.02898,Sirsa,Haryana,Sirsa,IN
+25.26177,82.09143,Sirsa,Uttar Pradesh,Allahabad,IN
+19.47953,79.57558,Sirpur,Telangana,Adilabad,IN
+24.1038,77.68959,Sironj,Madhya Pradesh,Vidisha,IN
+24.88838,72.84794,Sirohi,Rajasthan,Sirohi,IN
+24.83539,81.36605,Sirmaur,Madhya Pradesh,Rewa,IN
+11.23725,79.73585,Sirkazhi,Tamil Nadu,Nagapattinam,IN
+30.64332,76.38489,Sirhind,Punjab,Fatehgarh Sahib,IN
+25.64362,81.31884,Sirathu,Uttar Pradesh,Kaushambi District,IN
+13.74155,76.9043,Sira,Karnataka,Tumkur,IN
+21.91117,73.33974,Sinor,Gujarat,Vadodara,IN
+19.84505,73.99866,Sinnar,Maharashtra,Nashik Division,IN
+22.79193,85.9485,Sini,Jharkhand,Saraikela,IN
+22.80917,88.22944,Singur,West Bengal,Hugli,IN
+27.23275,88.4999,Singtam,Sikkim,East District,IN
+24.96667,75.3,Singoli,Madhya Pradesh,Neemuch,IN
+15.23094,80.02802,Singarayakonda,Andhra Pradesh,Prakasam,IN
+12.75947,80.0075,Singapperumalkovil,Tamil Nadu,Kancheepuram,IN
+10.99816,77.03375,Singanallur,Tamil Nadu,Coimbatore,IN
+20.80544,78.88768,Sindi,Maharashtra,Wardha,IN
+15.76983,76.75581,Sindhnur,Karnataka,Raichur,IN
+16.91845,76.23336,Sindgi,Karnataka,Bijapur,IN
+31.10442,77.16662,Shimla,Himachal Pradesh,Shimla,IN
+21.63333,81.7,Simga,Chhattisgarh,Raipur,IN
+22.61523,84.50208,Simdega,Jharkhand,Simdega,IN
+24.79532,81.15153,Simaria,Madhya Pradesh,Rewa,IN
+20.27386,72.99673,Silvassa,Dadra and Nagar Haveli,Dadra & Nagar Haveli,IN
+20.30303,75.65284,Sillod,Maharashtra,Aurangabad Division,IN
+24.82733,92.79787,Silchar,Assam,Cachar,IN
+25.08317,85.42782,Silao,Bihar,Nalanda,IN
+27.61206,75.13996,Sikar,Rajasthan,Sikar,IN
+27.68806,78.38114,Sikandra Rao,Uttar Pradesh,Mahamaya Nagar,IN
+26.3668,79.63042,Sikandra,Uttar Pradesh,Kanpur Dehat,IN
+26.04306,84.05426,Sikandarpur,Uttar Pradesh,Ballia,IN
+28.45341,77.69807,Sikandarabad,Uttar Pradesh,Bulandshahr,IN
+22.43218,69.84158,Sikka,Gujarat,Jamnagar,IN
+23.77617,86.33028,Sijua,Jharkhand,Dhanbad,IN
+23.48871,80.10348,Sihora,Madhya Pradesh,Jabalpur,IN
+21.71134,71.96179,Sihor,Gujarat,Bhavnagar,IN
+13.39141,77.86488,Sidlaghatta,Karnataka,Chikkaballapur,IN
+27.63313,78.86922,Sidhpura,Uttar Pradesh,Kanshiram Nagar,IN
+24.39329,81.87935,Sidhi,Madhya Pradesh,Sidhi,IN
+27.26761,80.81029,Sidhauli,Uttar Pradesh,Sitapur,IN
+18.10483,78.84858,Siddipet,Telangana,Medak,IN
+23.91783,72.37212,Siddhapur,Gujarat,Patan,IN
+14.33333,74.88333,Siddapur,Karnataka,Uttar Kannada,IN
+26.98427,94.63784,Sibsagar,Assam,Sibsagar,IN
+22.83333,88.36667,Shyamnagar,West Bengal,Hugli,IN
+33.71723,74.83413,Shupiyan,Kashmir,Shupiyan,IN
+23.40659,76.70951,Shujalpur,Madhya Pradesh,Shajapur,IN
+12.42264,76.68439,Shrirangapattana,Karnataka,Mandya,IN
+22.75278,88.34222,Shrirampur,West Bengal,Hugli,IN
+18.61527,74.69895,Shrigonda,Maharashtra,Ahmadnagar,IN
+12.85746,76.48995,Shravanabelagola,Karnataka,Hassan,IN
+16.521,76.75738,Shorapur,Karnataka,Yadgir,IN
+10.76097,76.27001,Shoranur,Kerala,Palakkad district,IN
+13.1181,79.42025,Sholinghur,Tamil Nadu,Vellore,IN
+17.67152,75.91044,Solapur,Maharashtra,Solapur,IN
+22.42319,73.60865,Shivrajpur,Gujarat,Panch Mahals,IN
+25.42348,77.66067,Shivpuri,Madhya Pradesh,Shivpuri,IN
+28.73178,79.3139,Shishgarh,Uttar Pradesh,Rampur,IN
+18.15059,73.97788,Shirwal,Maharashtra,Satara Division,IN
+21.35161,74.88037,Shirpur,Maharashtra,Dhule,IN
+15.23352,75.57996,Shirhatti,Karnataka,Gadag,IN
+19.69589,72.71527,Shirgaon,Maharashtra,Thane,IN
+19.76616,74.47738,Shirdi,Maharashtra,Ahmadnagar,IN
+13.93157,75.56791,Shimoga,Karnataka,Shimoga,IN
+25.56892,91.88313,Shillong,Meghalaya,East Khasi Hills,IN
+26.71004,88.42851,Shiliguri,West Bengal,Darjiling,IN
+27.10813,78.58675,Shikohabad,Uttar Pradesh,Firozabad,IN
+28.28177,78.01111,Shikarpur,Uttar Pradesh,Bulandshahr,IN
+14.2698,75.35643,Shikarpur,Karnataka,Shimoga,IN
+14.99053,75.22499,Shiggaon,Karnataka,Haveri,IN
+9.68428,76.35337,Shertallai,Kerala,Alappuzha,IN
+29.32627,78.57448,Sherkot,Uttar Pradesh,Bijnor,IN
+24.55971,84.79344,Sherghati,Bihar,Gaya,IN
+28.65107,79.36693,Shergarh,Uttar Pradesh,Bareilly,IN
+25.66677,76.69612,Sheopur,Madhya Pradesh,Sheopur,IN
+26.51393,85.29341,Sheohar,Bihar,Sheohar,IN
+25.13915,73.06784,Sheoganj,Rajasthan,Sirohi,IN
+20.7932,76.69921,Shegaon,Maharashtra,Buldana,IN
+23.24723,88.43302,Shantipur,West Bengal,Nadia,IN
+25.17978,81.61709,Shankargarh,Madhya Pradesh,,IN
+27.53733,79.43622,Shamsabad,Uttar Pradesh,Farrukhabad,IN
+27.01628,78.12348,Shamsabad,Uttar Pradesh,Agra,IN
+29.4497,77.30959,Shamli,Uttar Pradesh,Muzaffarnagar,IN
+24.18817,75.63903,Shamgarh,Madhya Pradesh,Mandsaur,IN
+31.50019,75.74863,Sham Churasi,Punjab,Hoshiarpur,IN
+23.42688,76.27772,Shajapur,Madhya Pradesh,Shajapur,IN
+25.14067,85.84332,Shaikhpura,Bihar,Sheikhpura,IN
+27.3912,75.95956,Shahpura,Rajasthan,Jaipur,IN
+25.62094,74.92487,Shahpura,Rajasthan,Bhilwara,IN
+23.13663,79.66402,Shahpura,Madhya Pradesh,Jabalpur,IN
+29.35014,77.55062,Shahpur,Uttar Pradesh,Muzaffarnagar,IN
+25.60213,84.40412,Shahpur,Bihar,Bhojpur,IN
+23.89393,79.05091,Shahpur,Madhya Pradesh,Sagar,IN
+23.02446,81.0038,Shahpur,Madhya Pradesh,Dindori,IN
+22.1951,77.90777,Shahpur,Madhya Pradesh,Betul,IN
+22.15611,70.77068,Shahpur,Gujarat,Rajkot,IN
+21.2372,76.22562,Shahpur,Madhya Pradesh,Burhanpur,IN
+16.70057,76.84136,Shahpur,Karnataka,Yadgir,IN
+31.08173,75.33708,Shahkot,Punjab,Jalandhar,IN
+27.88142,79.9109,Shahjahanpur,Uttar Pradesh,Shahjahanpur,IN
+28.54946,79.3169,Shahi,Uttar Pradesh,Bareilly,IN
+24.33181,79.08195,Shahgarh,Madhya Pradesh,Sagar,IN
+26.05263,82.68134,Shahganj,Uttar Pradesh,Jaunpur,IN
+23.29356,81.3619,Shahdol,Madhya Pradesh,Shahdol,IN
+19.45231,73.32572,Shahapur,Maharashtra,Thane,IN
+21.54537,74.47132,Shahada,Maharashtra,Nandurbar,IN
+30.16794,76.86977,Shahabad,Haryana,Kurukshetra,IN
+28.56681,79.00956,Shahabad,Uttar Pradesh,Rampur,IN
+27.64327,79.93908,Shahabad,Uttar Pradesh,Hardoi,IN
+17.1307,76.94361,Shahabad,Karnataka,Gulbarga,IN
+15.54774,73.84329,Serula,Goa,North Goa,IN
+23.29312,92.84679,Serchhip,Mizoram,Serchhip,IN
+17.17859,77.28998,Seram,Karnataka,Gulbarga,IN
+21.72146,82.58988,Seorinarayan,Chhattisgarh,Janjgir-Champa,IN
+22.45,77.46667,Seoni Malwa,Madhya Pradesh,Hoshangabad,IN
+31.243,77.12221,Seoni,Himachal Pradesh,Shimla,IN
+22.08664,79.55043,Seoni,Madhya Pradesh,Seoni,IN
+26.15422,78.7812,Seondha,Madhya Pradesh,Datia,IN
+29.2088,78.58695,Seohara,Uttar Pradesh,Bijnor,IN
+21.68586,75.0975,Sendhwa,Madhya Pradesh,Barwani,IN
+23.2,77.08333,Sehore,Madhya Pradesh,Sehore,IN
+17.50427,78.54263,Secunderabad,Telangana,Rangareddi,IN
+22.54925,71.48324,Sayla,Gujarat,Surendranagar,IN
+9.16931,78.44708,Sayalkudi,Tamil Nadu,Ramanathapuram,IN
+26.02301,76.34408,Sawai Madhopur,Rajasthan,Sawai Madhopur,IN
+21.15035,75.88898,Savda,Maharashtra,Jalgaon,IN
+14.97335,75.33724,Savanur,Karnataka,Haveri,IN
+15.90413,73.82191,Savantvadi,Maharashtra,Sindhudurg,IN
+21.65576,78.79669,Sausar,Madhya Pradesh,Chhindwara,IN
+27.02965,79.48785,Saurikh,Uttar Pradesh,Kannauj,IN
+15.76615,75.11778,Saundatti,Karnataka,Belgaum,IN
+11.50526,77.23826,Sathyamangalam,Tamil Nadu,Erode,IN
+22.53619,76.68375,Satwas,Madhya Pradesh,Dewas,IN
+9.35592,77.92457,Sattur,Tamil Nadu,Virudhunagar,IN
+16.39395,80.15135,Sattenapalle,Andhra Pradesh,Guntur,IN
+8.44164,77.91349,Sathankulam,Tamil Nadu,Thoothukkudi,IN
+26.86033,81.19538,Satrikh,Uttar Pradesh,Bara Banki,IN
+24.58225,80.8248,Satna,Madhya Pradesh,Satna,IN
+17.68589,73.99333,Satara,Maharashtra,Satara Division,IN
+20.59375,74.20337,Satana,Maharashtra,Nashik Division,IN
+18.34351,74.03102,Sasvad,Maharashtra,Pune Division,IN
+27.7038,78.08228,Sasni,Uttar Pradesh,Mahamaya Nagar,IN
+26.06272,75.01104,Sarwar,Rajasthan,Ajmer,IN
+23.81609,86.01041,Sarubera,Jharkhand,Bokaro,IN
+22.98297,72.50196,Sarkhej,Gujarat,Ahmadabad,IN
+31.69887,76.73529,Sarka Ghat,Himachal Pradesh,Mandi,IN
+25.77579,79.67535,Sarila,Uttar Pradesh,Hamirpur,IN
+11.98333,76.41667,Sargur,Karnataka,Mysore,IN
+29.69224,75.23608,Sardulgarh,Punjab,Mansa,IN
+29.14551,77.61433,Sardhana,Uttar Pradesh,Meerut,IN
+28.44062,74.491,Sardarshahr,Rajasthan,Churu,IN
+28.4929,79.0914,Sarauli,Uttar Pradesh,Rampur,IN
+23.56645,76.47194,Sarangpur,Madhya Pradesh,Rajgarh,IN
+21.58548,83.07958,Sarangarh,Chhattisgarh,Raigarh,IN
+21.31506,83.00548,Saraipali,Chhattisgarh,Mahasamund,IN
+26.02796,82.91795,Sarai Mir,Uttar Pradesh,Azamgarh,IN
+22.69904,85.93154,Saraikela,Jharkhand,Saraikela,IN
+26.74478,79.09302,Sarai Ekdil,Uttar Pradesh,Etawah,IN
+25.37841,81.5113,Sarai Akil,Uttar Pradesh,Kaushambi District,IN
+31.50988,77.79395,Sarahan,Himachal Pradesh,Shimla,IN
+26.33732,90.1236,Sapatgram,Assam,Dhuburi,IN
+21.38586,78.92087,Saoner,Maharashtra,Nagpur Division,IN
+22.9759,75.82761,Sanwer,Madhya Pradesh,Indore,IN
+15.26269,74.11965,Sanvordem,Goa,South Goa,IN
+22.52038,88.26973,Santoshpur,West Bengal,South 24 Paraganas,IN
+31.35205,76.31775,Santokhgarh,Himachal Pradesh,Una,IN
+15.56425,74.00697,Sanquelim,Goa,North Goa,IN
+22.54997,88.22515,Sankrail,West Bengal,Haora,IN
+22.17021,73.5782,Sankheda,Gujarat,Vadodara,IN
+16.25649,74.48195,Sankeshwar,Karnataka,Belgaum,IN
+12.72811,75.8899,Sanivarsante,Karnataka,Kodagu,IN
+15.22901,74.15149,Sanguem,Goa,South Goa,IN
+30.24608,75.84686,Sangrur,Punjab,Sangrur,IN
+17.43948,75.19379,Sangola,Maharashtra,Solapur,IN
+24.92707,76.28649,Sangod,Rajasthan,Kota,IN
+16.85438,74.56417,Sangli,Maharashtra,Sangli,IN
+29.79601,74.4628,Sangaria,Haryana,,IN
+17.62477,78.08669,Sangareddi,Telangana,Medak,IN
+19.56784,74.21154,Sangamner,Maharashtra,Ahmadnagar,IN
+15.08613,76.54692,Sandur,Karnataka,Bellary,IN
+27.07042,80.5146,Sandila,Uttar Pradesh,Hardoi,IN
+27.2884,79.95204,Sandi,Uttar Pradesh,Hardoi,IN
+15.37794,73.90352,Sancoale,Goa,South Goa,IN
+24.75361,71.7728,Sanchor,Rajasthan,Jalore,IN
+23.48646,77.7378,Sanchi,Madhya Pradesh,Raisen,IN
+22.17146,76.07072,Sanawad,Madhya Pradesh,Khargone,IN
+30.30145,76.457,Sanaur,Punjab,Patiala,IN
+22.99227,72.38177,Sanand,Gujarat,Ahmadabad,IN
+25.84331,78.90582,Samthar,Madhya Pradesh,,IN
+30.83642,76.19262,Samrala,Punjab,Ludhiana,IN
+25.81299,72.57879,Samdari,Rajasthan,Barmer,IN
+26.90806,75.19137,Sambhar,Rajasthan,Jaipur,IN
+28.58323,78.56689,Sambhal,Uttar Pradesh,Moradabad,IN
+21.45,83.96667,Sambalpur,Odisha,Sambalpur,IN
+32.56113,75.12493,Samba,Kashmir,Samba,IN
+25.86077,85.78971,Samastipur,Bihar,Samastipur,IN
+17.05359,82.17216,Samalkot,Andhra Pradesh,East Godavari,IN
+29.23578,77.0138,Samalkha,Haryana,Panipat,IN
+18.51652,83.20515,Salur,Andhra Pradesh,Vizianagaram District,IN
+24.13524,74.04442,Salumbar,Rajasthan,Udaipur,IN
+26.02752,81.45488,Salon,Uttar Pradesh,Rae Bareli,IN
+15.55359,73.79036,Saligao,Goa,North Goa,IN
+11.65117,78.15867,Salem,Tamil Nadu,Salem,IN
+22.31038,69.60376,Salaya,Gujarat,Jamnagar,IN
+22.0271,82.96108,Sakti,Chhattisgarh,Janjgir-Champa,IN
+12.94005,75.78388,Sakleshpur,Karnataka,Hassan,IN
+27.43529,78.77925,Sakit,Uttar Pradesh,Etah,IN
+23.97187,92.57454,Saitlaw,Mizoram,Mamit,IN
+23.81034,92.65226,Sairang,Mizoram,Aizawl,IN
+13.00334,80.19614,Saint Thomas Mount,Tamil Nadu,Kancheepuram,IN
+23.94826,87.68045,Sainthia,West Bengal,Birbhum,IN
+19.45513,76.43946,Sailu,Maharashtra,Parbhani,IN
+23.46219,74.92318,Sailana,Madhya Pradesh,Ratlam,IN
+22.49183,92.98143,Saiha,Mizoram,Saiha,IN
+28.611,77.90883,Saidpur,Uttar Pradesh,Bulandshahr,IN
+25.53834,83.22122,Saidpur,Uttar Pradesh,Ghazipur,IN
+25.24237,87.64908,Sahibganj,Jharkhand,Sahibganj,IN
+27.79593,78.83357,Sahawar,Uttar Pradesh,Kanshiram Nagar,IN
+28.07245,78.7493,Sahaswan,Uttar Pradesh,Budaun,IN
+29.12067,78.62148,Sahaspur,Uttar Pradesh,Bijnor,IN
+25.88505,86.59471,Saharsa,Bihar,Saharsa,IN
+29.9679,77.54522,Saharanpur,Uttar Pradesh,Saharanpur,IN
+26.77137,84.74197,Sagauli,Bihar,Purba Champaran,IN
+23.84251,78.74386,Sagar,Madhya Pradesh,Sagar,IN
+14.16498,75.02901,Sagar,Karnataka,Shimoga,IN
+26.73783,80.3435,Safipur,Uttar Pradesh,Unnao,IN
+29.40596,76.67042,Safidon,Haryana,Jind,IN
+25.18625,73.45286,Sadri,Rajasthan,Pali,IN
+25.67266,83.30397,Sadat,Uttar Pradesh,Ghazipur,IN
+17.61925,77.95263,Sadaseopet,Telangana,Medak,IN
+16.5587,74.53211,Sadalgi,Karnataka,Belgaum,IN
+27.43978,78.03667,Sadabad,Uttar Pradesh,Mahamaya Nagar,IN
+21.08718,72.88153,Sachin,Gujarat,Surat,IN
+23.00153,91.72427,Sabrum,Tripura,South Tripura,IN
+30.97494,76.99137,Sabathu,Himachal Pradesh,Solan,IN
+26.24918,77.40786,Sabalgarh,Madhya Pradesh,Morena,IN
+25.75355,86.02597,Rusera,Bihar,Samastipur,IN
+26.487,79.90243,Rura,Uttar Pradesh,Kanpur Dehat,IN
+30.96878,76.52557,Rupnagar,Punjab,Rupnagar,IN
+30.28467,78.98354,Rudraprayag,Uttarakhand,Garhwal,IN
+26.44335,83.61238,Rudarpur,Uttar Pradesh,Deoria,IN
+29.86313,77.89126,Roorkee,Uttarakhand,Haridwar,IN
+15.69935,75.73408,Ron,Karnataka,Gadag,IN
+28.89447,76.58917,Rohtak,Haryana,Rohtak,IN
+31.2021,77.75211,Rohru,Himachal Pradesh,Shimla,IN
+23.19646,69.27076,Roha,Gujarat,Kachchh,IN
+18.43687,73.11964,Roha,Maharashtra,Raigarh,IN
+12.95629,78.27543,Robertsonpet,Karnataka,Kolar,IN
+24.68889,83.06632,Robertsganj,Uttar Pradesh,Sonbhadra,IN
+19.97549,76.78844,Risod,Maharashtra,Washim,IN
+22.72394,88.34563,Rishra,West Bengal,Hugli,IN
+30.10778,78.29255,Rishikesh,Uttarakhand,Dehradun,IN
+27.3636,75.56838,Ringas,Rajasthan,Sikar,IN
+28.6937,79.5219,Richha,Uttar Pradesh,Bareilly,IN
+33.08115,74.83242,Riasi,Kashmir,Reasi,IN
+28.199,76.6183,Rewari,Haryana,Rewari District,IN
+24.53399,81.29596,Rewa,Madhya Pradesh,Rewa,IN
+25.78553,84.64038,Revelganj,Bihar,Saran,IN
+18.55363,72.92559,Revadanda,Maharashtra,Raigarh,IN
+16.0184,80.82958,Repalle,Andhra Pradesh,Guntur,IN
+25.85017,84.37794,Reoti,Bihar,,IN
+24.21641,83.0358,Renukut,Uttar Pradesh,Sonbhadra,IN
+13.63682,79.5039,Renigunta,Andhra Pradesh,Chittoor,IN
+21.63885,84.04434,Rengali,Odisha,Sambalpur,IN
+21.52798,86.87156,Remuna,Odisha,Baleshwar,IN
+22.73728,77.43406,Rehti,Madhya Pradesh,Sehore,IN
+23.63628,79.06233,Rehli,Madhya Pradesh,Sagar,IN
+16.47608,81.83912,Razole,Andhra Pradesh,East Godavari,IN
+18.44799,83.65672,Razam,Andhra Pradesh,Srikakulam,IN
+16.49178,74.77391,Raybag,Karnataka,Belgaum,IN
+14.69743,76.85769,Rayadrug,Andhra Pradesh,Anantapur,IN
+14.0568,78.75127,Rayachoti,Andhra Pradesh,Cuddapah,IN
+27.55668,77.79017,Raya,Uttar Pradesh,Mathura,IN
+23.68464,85.05545,Ray,Jharkhand,Ranchi,IN
+26.9832,84.85109,Raxaul,Bihar,Purba Champaran,IN
+29.26724,74.40288,Rawatsar,Rajasthan,Hanumangarh,IN
+24.92981,75.59209,Rawatbhata,Rajasthan,Chittaurgarh,IN
+21.24749,76.03483,Raver,Maharashtra,Jalgaon,IN
+16.99154,73.31022,Ratnagiri,Maharashtra,Ratnagiri,IN
+23.33033,75.04032,Ratlam,Madhya Pradesh,Ratlam,IN
+29.6854,75.57461,Ratia,Haryana,Fatehabad District,IN
+25.59453,79.56632,Rath,Uttar Pradesh,Hamirpur,IN
+22.28785,82.16767,Ratanpur,Chhattisgarh,Bilaspur,IN
+28.08137,74.61854,Ratangarh,Rajasthan,Churu,IN
+24.81667,75.11667,Ratangarh,Madhya Pradesh,Neemuch,IN
+26.74491,80.49012,Rasulabad,Uttar Pradesh,Unnao,IN
+25.85691,83.85455,Rasra,Uttar Pradesh,Ballia,IN
+11.46009,78.18635,Rasipuram,Tamil Nadu,Namakkal,IN
+23.57267,70.64718,Rapar,Gujarat,Kachchh,IN
+23.83463,91.36614,Ranir Bazar,Tripura,West Tripura,IN
+25.25101,79.06231,Ranipur,Uttar Pradesh,Jhansi,IN
+29.64232,79.4334,Ranikhet,Uttarakhand,Almora,IN
+23.6164,87.13061,Raniganj,West Bengal,Barddhaman,IN
+14.62239,75.62951,Ranibennur,Karnataka,Haveri,IN
+29.52454,74.83689,Rania,Haryana,Sirsa,IN
+25.35031,73.30885,Rani,Rajasthan,Pali,IN
+27.17733,88.53358,Rangpo,Sikkim,,IN
+26.44931,91.61356,Rangia,Assam,Kamrup,IN
+26.83772,92.66876,Rangapara,Assam,Sontipur,IN
+23.34777,85.33856,Ranchi,Jharkhand,Ranchi,IN
+21.68734,69.74485,Ranavav,Gujarat,Porbandar,IN
+22.64671,74.51998,Ranapur,Madhya Pradesh,Jhabua,IN
+23.17623,88.56667,Ranaghat,West Bengal,Nadia,IN
+21.39551,79.32702,Ramtek,Maharashtra,Nagpur Division,IN
+24.17737,87.78275,Rampur Hat,West Bengal,Birbhum,IN
+30.25506,75.24065,Rampura,Punjab,Bathinda,IN
+26.34981,79.18239,Rampura,Uttar Pradesh,Jalaun,IN
+24.467,75.43996,Rampura,Madhya Pradesh,Neemuch,IN
+31.44943,77.63087,Rampur,Himachal Pradesh,Kulu,IN
+29.8062,77.45251,Rampur,Uttar Pradesh,Saharanpur,IN
+28.80904,79.02895,Rampur,Uttar Pradesh,Rampur,IN
+32.80728,75.31119,Ramnagar,Kashmir,Udhampur,IN
+29.39484,79.12693,Ramnagar,Uttarakhand,Naini Tal,IN
+27.16576,84.32308,Ramnagar,Bihar,Pashchim Champaran,IN
+27.08483,81.40569,Ramnagar,Uttar Pradesh,Bara Banki,IN
+25.26873,83.02934,Ramnagar,Uttar Pradesh,Varanasi,IN
+26.90341,83.83513,Ramkola,Uttar Pradesh,Kushinagar,IN
+22.82815,87.60888,Ramjibanpur,West Bengal,Paschim Medinipur,IN
+18.80084,79.45206,Ramgundam,Telangana,Karimnagar,IN
+33.40354,74.22314,Ramgarh,Kashmir,Rajauri,IN
+27.25097,75.17893,Ramgarh,Rajasthan,Sikar,IN
+23.63018,85.51926,Ramgarh,Jharkhand,Ramgarh,IN
+24.64648,75.94325,Ramganj Mandi,Rajasthan,Kota,IN
+9.2885,79.31271,Rameswaram,Tamil Nadu,Virudhunagar,IN
+31.96774,74.9096,Ram Das,Punjab,Amritsar,IN
+19.51667,85.1,Rambha,Odisha,Ganjam,IN
+33.24101,75.23946,Ramban,Kashmir,Ramban,IN
+15.26366,77.81428,Ramapuram,Andhra Pradesh,Kurnool,IN
+13.10089,79.18417,Ramapuram,Andhra Pradesh,Chittoor,IN
+23.80637,83.69981,Ramanuj Ganj,Chhattisgarh,Surguja,IN
+9.37158,78.83077,Ramanathapuram,Tamil Nadu,Ramanathapuram,IN
+12.72031,77.28176,Ramanagaram,Karnataka,Ramanagara,IN
+9.93333,76.5,Ramamangalam,Kerala,Ernakulam,IN
+16.83636,82.02871,Ramachandrapuram,Andhra Pradesh,East Godavari,IN
+19.77921,79.36266,Rajura,Maharashtra,Chandrapur,IN
+20.11086,78.89324,Rajur,Maharashtra,Yavatmal,IN
+21.03854,71.44345,Rajula,Gujarat,Amreli,IN
+25.07145,73.8798,Rajsamand,Rajasthan,Rajsamand,IN
+30.47276,76.58671,Rajpura,Punjab,Patiala,IN
+22.30428,74.35511,Rajpur,Madhya Pradesh,Alirajpur,IN
+21.93954,75.13612,Rajpur,Madhya Pradesh,Barwani,IN
+21.86667,73.5,Rajpipla,Gujarat,Narmada District,IN
+21.1,81.03333,Raj Nandgaon,Chhattisgarh,Raj Nandgaon,IN
+24.89037,79.91282,Rajnagar,Madhya Pradesh,Chhatarpur,IN
+25.05303,87.83048,Rajmahal,West Bengal,,IN
+22.29161,70.79322,Rajkot,Gujarat,Rajkot,IN
+18.86667,73.9,Rajgurunagar,Maharashtra,Pune Division,IN
+25.0277,85.42133,Rajgir,Bihar,Nalanda,IN
+30.85142,77.30066,Rajgarh,Himachal Pradesh,Sirmaur,IN
+28.64201,75.38612,Rajgarh,Rajasthan,Churu,IN
+27.23731,76.62243,Rajgarh,Rajasthan,Alwar,IN
+24.00826,76.7325,Rajgarh,Madhya Pradesh,Rajgarh,IN
+22.67756,74.94481,Rajgarh,Madhya Pradesh,Dhar,IN
+33.37526,74.3092,Rajaori,Kashmir,Rajauri,IN
+31.71943,74.80001,Raja Sansi,Punjab,Amritsar,IN
+25.38727,81.15137,Rajapur,Uttar Pradesh,Chitrakoot,IN
+16.65679,73.51701,Rajapur,Maharashtra,Ratnagiri,IN
+9.45296,77.55335,Rajapalaiyam,Tamil Nadu,Virudhunagar,IN
+14.19508,79.15914,Rajampet,Andhra Pradesh,Cuddapah,IN
+28.02849,74.47442,Rajaldesar,Rajasthan,Churu,IN
+26.89802,78.171,Rajakhera,Rajasthan,Dhaulpur,IN
+17.00517,81.77784,Rajahmundry,Andhra Pradesh,East Godavari,IN
+30.02182,78.21495,Raiwala,Uttarakhand,Dehradun,IN
+29.53583,73.44917,Raisinghnagar,Rajasthan,Ganganagar,IN
+23.33058,77.78206,Raisen,Madhya Pradesh,Raisen,IN
+30.31162,78.0934,Raipur,Uttarakhand,Dehradun,IN
+26.04259,74.02373,Raipur,Rajasthan,Pali,IN
+21.23333,81.63333,Raipur,Chhattisgarh,Raipur,IN
+30.65,75.6,Raikot,Punjab,Ludhiana,IN
+21.9,83.4,Raigarh,Chhattisgarh,Raigarh,IN
+25.61281,88.12449,Raiganj,West Bengal,Uttar Dinajpur,IN
+16.2047,77.354,Raichur,Karnataka,Raichur,IN
+15.30499,73.97096,Raia,Goa,South Goa,IN
+19.39069,74.64979,Rahuri,Maharashtra,Ahmadnagar,IN
+31.05275,76.11907,Rahon,Punjab,Shahid Bhagat Singh Nagar,IN
+17.5921,74.19966,Rahimatpur,Maharashtra,Satara Division,IN
+23.78816,78.39411,Rahatgarh,Madhya Pradesh,Sagar,IN
+26.23333,92.51667,Raha,Assam,Nagaon,IN
+25.6448,87.91727,Raghunathpur,Bihar,Katihar,IN
+23.53878,86.6735,Raghunathpur,West Bengal,Puruliya,IN
+24.44406,77.19824,Raghogarh,Madhya Pradesh,Guna,IN
+24.81705,84.63325,Rafiganj,Bihar,Aurangabad,IN
+26.2191,81.24499,Rae Bareli,Uttar Pradesh,Rae Bareli,IN
+23.83238,71.6047,Radhanpur,Gujarat,Patan,IN
+27.52422,77.49045,Radha Kund,Uttar Pradesh,Mathura,IN
+30.02706,77.15177,Radaur,Haryana,Yamunanagar,IN
+28.25075,77.60051,Rabupura,Uttar Pradesh,Gautam Buddha Nagar,IN
+16.47567,75.1106,Rabkavi,Karnataka,Bagalkot,IN
+8.88113,76.58469,Kollam,Kerala,Kollam,IN
+15.39011,73.98557,Queula,Goa,North Goa,IN
+15.2128,74.0772,Quepem,Goa,South Goa,IN
+33.63828,75.14261,Qazigund,Kashmir,Anantnag,IN
+25.85643,87.53836,Kasba,Bihar,Purnia,IN
+31.82198,75.37663,Qadian,Punjab,Gurdaspur,IN
+13.44189,79.55314,Puttur,Andhra Pradesh,Chittoor,IN
+12.75975,75.20169,Puttur,Karnataka,Dakshina Kannada,IN
+26.49061,74.55419,Pushkar,Rajasthan,Ajmer,IN
+19.9089,77.56825,Pusad,Maharashtra,Yavatmal,IN
+26.45811,80.77416,Purwa,Uttar Pradesh,Unnao,IN
+19.52024,84.88514,Purushottampur,Odisha,Ganjam,IN
+23.33062,86.36303,Puruliya,West Bengal,Puruliya,IN
+25.77895,87.47422,Purnia,Bihar,Purnia,IN
+19.1798,77.02595,Purna,Maharashtra,Parbhani,IN
+19.79825,85.82494,Puri,Odisha,Puri,IN
+28.51283,80.14829,Puranpur,Uttar Pradesh,Pilibhit,IN
+26.47079,85.70311,Pupri,Bihar,Sitamarhi,IN
+11.35163,77.16671,Punjai Puliyampatti,Tamil Nadu,Erode,IN
+13.36488,78.57141,Punganuru,Andhra Pradesh,Chittoor,IN
+18.51957,73.85535,Pune,Maharashtra,Pune Division,IN
+29.76096,76.56034,Pundri,Haryana,Kaithal,IN
+22.23544,76.39295,Punasa,Madhya Pradesh,East Nimar,IN
+9.02165,76.93265,Punalur,Kerala,Kollam,IN
+27.86349,77.20434,Punahana,Haryana,Mewat,IN
+33.87405,74.89955,Pulwama,Kashmir,Pulwama,IN
+10.94108,78.90816,Pullambadi,Tamil Nadu,Tiruchchirappalli,IN
+10.63292,78.84103,Puliyur,Tamil Nadu,Pudukkottai,IN
+9.17489,77.39799,Puliyangudi,Tamil Nadu,Tirunelveli Kattabo,IN
+14.42166,78.22573,Pulivendla,Andhra Pradesh,Cuddapah,IN
+20.72081,78.32086,Pulgaon,Maharashtra,Wardha,IN
+26.22287,79.83718,Pukhrayan,Uttar Pradesh,Kanpur Dehat,IN
+13.33057,80.14573,Puduvayal,Tamil Nadu,Thiruvallur,IN
+12.99801,79.14352,Pudur,Tamil Nadu,Vellore,IN
+9.29147,78.13545,Pudur,Tamil Nadu,Thoothukkudi,IN
+11.15083,78.21197,Puduppatti,Tamil Nadu,Namakkal,IN
+10.38128,78.82141,Pudukkottai,Tamil Nadu,Pudukkottai,IN
+14.7502,78.54813,Proddatur,Andhra Pradesh,Cuddapah,IN
+25.89644,81.94041,Pratapgarh,Uttar Pradesh,Pratapgarh,IN
+24.03215,74.78162,Pratapgarh,Rajasthan,Pratapgarh,IN
+11.66667,92.75,Port Blair,Andaman and Nicobar Islands,South Andaman,IN
+26.67324,78.37085,Porsa,Madhya Pradesh,Morena,IN
+21.64219,69.60929,Porbandar,Gujarat,Porbandar,IN
+13.04888,80.11488,Poonamalle,Tamil Nadu,Kancheepuram,IN
+16.06547,80.55203,Ponnuru,Andhra Pradesh,Guntur,IN
+13.33868,80.19487,Ponneri,Tamil Nadu,Thiruvallur,IN
+10.76695,75.92523,Ponnani,Kerala,Malappuram,IN
+12.14671,75.94196,Ponnampet,Karnataka,Kodagu,IN
+10.28178,78.53554,Ponnamaravati,Tamil Nadu,Pudukkottai,IN
+11.93381,79.82979,Puducherry,Pondicherry,Puducherry,IN
+15.40341,74.01519,Ponda,Goa,North Goa,IN
+12.51217,79.12405,Polur,Tamil Nadu,Tiruvannamalai,IN
+10.65825,77.0085,Pollachi,Tamil Nadu,Coimbatore,IN
+17.25,81.63333,Polavaram,Andhra Pradesh,West Godavari,IN
+19.69386,84.81401,Polasara,Odisha,Ganjam,IN
+26.92007,71.91631,Pokaran,Rajasthan,Jaisalmer,IN
+29.58349,80.20947,Pithoragarh,Uttarakhand,Pithoragarh,IN
+21.25021,82.51707,Pithora,Chhattisgarh,Mahasamund,IN
+17.1168,82.25284,Pithapuram,Andhra Pradesh,East Godavari,IN
+25.32989,84.40803,Piro,Bihar,Bhojpur,IN
+12.33573,76.10003,Piriyapatna,Karnataka,Mysore,IN
+24.15506,76.02728,Pirawa,Rajasthan,Jhalawar,IN
+9.86667,76.5,Piravam,Kerala,Ernakulam,IN
+19.79371,75.53519,Pipri,Maharashtra,Aurangabad Division,IN
+26.82799,83.52689,Pipraich,Uttar Pradesh,Gorakhpur,IN
+16.71667,81.55,Pippara,Andhra Pradesh,West Godavari,IN
+23.35,75.43333,Piploda,Madhya Pradesh,Ujjain,IN
+20.11357,85.83147,Pipili,Odisha,Puri,IN
+26.38441,73.54394,Pipar,Rajasthan,Jodhpur,IN
+30.42553,79.43066,Pipalkoti,Uttarakhand,Chamoli,IN
+30.7974,76.91888,Pinjaur,Haryana,Panchkula,IN
+24.79749,73.05505,Pindwara,Rajasthan,Sirohi,IN
+26.88513,78.37496,Pinahat,Uttar Pradesh,Agra,IN
+18.62292,73.80696,Pimpri,Maharashtra,Pune Division,IN
+28.71348,77.65539,Pilkhua,Uttar Pradesh,Ghaziabad,IN
+28.63098,79.80338,Pilibhit,Uttar Pradesh,Pilibhit,IN
+29.44964,74.10093,Pilibangan,Rajasthan,Hanumangarh,IN
+28.3654,75.60296,Pilani,Rajasthan,Jhunjhunun,IN
+27.62332,80.19986,Pihani,Uttar Pradesh,Hardoi,IN
+26.08458,82.86965,Phulpur,Uttar Pradesh,Azamgarh,IN
+25.54842,82.08978,Phulpur,Uttar Pradesh,Allahabad,IN
+26.87401,75.24171,Phulera,Rajasthan,Jaipur,IN
+20.47916,84.23162,Phulabani,Odisha,Kandhamal,IN
+16.29078,80.26233,Phirangipuram,Andhra Pradesh,Guntur,IN
+31.02071,75.78766,Phillaur,Punjab,Jalandhar,IN
+25.66667,94.5,Phek,Manipur,,IN
+27.32186,78.47255,Phariha,Uttar Pradesh,Firozabad,IN
+26.59941,79.46392,Phaphund,Uttar Pradesh,Auraiya,IN
+17.99113,74.43177,Phaltan,Maharashtra,Satara Division,IN
+27.13102,72.36826,Phalodi,Rajasthan,Jodhpur,IN
+29.18766,77.82893,Phalauda,Uttar Pradesh,Meerut,IN
+31.2185,75.77166,Phagwara,Punjab,Kapurthala,IN
+23.01099,74.79729,Petlawad,Madhya Pradesh,Jhabua,IN
+22.47681,72.79995,Petlad,Gujarat,Anand,IN
+10.97509,76.91552,Perur,Tamil Nadu,Coimbatore,IN
+11.27564,77.58794,Perundurai,Tamil Nadu,Erode,IN
+10.11136,76.47478,Perumpavur,Kerala,Ernakulam,IN
+15.723,73.79511,Pernem,Goa,North Goa,IN
+10.75723,77.27127,Periyapatti,Tamil Nadu,Tiruppur,IN
+10.74049,77.10446,Periyanegamam,Tamil Nadu,Coimbatore,IN
+11.15255,76.95159,Periyanayakkanpalaiyam,Tamil Nadu,Coimbatore,IN
+10.12127,77.54392,Periyakulam,Tamil Nadu,Theni,IN
+11.83333,75.83333,Periya,Kerala,Wayanad,IN
+10.29035,79.20156,Peravurani,Tamil Nadu,Thanjavur,IN
+12.9343,78.7189,Peranampattu,Tamil Nadu,Vellore,IN
+12.57021,79.43378,Peranamallur,Tamil Nadu,Tiruvannamalai,IN
+11.23333,78.88333,Perambalur,Tamil Nadu,Perambalur,IN
+9.73579,77.78955,Peraiyur,Tamil Nadu,Madurai,IN
+14.08339,77.59588,Penukonda,Andhra Pradesh,Anantapur,IN
+16.65363,81.7455,Penugonda,Andhra Pradesh,West Godavari,IN
+12.2467,79.22537,Pennattur,Tamil Nadu,Tiruvannamalai,IN
+12.1345,77.89514,Pennagaram,Tamil Nadu,Dharmapuri,IN
+11.40316,79.24103,Pennadam,Tamil Nadu,Cuddalore,IN
+22.77704,81.95858,Pendra,Chhattisgarh,Bilaspur,IN
+18.73734,73.09603,Pen,Maharashtra,Raigarh,IN
+29.97897,76.58249,Pehowa,Haryana,Kurukshetra,IN
+17.07575,82.13905,Peddapuram,Andhra Pradesh,East Godavari,IN
+18.61357,79.37442,Peddapalli,Telangana,Karimnagar,IN
+16.25582,81.14378,Pedana,Andhra Pradesh,Krishna,IN
+12.0935,75.20249,Payyannur,Kerala,Kannur,IN
+28.06626,80.10305,Pawayan,Uttar Pradesh,Shahjahanpur,IN
+24.26659,80.16176,Pawai,Madhya Pradesh,Panna,IN
+14.10009,77.28151,Pavagada,Karnataka,Tumkur,IN
+30.15357,78.76998,Pauri,Uttarakhand,Garhwal,IN
+20.79205,79.63583,Pauni,Maharashtra,Bhandara,IN
+20.46093,76.93725,Patur,Maharashtra,Akola,IN
+23.55286,88.26473,Patuli,West Bengal,Barddhaman,IN
+10.42358,79.31949,Pattukkottai,Tamil Nadu,Thanjavur,IN
+31.28083,74.85722,Patti,Punjab,Tarn Taran,IN
+25.92143,82.19959,Patti,Uttar Pradesh,Pratapgarh,IN
+34.16111,74.55554,Pattan,Kashmir,Baramula,IN
+23.19697,87.53319,Patrasaer,West Bengal,Bankura,IN
+20.70833,83.13263,Patnagarh,Odisha,Balangir,IN
+25.60222,85.11936,Patna,Bihar,Patna,IN
+27.69036,78.99797,Patiali,Uttar Pradesh,Kanshiram Nagar,IN
+30.32715,76.40266,Patiala,Punjab,Patiala,IN
+19.25946,76.43354,Pathri,Maharashtra,Parbhani,IN
+23.89824,79.19392,Patharia,Madhya Pradesh,Damoh,IN
+23.6658,86.43166,Pathardih,Jharkhand,Dhanbad,IN
+19.17279,75.17425,Pathardi,Maharashtra,Ahmadnagar,IN
+32.27306,75.65256,Pathankot,Punjab,Pathankot,IN
+9.26667,76.78333,Pathanamthitta,Kerala,Pattanamtitta,IN
+22.55656,83.46355,Pathalgaon,Chhattisgarh,Jashpur,IN
+28.32547,76.77858,Pataudi,Haryana,Gurgaon,IN
+17.53334,78.2645,Patancheru,Telangana,Medak,IN
+23.8507,72.12963,Patan,Gujarat,Patan,IN
+23.28665,79.69004,Patan,Madhya Pradesh,Jabalpur,IN
+21.03333,81.53333,Patan,Chhattisgarh,Durg,IN
+17.37513,73.90143,Patan,Maharashtra,Satara Division,IN
+20.57806,86.56063,Patamundai,Odisha,Kendrapara,IN
+28.06631,95.32678,Pasighat,Arunachal Pradesh,East Siang,IN
+22.8436,82.19919,Pasan,Chhattisgarh,Korba,IN
+26.88604,74.76602,Parvatsar,Rajasthan,Nagaur,IN
+18.78303,83.42668,Parvatipuram,Andhra Pradesh,Vizianagaram District,IN
+19.59943,76.21491,Partur,Maharashtra,Jalna,IN
+23.59276,74.17396,Partapur,Rajasthan,Banswara,IN
+26.07354,81.49207,Parshadepur,Uttar Pradesh,Rae Bareli,IN
+20.88025,75.11723,Parola,Maharashtra,Jalgaon,IN
+32.34598,75.43441,Parol,Kashmir,Kathua,IN
+20.56101,72.94846,Parnera,Gujarat,Valsad,IN
+18.85018,76.53211,Parli Vaijnath,Maharashtra,Bid,IN
+18.78113,84.08836,Parlakimidi,Andhra Pradesh,,IN
+11.01667,75.86667,Pariyapuram,Kerala,Malappuram,IN
+28.97809,77.93306,Parichhatgarh,Uttar Pradesh,Meerut,IN
+25.50811,78.75847,Parichha,Uttar Pradesh,Jhansi,IN
+20.5087,72.94569,Pardi,Gujarat,Valsad,IN
+19.26855,76.77081,Parbhani,Maharashtra,Parbhani,IN
+8.78333,76.7,Paravur,Kerala,Thiruvananthapuram,IN
+22.1913,78.75904,Parasia,Madhya Pradesh,Chhindwara,IN
+9.54633,78.5907,Paramagudi,Tamil Nadu,Ramanathapuram,IN
+20.31641,86.6085,Paradip Garh,Odisha,Jagatsinghpur,IN
+11.95,75.35,Pappinisseri,Kerala,Kannur,IN
+12.22093,78.05923,Papparappatti,Tamil Nadu,Dharmapuri,IN
+11.91774,78.36865,Papireddippatti,Tamil Nadu,Dharmapuri,IN
+10.92687,79.27056,Papanasam,Tamil Nadu,Thanjavur,IN
+30.43666,77.62462,Paonta Sahib,Himachal Pradesh,Sirmaur,IN
+18.98878,73.11013,Panvel,Maharashtra,Raigarh,IN
+21.65941,74.69864,Pansemal,Madhya Pradesh,Barwani,IN
+11.77662,79.55269,Panruti,Tamil Nadu,Cuddalore,IN
+24.72147,80.18809,Panna,Madhya Pradesh,Panna,IN
+9.01667,76.51667,Panmana,Kerala,Kollam,IN
+29.39005,76.96949,Panipat,Haryana,Panipat,IN
+22.69089,88.37404,Panihati,West Bengal,North 24 Parganas,IN
+16.8121,74.11007,Panhala,Maharashtra,Kolhapur,IN
+13.25,74.75,Pangala,Karnataka,Udupi,IN
+23.07492,88.28637,Pandua,West Bengal,Hugli,IN
+31.66902,77.05359,Pandoh,Himachal Pradesh,Mandi,IN
+21.59302,78.52888,Pandhurna,Madhya Pradesh,Chhindwara,IN
+17.67924,75.33098,Pandharpur,Maharashtra,Solapur,IN
+21.69813,76.22585,Pandhana,Madhya Pradesh,East Nimar,IN
+12.50083,76.67452,Pandavapura,Karnataka,Mandya,IN
+22.1868,81.32814,Pandatarai,Chhattisgarh,Kabeerdham,IN
+22.22484,81.41004,Pandaria,Chhattisgarh,Kabeerdham,IN
+17.92449,73.8008,Panchgani,Maharashtra,Satara Division,IN
+22.20568,78.55093,Panara,Madhya Pradesh,Chhindwara,IN
+11.73333,76.1,Panamaram,Kerala,Wayanad,IN
+15.49574,73.82624,Panaji,Goa,North Goa,IN
+23.28552,79.99465,Panagar,Madhya Pradesh,Jabalpur,IN
+28.14327,77.32698,Palwal,Haryana,Palwal,IN
+17.60184,80.70509,Paloncha,Telangana,Khammam,IN
+10.45034,77.5209,Palani,Tamil Nadu,Dindigul,IN
+13.20073,78.74681,Palmaner,Andhra Pradesh,Chittoor,IN
+11.93956,78.40152,Pallippatti,Tamil Nadu,Dharmapuri,IN
+13.3386,79.44489,Pallipattu,Tamil Nadu,,IN
+12.90816,78.94195,Pallikondai,Tamil Nadu,Vellore,IN
+16.58333,81.3,Pallevada,Andhra Pradesh,Krishna,IN
+15.46667,74.08333,Palle,Goa,North Goa,IN
+12.96796,80.15025,Pallavaram,Tamil Nadu,Kancheepuram,IN
+10.1456,78.80263,Pallattur,Tamil Nadu,Sivaganga,IN
+10.72057,77.87951,Pallappatti,Tamil Nadu,Karur,IN
+10.99175,77.28633,Palladam,Tamil Nadu,Tiruppur,IN
+18.60354,83.75504,Palkonda,Andhra Pradesh,Srikakulam,IN
+22.25757,71.56024,Paliyad,Gujarat,Bhavnagar,IN
+21.52519,71.82309,Palitana,Gujarat,Bhavnagar,IN
+28.43205,80.58137,Palia Kalan,Uttar Pradesh,Kheri,IN
+25.77276,73.32335,Pali,Rajasthan,Pali,IN
+24.49277,78.41654,Pali,Uttar Pradesh,Lalitpur,IN
+23.36453,81.04374,Pali,Madhya Pradesh,Umaria District,IN
+10.7744,76.65625,Palakkad,Kerala,Palakkad district,IN
+19.69693,72.76543,Palghar,Maharashtra,Thane,IN
+25.02023,79.2318,Palera,Madhya Pradesh,Tikamgarh,IN
+26.12388,91.53974,Palasbari,Assam,Kamrup,IN
+18.77257,84.41012,Palasa,Andhra Pradesh,Srikakulam,IN
+24.17097,72.43821,Palanpur,Gujarat,Banas Kantha,IN
+32.11453,76.55681,Palampur,Himachal Pradesh,Kangra,IN
+10.10492,78.11348,Palamedu,Tamil Nadu,Madurai,IN
+16.5167,81.73,Palakollu,Andhra Pradesh,West Godavari,IN
+12.30696,78.07022,Palakkodu,Tamil Nadu,Dharmapuri,IN
+24.63846,87.83893,Pakaur,West Bengal,,IN
+13.44917,79.11749,Pakala,Andhra Pradesh,Chittoor,IN
+19.47506,75.38558,Paithan,Maharashtra,Aurangabad Division,IN
+28.17222,78.06359,Pahasu,Uttar Pradesh,Bulandshahr,IN
+34.01418,75.31899,Pahalgam,Kashmir,Anantnag,IN
+26.90424,83.98104,Padrauna,Uttar Pradesh,Kushinagar,IN
+22.2398,73.08451,Padra,Gujarat,Vadodara,IN
+8.24462,77.32581,Padmanabhapuram,Tamil Nadu,Kanniyakumari,IN
+22.43654,70.60162,Paddhari,Gujarat,Rajkot,IN
+29.70885,73.62539,Padampur,Rajasthan,Ganganagar,IN
+20.98333,83.06667,Padampur,Odisha,Baragarh,IN
+33.46659,76.88488,Padam,Kashmir,Kargil,IN
+27.51234,82.64297,Pachperwa,Uttar Pradesh,Balrampur,IN
+20.66714,75.35183,Pachora,Maharashtra,Jalgaon,IN
+22.47045,78.4337,Pachmarhi,Madhya Pradesh,Hoshangabad,IN
+10.77094,76.37844,Ottappalam,Kerala,Palakkad district,IN
+18.18158,76.03889,Osmanabad,Maharashtra,Osmanabad,IN
+25.35145,78.64071,Orchha,Uttar Pradesh,,IN
+25.36913,80.74164,Oran,Uttar Pradesh,Banda,IN
+25.99074,79.45315,Orai,Uttar Pradesh,Jalaun,IN
+15.50642,80.04867,Ongole,Andhra Pradesh,Prakasam,IN
+11.74099,78.04559,Omalur,Tamil Nadu,Salem,IN
+21.33649,72.75161,Olpad,Gujarat,Surat,IN
+22.46756,69.07002,Okha,Gujarat,Jamnagar,IN
+20.09473,73.92816,Ozar,Maharashtra,Nashik Division,IN
+12.76792,78.88307,Odugattur,Tamil Nadu,Vellore,IN
+26.83644,88.62943,Odlabari,West Bengal,Jalpaiguri,IN
+24.41656,82.9859,Obra,Uttar Pradesh,Sonbhadra,IN
+14.14895,75.57507,Nyamati,Karnataka,Davanagere,IN
+16.78806,80.84646,Nuzvid,Andhra Pradesh,Krishna,IN
+31.16667,76.48333,Nurpur Kalan,Punjab,Rupnagar,IN
+29.14984,78.40917,Nurpur,Uttar Pradesh,Bijnor,IN
+31.09554,75.59281,Nurmahal,Punjab,Jalandhar,IN
+26.62249,93.72225,Numaligarh,Assam,Golaghat,IN
+28.10296,77.00144,Nuh,Haryana,Mewat,IN
+19.23114,82.54826,Nowrangapur,Odisha,Nabarangpur,IN
+23.13227,93.06532,North Vanlaiphai,Mizoram,Serchhip,IN
+27.23517,94.10357,North Lakhimpur,Assam,Lakhimpur,IN
+26.19749,91.7202,North Guwahati,Assam,Kamrup,IN
+25.51704,91.26484,Nongstoin,Meghalaya,West Khasi Hills,IN
+25.9023,91.87694,Nongpoh,Meghalaya,Ri-Bhoi,IN
+27.56155,73.47141,Nokha,Rajasthan,Bikaner,IN
+29.18292,74.77064,Nohar,Rajasthan,Hanumangarh,IN
+22.16094,85.50416,Noamundi,Jharkhand,Pashchim Singhbhum,IN
+26.05327,83.0584,Nizamabad,Uttar Pradesh,Azamgarh,IN
+18.67154,78.0988,Nizamabad,Telangana,Nizamabad District,IN
+28.87647,77.53677,Niwari,Uttar Pradesh,Ghaziabad,IN
+23.78438,86.70692,Nirsa,Jharkhand,Dhanbad,IN
+26.31397,86.58537,Nirmali,Bihar,Supaul,IN
+19.09685,78.34407,Nirmal,Telangana,Adilabad,IN
+16.399,74.38285,Nipani,Maharashtra,,IN
+27.73976,75.78652,Neem ka Thana,Rajasthan,Sikar,IN
+24.62166,74.67999,Nimbahera,Rajasthan,Chittaurgarh,IN
+20.05756,86.00436,Nimaparha,Odisha,Puri,IN
+26.15006,74.00152,Nimbaj,Rajasthan,Pali,IN
+29.83671,76.93191,Nilokheri,Haryana,Karnal,IN
+12.2649,75.13914,Nileshwar,Kerala,Kasaragod District,IN
+18.11675,76.75279,Nilanga,Maharashtra,Latur,IN
+10.165,77.85024,Nilakottai,Tamil Nadu,Dindigul,IN
+21.46235,86.76794,Nilgiri,Odisha,Baleshwar,IN
+29.32396,78.38673,Nihtaur,Uttar Pradesh,Bijnor,IN
+10.77378,79.41875,Needamangalam,Tamil Nadu,Thiruvarur,IN
+16.9027,81.67451,Nidadavole,Andhra Pradesh,West Godavari,IN
+27.31247,83.7253,Nichlaul,Uttar Pradesh,Maharajganj,IN
+8.39854,77.08586,Neyyattinkara,Kerala,Thiruvananthapuram,IN
+28.63576,77.22445,New Delhi,NCT,New Delhi,IN
+23.46864,84.27005,Netarhat,Jharkhand,Latehar,IN
+19.02475,73.31688,Neral,Maharashtra,Raigarh,IN
+21.45525,76.3934,Nepa Nagar,Madhya Pradesh,Burhanpur,IN
+14.45363,79.98674,Nellore,Andhra Pradesh,Nellore,IN
+11.77577,79.66789,Nellikkuppam,Tamil Nadu,Cuddalore,IN
+13.09795,77.39575,Nelamangala,Karnataka,Bangalore Rural,IN
+8.60267,77.00139,Nedumangad,Kerala,Thiruvananthapuram,IN
+26.91649,94.73611,Nazira,Assam,Sibsagar,IN
+13.90777,79.89649,Nayudupeta,Andhra Pradesh,Nellore,IN
+20.12856,85.09563,Nayagarh,Odisha,Nayagarh District,IN
+27.13082,88.23972,Naya Bazar,Sikkim,West District,IN
+31.12612,76.11633,Nawashahr,Punjab,Shahid Bhagat Singh Nagar,IN
+32.76505,74.52772,Nawanshahr,Kashmir,Jammu,IN
+27.85161,75.27384,Nawalgarh,Rajasthan,Jhunjhunun,IN
+26.36073,75.91836,Niwai,Rajasthan,Tonk,IN
+24.8867,85.54364,Nawada,Bihar,Nawada,IN
+26.49602,80.31414,Nawabganj,Uttar Pradesh,Kanpur,IN
+28.53966,79.63282,Nawabganj,Uttar Pradesh,Bareilly,IN
+26.93109,81.19934,Nawabganj,Uttar Pradesh,Bara Banki,IN
+26.86452,82.14016,Nawabganj,Uttar Pradesh,Gonda,IN
+27.0195,75.00226,Nawa,Rajasthan,Nagaur,IN
+15.53333,73.98333,Navelim,Goa,North Goa,IN
+15.55877,75.35305,Navalgund,Karnataka,Dharwad,IN
+23.4067,88.36861,Navadwip,West Bengal,Nadia,IN
+27.42752,83.41789,Nautanwa,Uttar Pradesh,Maharajganj,IN
+25.38706,87.09856,Naugachhia,Bihar,Bhagalpur,IN
+9.87144,78.55211,Nattarasankottai,Tamil Nadu,Sivaganga,IN
+10.22776,78.22969,Nattam,Tamil Nadu,Dindigul,IN
+24.93805,73.82392,Nathdwara,Rajasthan,Rajsamand,IN
+22.68411,77.26887,Nasrullahganj,Madhya Pradesh,Sehore,IN
+25.0503,84.32762,Nasriganj,Bihar,Rohtas,IN
+18.84577,79.46165,Naspur,Telangana,Adilabad,IN
+26.30473,74.73364,Nasirabad,Rajasthan,Ajmer,IN
+19.99727,73.79096,Nashik,Maharashtra,Nashik Division,IN
+25.6439,77.9129,Narwar,Madhya Pradesh,Shivpuri,IN
+29.59489,76.11816,Narwana,Haryana,Jind,IN
+17.66727,82.61044,Narsipatnam,Andhra Pradesh,Vishakhapatnam,IN
+18.04468,78.42516,Narsingi,Telangana,Medak,IN
+23.70758,77.09319,Narsinghgarh,Madhya Pradesh,Rajgarh,IN
+22.95078,79.184,Narsimhapur,Madhya Pradesh,Narsimhapur,IN
+23.07041,72.65702,Naroda,Gujarat,Ahmadabad,IN
+29.22123,76.14171,Narnaund,Haryana,Hisar,IN
+28.04444,76.10833,Narnaul,Haryana,Mahendragarh,IN
+20.44892,81.62004,Narharpur,Chhattisgarh,Uttar Bastar Kanker,IN
+15.72299,75.38666,Nargund,Karnataka,Gadag,IN
+30.16173,78.28712,Narendranagar,Uttarakhand,Tehri-Garhwal,IN
+15.57316,75.80805,Naregal,Karnataka,Gadag,IN
+16.74799,77.4954,Narayanpet,Telangana,Mahbubnagar,IN
+30.47798,77.12804,Narayangarh,Haryana,Ambala,IN
+24.27083,75.05007,Narayangarh,Madhya Pradesh,Mandsaur,IN
+13.42565,79.58881,Narayanavanam,Andhra Pradesh,Chittoor,IN
+13.19133,80.18473,Naravarikuppam,Tamil Nadu,Thiruvallur,IN
+28.19994,78.38472,Naraura,Uttar Pradesh,Bulandshahr,IN
+28.48451,78.71291,Narauli,Uttar Pradesh,Moradabad,IN
+13.60759,79.31652,Narasingapuram,Andhra Pradesh,Chittoor,IN
+13.61075,75.512,Narasimharajapura,Karnataka,Chikmagalur,IN
+16.2347,80.04711,Narasaraopet,Andhra Pradesh,Guntur,IN
+16.4361,81.70159,Narasapur,Andhra Pradesh,East Godavari,IN
+18.41428,84.04463,Narasannapeta,Andhra Pradesh,Srikakulam,IN
+25.19033,80.475,Naraini,Madhya Pradesh,,IN
+26.79069,75.20608,Naraina,Rajasthan,Jaipur,IN
+27.96059,73.55913,Napasar,Rajasthan,Bikaner,IN
+27.86459,81.50036,Nanpara,Uttar Pradesh,Bahraich,IN
+10.87933,79.61062,Nannilam,Tamil Nadu,Thiruvarur,IN
+12.11802,76.68411,Nanjangud,Karnataka,Mysore,IN
+8.49326,77.65806,Nanguneri,Tamil Nadu,Tirunelveli Kattabo,IN
+28.6786,77.06749,Nangloi Jat,NCT,West Delhi,IN
+11.76108,77.89137,Nangavalli,Tamil Nadu,Salem,IN
+31.38966,76.37574,Nangal Township,Punjab,Rupnagar,IN
+15.48879,78.48648,Nandyal,Andhra Pradesh,Kurnool,IN
+21.36608,74.23955,Nandurbar,Maharashtra,Nandurbar,IN
+20.83528,76.45839,Nandura,Maharashtra,Buldana,IN
+15.85668,78.26569,Nandikotkur,Andhra Pradesh,Kurnool,IN
+16.77222,80.28554,Nandigama,Andhra Pradesh,Krishna,IN
+27.7103,77.3858,Nandgaon,Uttar Pradesh,Mathura,IN
+20.30713,74.65733,Nandgaon,Maharashtra,Nashik Division,IN
+19.16023,77.31497,Nanded,Maharashtra,Nanded,IN
+29.71215,77.41728,Nanauta,Uttar Pradesh,Saharanpur,IN
+27.19395,95.31929,Namrup,Assam,Dibrugarh,IN
+23.46115,75.06036,Namli,Madhya Pradesh,Ratlam,IN
+27.16276,88.36568,Namchi,Sikkim,South District,IN
+9.72766,79.00707,Nambutalai,Tamil Nadu,Ramanathapuram,IN
+11.35833,77.32099,Nambiyur,Tamil Nadu,Erode,IN
+11.22126,78.16524,Namakkal,Tamil Nadu,Namakkal,IN
+11.455,78.269,Namagiripettai,Tamil Nadu,Namakkal,IN
+23.26058,68.82655,Naliya,Gujarat,Kachchh,IN
+24.3,87.81667,Nalhati,West Bengal,Birbhum,IN
+17.05439,79.26707,Nalgonda,Telangana,Nalgonda,IN
+17.81667,76.28182,Naldurg,Maharashtra,Osmanabad,IN
+31.04184,76.72113,Nalagarh,Himachal Pradesh,Solan,IN
+29.91964,77.30438,Nakur,Uttar Pradesh,Saharanpur,IN
+26.6827,88.22001,Naksalbari,West Bengal,Darjiling,IN
+31.1259,75.47585,Nakodar,Punjab,Jalandhar,IN
+29.61207,78.34338,Najibabad,Uttar Pradesh,Bijnor,IN
+25.77145,75.84978,Nainwa,Rajasthan,Bundi,IN
+22.42743,80.10875,Nainpur,Madhya Pradesh,Mandla,IN
+29.39743,79.44686,Naini Tal,Uttarakhand,Naini Tal,IN
+22.89396,88.41521,Naihati,West Bengal,North 24 Parganas,IN
+24.78778,81.77707,Naigarhi,Madhya Pradesh,Rewa,IN
+27.28912,95.3418,Nahorkatiya,Assam,Dibrugarh,IN
+30.56029,77.29426,Nahan,Himachal Pradesh,Sirmaur,IN
+32.05,76.08333,Nagrota,Himachal Pradesh,Kangra,IN
+26.619,81.14078,Nagram,Uttar Pradesh,Lucknow District,IN
+21.14631,79.08491,Nagpur,Maharashtra,Nagpur Division,IN
+18.54225,73.13493,Nagothana,Maharashtra,Raigarh,IN
+24.5705,80.58655,Nagod,Madhya Pradesh,Satna,IN
+14.26965,79.10083,Nagireddipalli,Andhra Pradesh,Cuddapah,IN
+29.44439,78.43488,Nagina,Uttar Pradesh,Bijnor,IN
+8.17731,77.43437,Nagercoil,Tamil Nadu,Kanniyakumari,IN
+23.45834,75.41759,Nagda,Madhya Pradesh,Ujjain,IN
+27.20201,73.73394,Nagaur,Rajasthan,Nagaur,IN
+16.4821,78.32471,Nagar Karnul,Telangana,Mahbubnagar,IN
+13.32139,79.58557,Nagari,Andhra Pradesh,Chittoor,IN
+32.13808,77.17393,Nagar,Himachal Pradesh,Kulu,IN
+27.42397,77.09922,Nagar,Rajasthan,Bharatpur,IN
+10.76393,79.84454,Nagappattinam,Tamil Nadu,Nagapattinam,IN
+12.81938,76.75485,Nagamangala,Karnataka,Mandya,IN
+11.47887,76.54419,Naduvattam,Tamil Nadu,Nilgiri,IN
+11.48772,75.77511,Naduvannur,Kerala,Kozhikode,IN
+26.10802,79.02275,Nadigaon,Madhya Pradesh,,IN
+22.69385,72.86157,Nadiad,Gujarat,Kheda,IN
+27.22288,77.19569,Nadbai,Rajasthan,Bharatpur,IN
+31.78243,76.34177,Nadaun,Himachal Pradesh,Hamirpur,IN
+11.7,75.66667,Nadapuram,Kerala,Kozhikode,IN
+24.60658,84.12719,Nabinagar,Bihar,Aurangabad,IN
+30.37475,76.15077,Nabha,Punjab,Patiala,IN
+12.29791,76.63925,Mysore,Karnataka,Mysore,IN
+26.12259,85.39055,Muzaffarpur,Bihar,Muzaffarpur,IN
+29.47394,77.70414,Muzaffarnagar,Uttar Pradesh,Muzaffarnagar,IN
+9.98493,76.57728,Muvattupula,Kerala,Ernakulam,IN
+10.39531,79.49425,Muttupet,Tamil Nadu,Thiruvarur,IN
+30.2022,77.14873,Mustafabad,Haryana,Yamunanagar,IN
+30.4571,78.05498,Mussoorie,Uttarakhand,Dehradun,IN
+10.95299,78.44427,Musiri,Tamil Nadu,Tiruchchirappalli,IN
+22.51135,86.45713,Mushabani,Jharkhand,Purba Singhbhum,IN
+26.37561,81.80002,Musafirkhana,Uttar Pradesh,Sultanpur,IN
+23.83677,80.39482,Murwara,Madhya Pradesh,Katni,IN
+18.32817,72.9621,Murud,Maharashtra,Raigarh,IN
+20.73263,77.36714,Murtajapur,Maharashtra,Akola,IN
+24.1839,88.27171,Murshidabad,West Bengal,Murshidabad,IN
+27.57788,77.94137,Mursan,Uttar Pradesh,Mahamaya Nagar,IN
+25.8969,86.99577,Murliganj,Bihar,Madhepura,IN
+30.78957,76.49733,Morinda,Punjab,Rupnagar,IN
+23.37074,85.86236,Muri,West Bengal,,IN
+16.39604,74.19142,Murgud,Maharashtra,Kolhapur,IN
+19.25395,73.38993,Murbad,Maharashtra,Thane,IN
+23.53631,88.39425,Muragacha,West Bengal,Nadia,IN
+28.7809,77.49865,Muradnagar,Uttar Pradesh,Ghaziabad,IN
+10.08873,77.06269,Munnar,Kerala,Idukki,IN
+15.30759,76.33613,Munirabad,Karnataka,Koppal,IN
+25.37556,86.47352,Munger,Bihar,Munger,IN
+22.06709,81.68821,Mungeli,Chhattisgarh,Bilaspur,IN
+24.4078,78.09666,Mungaoli,Madhya Pradesh,Ashoknagar,IN
+27.0631,73.82304,Mundwa,Rajasthan,Nagaur,IN
+22.83918,69.7219,Mundra,Gujarat,Kachchh,IN
+22.06643,76.49408,Mundi,Madhya Pradesh,East Nimar,IN
+14.97144,75.03658,Mundgod,Karnataka,Uttar Kannada,IN
+15.20677,75.8839,Mundargi,Karnataka,Gadag,IN
+21.77463,78.25756,Multai,Madhya Pradesh,Betul,IN
+13.09154,74.78437,Mulki,Karnataka,Dakshina Kannada,IN
+15.2807,75.52132,Mulgund,Karnataka,Gadag,IN
+13.16372,78.39207,Mulbagal,Karnataka,Kolar,IN
+11.8,75.45,Mulappilangad,Kerala,Kannur,IN
+10.79436,77.71175,Mulanur,Tamil Nadu,Tiruppur,IN
+20.0684,79.67812,Mul,Maharashtra,Chandrapur,IN
+30.47426,74.5166,Muktsar,Punjab,Muktsar,IN
+18.70413,77.36641,Mukher,Maharashtra,Nanded,IN
+31.95097,75.61488,Mukerian,Punjab,Hoshiarpur,IN
+27.30854,79.43368,Muhammadabad,Uttar Pradesh,Farrukhabad,IN
+26.03404,83.38114,Muhammadabad,Uttar Pradesh,Mau,IN
+25.61873,83.75499,Muhammadabad,Uttar Pradesh,Ghazipur,IN
+23.77015,86.72746,Mugma,Jharkhand,Dhanbad,IN
+25.28183,83.12096,Mughal Sarai,Uttar Pradesh,Chandauli District,IN
+9.34169,78.51388,Mudukulattur,Tamil Nadu,Ramanathapuram,IN
+19.15657,77.50304,Mudkhed,Maharashtra,Nanded,IN
+13.13148,75.64132,Mudigere,Karnataka,Chikmagalur,IN
+16.33354,75.28305,Mudhol,Karnataka,Bagalkot,IN
+16.01187,76.44207,Mudgal,Karnataka,Raichur,IN
+16.33711,76.13201,Muddebihal,Karnataka,Bijapur,IN
+13.06653,74.99525,Mudbidri,Karnataka,Udupi,IN
+26.08866,83.29088,Mubarakpur,Uttar Pradesh,Azamgarh,IN
+21.46475,78.45103,Mowad,Maharashtra,Nagpur Division,IN
+26.65738,84.91922,Motihari,Bihar,Purba Champaran,IN
+25.72644,78.9497,Moth,Uttar Pradesh,Jhansi,IN
+22.90469,73.83912,Morwa,Gujarat,Panch Mahals,IN
+21.3403,78.01258,Morsi,Maharashtra,Amravati Division,IN
+15.63097,73.73903,Morjim,Goa,North Goa,IN
+26.50286,78.00163,Morena,Madhya Pradesh,Morena,IN
+22.81731,70.8377,Morbi,Gujarat,Rajkot,IN
+26.2264,78.22482,Morar,Madhya Pradesh,Gwalior,IN
+27.18735,94.91557,Moranha,Assam,Dibrugarh,IN
+17.78744,76.4706,Moram,Maharashtra,Osmanabad,IN
+28.83893,78.77684,Moradabad,Uttar Pradesh,Moradabad,IN
+26.73583,95.05841,Mon,Nagaland,Mon,IN
+26.3248,94.51834,Mokokchung,Nagaland,Mokokchung,IN
+25.39679,85.91923,Mokama,Bihar,Patna,IN
+24.4975,93.77791,Moirang,Manipur,Bishnupur,IN
+21.30976,78.8298,Mohpa,Maharashtra,Nagpur Division,IN
+25.57342,85.6734,Mohiuddinnagar,Bihar,Samastipur,IN
+21.63947,78.73616,Mohgaon,Madhya Pradesh,Chhindwara,IN
+11.05896,78.13992,Mohanur,Tamil Nadu,Namakkal,IN
+28.25261,80.24498,Mohanpur,Uttar Pradesh,Shahjahanpur,IN
+26.78008,80.67497,Mohan,Uttar Pradesh,Unnao,IN
+30.81571,75.17419,Moga,Punjab,Moga,IN
+23.46253,73.29857,Modasa,Gujarat,Sabar Kantha,IN
+27.57615,74.68661,Meethari Marwar,Rajasthan,Nagaur,IN
+27.43201,80.53135,Misrikh,Uttar Pradesh,Sitapur,IN
+25.14582,82.56975,Mirzapur,Uttar Pradesh,Mirzapur,IN
+26.88817,88.19007,Mirik,West Bengal,Darjiling,IN
+16.8722,79.56247,Mirialguda,Telangana,Nalgonda,IN
+28.54012,79.20817,Mirganj,Uttar Pradesh,Bareilly,IN
+28.02929,79.66619,Miranpur Katra,Uttar Pradesh,Shahjahanpur,IN
+29.29047,77.94789,Miranpur,Uttar Pradesh,Muzaffarnagar,IN
+13.27918,80.25899,Minjur,Tamil Nadu,Thiruvallur,IN
+28.61031,79.16997,Milak,Uttar Pradesh,Rampur,IN
+26.2838,78.98016,Mihona,Madhya Pradesh,Bhind,IN
+17.63359,74.78773,Mhasvad,Maharashtra,Satara Division,IN
+18.1334,73.11162,Mhasla,Maharashtra,Raigarh,IN
+11.78796,77.8008,Mettur,Tamil Nadu,Salem,IN
+11.29971,76.93485,Mettupalayam,Tamil Nadu,Coimbatore,IN
+11.16812,78.45232,Mettuppalaiyam,Tamil Nadu,Tiruchchirappalli,IN
+26.64859,74.03414,Merta,Rajasthan,Nagaur,IN
+21.32112,70.44078,Mendarda,Gujarat,Junagadh,IN
+23.17647,88.09749,Memari,West Bengal,Barddhaman,IN
+10.03241,78.3393,Melur,Tamil Nadu,Madurai,IN
+12.66212,76.64857,Melukote,Karnataka,Mandya,IN
+26.97684,83.10973,Mehndawal,Uttar Pradesh,Sant Kabir Nagar,IN
+25.87852,83.11559,Mehnagar,Uttar Pradesh,Azamgarh,IN
+20.1505,76.56841,Mehekar,Maharashtra,Buldana,IN
+23.49741,73.51309,Meghraj,Gujarat,Sabar Kantha,IN
+28.97155,77.71934,Meerut,Uttar Pradesh,Meerut,IN
+22.42114,87.32257,Medinipur,West Bengal,Paschim Medinipur,IN
+18.04531,78.26078,Medak,Telangana,Medak,IN
+11.10354,79.655,Mayiladuthurai,Tamil Nadu,Nagapattinam,IN
+24.60998,93.88873,Mayang Imphal,Manipur,Imphal East,IN
+14.28908,76.08271,Mayakonda,Karnataka,Davanagere,IN
+29.10436,77.92134,Mawana,Uttar Pradesh,Meerut,IN
+11.26667,75.91667,Mavoor,Kerala,Kozhikode,IN
+9.25929,76.55642,Mavelikara,Kerala,Alappuzha,IN
+26.42856,80.88084,Maurawan,Uttar Pradesh,Unnao,IN
+30.08333,75.25,Maur,Punjab,Bathinda,IN
+24.66629,81.8741,Mauganj,Madhya Pradesh,Rewa,IN
+25.68355,80.1137,Maudaha,Uttar Pradesh,Hamirpur,IN
+25.69452,81.92259,Mau Aimma,Uttar Pradesh,Allahabad,IN
+26.26584,78.67108,Mau,Madhya Pradesh,Bhind,IN
+25.94167,83.56111,Mau,Uttar Pradesh,Mau,IN
+11.31881,79.20724,Mattur,Tamil Nadu,Ariyalur,IN
+11.91667,75.58333,Mattanur,Kerala,Kannur,IN
+27.50199,77.6833,Mathura,Uttar Pradesh,Mathura,IN
+18.98281,73.2652,Matheran,Maharashtra,Raigarh,IN
+25.43616,80.15669,Mataundh,Uttar Pradesh,Banda,IN
+26.34197,89.21555,Matabhanga,West Bengal,Koch Bihar,IN
+11.56791,76.64081,Masinigudi,Tamil Nadu,Nilgiri,IN
+25.35249,85.03445,Masaurhi Buzurg,Bihar,Patna,IN
+15.40927,73.78869,Marmagao,Goa,South Goa,IN
+15.74041,79.27057,Markapur,Andhra Pradesh,Prakasam,IN
+26.65725,94.31529,Mariani,Assam,Jorhat,IN
+25.60003,82.60187,Mariahu,Uttar Pradesh,Jaunpur,IN
+25.96927,84.86221,Marhaura,Bihar,Saran,IN
+27.28482,95.66796,Margherita,Arunachal Pradesh,,IN
+12.38895,78.00332,Marandahalli,Tamil Nadu,Dharmapuri,IN
+12.19214,79.94193,Marakkanam,Tamil Nadu,Villupuram,IN
+27.73645,78.56923,Marahra,Uttar Pradesh,Etah,IN
+15.59154,73.80898,Mapuca,Goa,North Goa,IN
+19.30133,76.49735,Manwat,Maharashtra,Parbhani,IN
+15.98949,77.05045,Manvi,Karnataka,Raichur,IN
+18.65087,79.66501,Manthani,Telangana,Karimnagar,IN
+21.39615,79.26305,Mansar,Maharashtra,Nagpur Division,IN
+29.98844,75.40167,Mansa,Punjab,Mansa,IN
+23.42564,72.65739,Mansa,Gujarat,Gandhinagar,IN
+22.43111,75.62139,Manpur,Madhya Pradesh,Indore,IN
+19.7244,72.90966,Manor,Maharashtra,Thane,IN
+24.24,76.80182,Manohar Thana,Rajasthan,Jhalawar,IN
+27.29769,75.9495,Manoharpur,Rajasthan,Jaipur,IN
+22.37456,85.19234,Manoharpur,Jharkhand,Pashchim Singhbhum,IN
+10.66626,79.45064,Mannargudi,Tamil Nadu,Thiruvarur,IN
+10.9914,76.4596,Mannarakkat,Kerala,Palakkad district,IN
+20.25247,74.44115,Manmad,Maharashtra,Nashik Division,IN
+27.04805,82.231,Mankapur,Uttar Pradesh,Gonda,IN
+25.53347,89.86373,Mankachar,Meghalaya,,IN
+19.15599,76.21152,Manjlegaon,Maharashtra,Bid,IN
+25.53057,81.37371,Manjhanpur,Uttar Pradesh,Kaushambi District,IN
+12.71197,74.89014,Manjeshwara,Kerala,Kasaragod District,IN
+11.1172,76.11987,Manjeri,Kerala,Malappuram,IN
+13.35,74.78333,Manipala,Karnataka,Udupi,IN
+25.06346,81.09825,Manikpur,Uttar Pradesh,Chitrakoot,IN
+25.33891,87.61998,Manihari,Bihar,Katihar,IN
+25.98539,84.17251,Maniar,Uttar Pradesh,Ballia,IN
+20.31186,77.34484,Mangrul Pir,Maharashtra,Washim,IN
+25.33061,76.50973,Mangrol,Rajasthan,Baran,IN
+21.12268,70.11484,Mangrol,Gujarat,Junagadh,IN
+29.79163,77.8793,Manglaur,Uttar Pradesh,,IN
+24.66767,81.54673,Mangawan,Madhya Pradesh,Rewa,IN
+27.50965,88.52206,Mangan,Sikkim,North District,IN
+12.91723,74.85603,Mangalore,Karnataka,Dakshina Kannada,IN
+26.44212,92.03047,Mangaldai,Assam,Darrang,IN
+9.76572,78.63969,Mangalam,Tamil Nadu,Sivaganga,IN
+16.40348,80.55846,Mangalagiri,Andhra Pradesh,Guntur,IN
+25.64728,84.87418,Maner,Bihar,Patna,IN
+12.52145,76.89527,Mandya,Karnataka,Mandya,IN
+22.83282,69.35237,Mandvi,Gujarat,Kachchh,IN
+21.25526,73.30412,Mandvi,Gujarat,Surat,IN
+22.36667,75.38333,Mandu,Madhya Pradesh,Dhar,IN
+24.07184,75.06986,Mandsaur,Madhya Pradesh,Mandsaur,IN
+22.17598,75.65995,Mandleshwar,Madhya Pradesh,Khargone,IN
+22.59974,80.37108,Mandla,Madhya Pradesh,Mandla,IN
+31.71079,76.93152,Mandi,Himachal Pradesh,Mandi,IN
+28.70871,75.68228,Mandholi Kalan,Haryana,Bhiwani,IN
+29.48655,78.12732,Mandawar,Uttar Pradesh,Bijnor,IN
+27.86374,76.54999,Mandawar,Rajasthan,Alwar,IN
+18.8683,84.46296,Mandasa,Andhra Pradesh,Srikakulam,IN
+16.86254,81.92921,Mandapeta,Andhra Pradesh,East Godavari,IN
+9.27571,79.12362,Mandapam,Tamil Nadu,Ramanathapuram,IN
+25.19407,75.07215,Mandalgarh,Rajasthan,Bhilwara,IN
+25.44126,74.56979,Mandal,Rajasthan,Bhilwara,IN
+23.28865,71.91854,Mandal,Gujarat,Ahmadabad,IN
+18.87074,79.42863,Mancheral,Telangana,Adilabad,IN
+19.00436,73.94346,Manchar,Maharashtra,Pune Division,IN
+22.23566,75.08917,Manawar,Madhya Pradesh,Dhar,IN
+8.14812,77.30634,Manavalakurichi,Tamil Nadu,Kanniyakumari,IN
+21.49813,70.13775,Manavadar,Gujarat,Junagadh,IN
+24.48371,75.26871,Manasa,Madhya Pradesh,Neemuch,IN
+10.60772,78.42582,Manapparai,Tamil Nadu,Tiruchchirappalli,IN
+9.67318,78.47096,Manamadurai,Tamil Nadu,Sivaganga,IN
+12.00825,79.09153,Manalurpettai,Tamil Nadu,Villupuram,IN
+32.2574,77.17481,Manali,Himachal Pradesh,Kulu,IN
+13.16667,80.26667,Manali,Tamil Nadu,Thiruvallur,IN
+23.92703,92.48968,Mamit,Mizoram,Mamit,IN
+12.61914,80.1942,Mamallapuram,Tamil Nadu,Kancheepuram,IN
+16.05981,73.4629,Malvan,Maharashtra,Sindhudurg,IN
+13.00273,77.93796,Malur,Karnataka,Kolar,IN
+26.2838,75.36458,Malpura,Rajasthan,Tonk,IN
+23.36035,73.46595,Malpur,Gujarat,Sabar Kantha,IN
+13.35284,74.70833,Malpe,Karnataka,Udupi,IN
+11.54299,78.14017,Mallur,Tamil Nadu,Salem,IN
+11.4892,78.03277,Mallasamudram,Tamil Nadu,Namakkal,IN
+11.98123,78.24829,Mallapuram,Tamil Nadu,Dharmapuri,IN
+23.78213,86.28767,Malkera,Jharkhand,Dhanbad,IN
+20.8856,76.20371,Malkapur,Maharashtra,Buldana,IN
+16.91999,73.9347,Malkapur,Maharashtra,Kolhapur,IN
+18.36423,81.88728,Malkangiri,Chhattisgarh,,IN
+26.92223,80.71078,Malihabad,Uttar Pradesh,Lucknow District,IN
+24.28286,74.99024,Malhargarh,Madhya Pradesh,Mandsaur,IN
+30.5309,75.87949,Maler Kotla,Punjab,Sangrur,IN
+20.5537,74.52881,Malegaon,Maharashtra,Nashik Division,IN
+12.38613,77.05954,Malavalli,Karnataka,Mandya,IN
+30.21121,74.4818,Malaut,Punjab,Muktsar,IN
+11.04019,76.08237,Malappuram,Kerala,Malappuram,IN
+27.48652,95.43646,Makum,Assam,Tinsukia,IN
+23.26008,76.1455,Maksi,Madhya Pradesh,Shajapur,IN
+27.04361,74.72445,Makrana,Rajasthan,Nagaur,IN
+31.1023,74.9969,Makhu,Punjab,Ferozepur,IN
+17.2698,73.50031,Makhjan,Maharashtra,Ratnagiri,IN
+31.75705,74.95775,Majitha,Punjab,Amritsar,IN
+23.50338,79.92289,Majholi,Madhya Pradesh,Jabalpur,IN
+26.235,84.14934,Mairwa,Bihar,Siwan,IN
+25.56165,91.63602,Mairang,Meghalaya,West Khasi Hills,IN
+27.23,79.02882,Mainpuri,Uttar Pradesh,Mainpuri,IN
+17.45758,76.29306,Maindargi,Maharashtra,Solapur,IN
+26.56263,88.8204,Mainaguri,West Bengal,Jalpaiguri,IN
+28.29088,80.3438,Mailani,Uttar Pradesh,Kheri,IN
+24.26447,80.75941,Maihar,Madhya Pradesh,Satna,IN
+25.30125,93.13811,Maibong,Assam,Dima Hasao District,IN
+27.04594,76.93152,Mahwah,Rajasthan,Dausa,IN
+25.18305,93.11342,Mahur,Assam,Dima Hasao District,IN
+22.82082,72.94032,Mahudha,Gujarat,Kheda,IN
+24.587,78.72796,Mahroni,Uttar Pradesh,Lalitpur,IN
+27.66368,80.47371,Maholi,Uttar Pradesh,Sitapur,IN
+25.29222,79.87231,Mahoba,Uttar Pradesh,Mahoba,IN
+27.2976,81.12399,Mahmudabad,Uttar Pradesh,Sitapur,IN
+22.18616,87.98072,Mahishadal,West Bengal,Purba Medinipur,IN
+26.49471,78.61593,Mahgawan,Madhya Pradesh,Bhind,IN
+22.17592,75.58715,Maheshwar,Madhya Pradesh,Khargone,IN
+28.26935,76.15253,Mahendragarh,Haryana,Mahendragarh,IN
+22.82359,72.75551,Mahemdavad,Gujarat,Kheda,IN
+11.70044,75.53409,Mahe,Kerala,,IN
+16.74385,77.98597,Mahbubnagar,Telangana,Mahbubnagar,IN
+17.59728,80.00207,Mahbubabad,Telangana,Warangal,IN
+21.1104,82.09796,Mahasamund,Chhattisgarh,Mahasamund,IN
+27.14136,83.56524,Maharajganj,Uttar Pradesh,Maharajganj,IN
+26.38156,81.27459,Maharajganj,Uttar Pradesh,Rae Bareli,IN
+26.25883,83.11615,Maharajganj,Uttar Pradesh,Azamgarh,IN
+26.11066,84.50382,Maharajganj,Bihar,Siwan,IN
+28.96797,76.29538,Maham,Haryana,Rohtak,IN
+16.3888,75.10873,Mahalingpur,Karnataka,Bagalkot,IN
+18.08333,73.41667,Mahad,Maharashtra,Raigarh,IN
+27.43282,77.74153,Mahaban,Uttar Pradesh,Mathura,IN
+17.92369,73.65857,Mahabaleshwar,Maharashtra,Satara Division,IN
+26.75599,83.12765,Maghar,Uttar Pradesh,Sant Kabir Nagar,IN
+34.09212,74.59024,Magam,Kashmir,Baramula,IN
+12.957,77.2231,Magadi,Karnataka,Ramanagara,IN
+12.51167,79.88485,Madurantakam,Tamil Nadu,Kancheepuram,IN
+9.91735,78.11962,Madurai,Tamil Nadu,Madurai,IN
+10.48134,79.39681,Madukkur,Tamil Nadu,Thanjavur,IN
+10.90481,76.96461,Madukkarai,Tamil Nadu,Coimbatore,IN
+17.91634,82.81418,Madugula,Andhra Pradesh,Vishakhapatnam,IN
+13.08784,80.27847,Chennai,Tamil Nadu,Chennai,IN
+12.42602,75.7382,Madikeri,Karnataka,Kodagu,IN
+22.68944,88.44594,Madhyamgram,West Bengal,North 24 Parganas,IN
+24.27419,86.63929,Madhupur,Jharkhand,Deogarh,IN
+13.66013,77.21232,Madhugiri,Karnataka,Tumkur,IN
+26.35367,86.07169,Madhubani,Bihar,Madhubani,IN
+26.276,79.1869,Madhogarh,Uttar Pradesh,Jalaun,IN
+24.56363,80.9107,Madhogarh,Madhya Pradesh,Satna,IN
+27.11642,80.14116,Madhoganj,Uttar Pradesh,Hardoi,IN
+25.92127,86.79271,Madhipura,Bihar,Madhepura,IN
+15.27501,73.95786,Madgaon,Goa,South Goa,IN
+12.5839,77.04344,Maddur,Karnataka,Mandya,IN
+23.00589,88.49168,Madanpur,West Bengal,Nadia,IN
+13.5503,78.50288,Madanapalle,Andhra Pradesh,Chittoor,IN
+16.18747,81.13888,Machilipatnam,Andhra Pradesh,Krishna,IN
+25.68692,82.41206,Machhlishahr,Uttar Pradesh,Jaunpur,IN
+30.91547,76.20134,Machhiwara,Punjab,Ludhiana,IN
+16.48333,79.43333,Macherla,Andhra Pradesh,Guntur,IN
+24.12735,76.31592,Machalpur,Madhya Pradesh,Rajgarh,IN
+22.89247,92.74218,Lunglei,Mizoram,Lunglei,IN
+23.12854,73.61065,Lunavada,Gujarat,Panch Mahals,IN
+30.90015,75.85229,Ludhiana,Punjab,Ludhiana,IN
+26.83928,80.92313,Lucknow,Uttar Pradesh,Lucknow District,IN
+25.1765,86.0947,Luckeesarai,Bihar,Lakhisarai,IN
+27.4,74.91667,Losal,Rajasthan,Sikar,IN
+22.27445,81.70156,Lormi,Chhattisgarh,Bilaspur,IN
+28.75153,77.288,Loni,Uttar Pradesh,Ghaziabad,IN
+15.46907,74.51906,Londa,Karnataka,Belgaum,IN
+18.75275,73.40575,Lonavla,Maharashtra,Pune Division,IN
+19.98497,76.5214,Lonar,Maharashtra,Buldana,IN
+18.59921,73.92701,Lohogaon,Maharashtra,Pune Division,IN
+28.42959,75.80886,Loharu,Haryana,Bhiwani,IN
+23.43313,84.67982,Lohardaga,Jharkhand,Lohardaga,IN
+29.40356,80.08965,Lohaghat,Uttarakhand,Champawat,IN
+21.58235,78.85911,Lodhikheda,Madhya Pradesh,Chhindwara,IN
+16.15795,76.52238,Lingsugur,Karnataka,Raichur,IN
+22.56507,71.81076,Limbdi,Gujarat,Surendranagar,IN
+24.06067,77.40667,Leteri,Madhya Pradesh,Vidisha,IN
+34.16504,77.58402,Leh,Kashmir,Ladakh,IN
+29.11091,77.77767,Lawar Khas,Uttar Pradesh,Meerut,IN
+30.19406,75.67963,Laungowal,Punjab,Sangrur,IN
+18.39721,76.56784,Latur,Maharashtra,Latur,IN
+21.7231,71.38843,Lathi,Gujarat,Amreli,IN
+23.74395,84.499,Latehar,Jharkhand,Latehar,IN
+20.14384,74.23836,Lasalgaon,Maharashtra,Nashik Division,IN
+26.20258,83.96792,Lar,Uttar Pradesh,Deoria,IN
+29.84097,78.67881,Lansdowne,Uttarakhand,Garhwal,IN
+16.86086,73.54993,Lanja,Maharashtra,Ratnagiri,IN
+26.55951,76.32915,Lalsot,Rajasthan,Dausa,IN
+22.19073,69.96351,Lalpur,Gujarat,Jamnagar,IN
+24.69055,78.41888,Lalitpur,Uttar Pradesh,Lalitpur,IN
+10.87419,78.81935,Lalgudi,Tamil Nadu,Tiruchchirappalli,IN
+24.42244,88.25238,Lalgola,West Bengal,Murshidabad,IN
+25.93182,81.70478,Lalganj,Uttar Pradesh,Pratapgarh,IN
+25.8673,85.17304,Lalganj,Bihar,Vaishali,IN
+9.71667,76.7,Lalam,Kerala,Kottayam,IN
+24.55418,92.61592,Lala,Assam,Hailakandi,IN
+15.12689,75.46935,Lakshmeshwar,Karnataka,Gadag,IN
+18.86667,79.21667,Lakshettipet,Telangana,Karimnagar,IN
+29.7587,78.04148,Laksar,Uttarakhand,Haridwar,IN
+23.66667,86.66667,Lakhyabad,West Bengal,Puruliya,IN
+22.85683,71.78844,Lakhtar,Gujarat,Surendranagar,IN
+22.60058,79.60135,Lakhnadon,Madhya Pradesh,Seoni,IN
+26.64832,79.14848,Dakhna,Uttar Pradesh,Etawah,IN
+26.03001,90.30611,Lakhipur,Assam,Goalpara,IN
+24.79281,93.0091,Lakhipur,Assam,Cachar,IN
+27.952,80.78257,Lakhimpur,Uttar Pradesh,Kheri,IN
+25.67237,76.17692,Lakheri,Rajasthan,Bundi,IN
+27.71007,80.90069,Laharpur,Uttar Pradesh,Sitapur,IN
+26.19401,78.94137,Lahar,Madhya Pradesh,Bhind,IN
+29.9935,77.04563,Ladwa,Haryana,Kurukshetra,IN
+27.65312,74.39993,Ladnun,Rajasthan,Nagaur,IN
+27.82294,75.02754,Lachhmangarh Sikar,Rajasthan,Sikar,IN
+32.5717,77.02448,Kyelang,Himachal Pradesh,Lahul and Spiti,IN
+8.31792,77.19192,Kuzhithurai,Tamil Nadu,Kanniyakumari,IN
+10.7199,79.5157,Koothanallur,Tamil Nadu,Thiruvarur,IN
+10.15,76.73333,Kuttampuzha,Kerala,Idukki,IN
+8.9303,77.26951,Kuttalam,Tamil Nadu,Tirunelveli Kattabo,IN
+21.6241,69.98494,Kutiyana,Gujarat,Porbandar,IN
+9.8,76.33333,Kutiatodu,Kerala,Alappuzha,IN
+15.75623,76.19112,Kushtagi,Karnataka,Koppal,IN
+12.45795,75.95904,Kushalnagar,Karnataka,Kodagu,IN
+23.19899,74.45074,Kushalgarh,Rajasthan,Banswara,IN
+20.83222,81.72139,Kurud,Chhattisgarh,Dhamtari,IN
+11.55028,79.59066,Kurinjippadi,Tamil Nadu,Cuddalore,IN
+17.19321,77.35772,Kurgunta,Karnataka,Gulbarga,IN
+18.09339,75.41567,Kurduvadi,Maharashtra,Solapur,IN
+25.98081,79.98948,Kurara,Uttar Pradesh,Hamirpur,IN
+16.68317,74.58892,Kurandvad,Maharashtra,Kolhapur,IN
+12.74768,78.34235,Kuppam,Andhra Pradesh,Chittoor,IN
+12.34898,78.5094,Kunnattur,Tamil Nadu,Krishnagiri,IN
+10.6484,76.07063,Kunnamkulam,Kerala,Thrissur District,IN
+11.30459,75.87772,Kunnamangalam,Kerala,Kozhikode,IN
+13.02319,77.02518,Kunigal,Karnataka,Tumkur,IN
+21.34222,71.30633,Kundla,Gujarat,Amreli,IN
+15.25612,75.24735,Kundgol,Karnataka,Dharwad,IN
+28.68362,78.78555,Kundarkhi,Uttar Pradesh,Moradabad,IN
+25.71935,81.51268,Kunda,Uttar Pradesh,Pratapgarh,IN
+14.42853,74.4189,Kumta,Karnataka,Uttar Kannada,IN
+14.05455,75.39992,Kumsi,Karnataka,Shimoga,IN
+27.31657,77.37079,Kumher,Rajasthan,Bharatpur,IN
+21.26667,81.51667,Kumhari,Chhattisgarh,Durg,IN
+24.37257,77.04923,Kumbhraj,Madhya Pradesh,Guna,IN
+10.96209,79.39124,Kumbakonam,Tamil Nadu,Thanjavur,IN
+10.48801,77.35053,Kumaralingam,Tamil Nadu,Tiruppur,IN
+31.95835,77.10823,Kulu,Himachal Pradesh,Kulu,IN
+23.73166,86.84372,Kulti,West Bengal,Barddhaman,IN
+25.3202,79.63987,Kulpahar,Uttar Pradesh,Mahoba,IN
+10.93487,78.41251,Kulittalai,Tamil Nadu,Karur,IN
+33.64462,75.0187,Kulgam,Kashmir,Kulgam,IN
+9.00234,78.1925,Kulattur,Tamil Nadu,Thoothukkudi,IN
+22.20801,74.75814,Kukshi,Madhya Pradesh,Dhar,IN
+17.48486,78.41376,Kukatpalli,Telangana,Rangareddi,IN
+23.72757,85.50616,Kuju,Jharkhand,Ramgarh,IN
+14.90467,76.38441,Kudligi,Karnataka,Bellary,IN
+16.01148,73.68867,Kudal,Maharashtra,Sindhudurg,IN
+16.62784,74.85408,Kudachi,Karnataka,Belgaum,IN
+33.07246,75.28727,Kud,Kashmir,Udhampur,IN
+26.98747,73.97108,Kuchera,Rajasthan,Nagaur,IN
+27.14745,74.85655,Kuchaman,Rajasthan,Nagaur,IN
+22.26675,86.17385,Kuchaiburi,Odisha,Mayurbhanj,IN
+12.66628,76.48812,Krishnarajpet,Karnataka,Mandya,IN
+23.40576,88.49073,Krishnanagar,West Bengal,Nadia,IN
+12.51921,78.21382,Krishnagiri,Tamil Nadu,Krishnagiri,IN
+11.24802,75.7804,Kozhikode,Kerala,Kozhikode,IN
+17.4,73.76667,Koynanagar,Maharashtra,Satara Division,IN
+17.0162,81.72934,Kovvur,Andhra Pradesh,West Godavari,IN
+14.50011,79.98595,Kovur,Andhra Pradesh,Nellore,IN
+9.17167,77.86989,Kovilpatti,Tamil Nadu,Thoothukkudi,IN
+8.36667,76.99667,Kovalam,Kerala,,IN
+25.03046,81.31892,Kotwa,Uttar Pradesh,,IN
+14.82442,76.22005,Kotturu,Karnataka,Bellary,IN
+9.58692,76.52132,Kottayam,Kerala,Kottayam,IN
+18.49543,79.0943,Kottapalli,Telangana,Karimnagar,IN
+10.11007,78.79555,Kottaiyur,Tamil Nadu,Sivaganga,IN
+17.55106,80.61779,Kottagudem,Telangana,Khammam,IN
+25.80766,79.30882,Kotra,Uttar Pradesh,Jalaun,IN
+27.70207,76.19911,Kotputli,Rajasthan,Jaipur,IN
+23.20383,81.97904,Kotma,Madhya Pradesh,Anuppur,IN
+32.25,76.03333,Kotla,Himachal Pradesh,Kangra,IN
+31.11728,77.53936,Kotkhai,Himachal Pradesh,Shimla,IN
+30.94523,75.13763,Kot Isa Khan,Punjab,Moga,IN
+24.75136,80.7747,Kothi,Madhya Pradesh,Satna,IN
+19.35176,79.48323,Kothapet,Telangana,Adilabad,IN
+29.74337,78.51945,Kotdwara,Uttarakhand,Garhwal,IN
+24.6978,80.9812,Kotar,Madhya Pradesh,Satna,IN
+19.14256,82.32536,Kotaparh,Chhattisgarh,,IN
+10.06178,76.62681,Kotamangalam,Kerala,Ernakulam,IN
+11.42072,76.86035,Kotagiri,Tamil Nadu,Nilgiri,IN
+25.18254,75.83907,Kota,Rajasthan,Kota,IN
+24.44711,83.13026,Kota,Uttar Pradesh,Sonbhadra,IN
+22.29344,82.02353,Kota,Chhattisgarh,Bilaspur,IN
+15.85572,77.24475,Kosigi,Andhra Pradesh,Kurnool,IN
+27.794,77.4383,Kosi,Uttar Pradesh,Mathura,IN
+21.46202,72.95842,Kosamba,Gujarat,Surat,IN
+24.11774,78.04007,Korwai,Madhya Pradesh,Vidisha,IN
+16.5,81.25,Korukollu,Andhra Pradesh,Krishna,IN
+18.64573,74.05909,Koregaon,Maharashtra,Pune Division,IN
+22.3458,82.69633,Korba,Chhattisgarh,Korba,IN
+18.82154,78.71186,Koratla,Telangana,Karimnagar,IN
+13.52187,77.2375,Koratagere,Karnataka,Tumkur,IN
+18.81199,82.71048,Koraput,Odisha,Koraput,IN
+8.77506,78.09158,Korampallam,Tamil Nadu,Thoothukkudi,IN
+21.24722,79.10579,Koradih,Maharashtra,Nagpur Division,IN
+10.76987,79.49209,Koradachcheri,Tamil Nadu,Thiruvarur,IN
+15.34522,76.15478,Koppal,Karnataka,Koppal,IN
+13.53044,75.36329,Koppa,Karnataka,Chikmagalur,IN
+19.88239,74.47605,Kopargaon,Maharashtra,Ahmadnagar,IN
+26.02029,83.56593,Kopaganj,Uttar Pradesh,Mau,IN
+16.20138,74.74886,Konnur,Karnataka,Belgaum,IN
+22.70508,88.34446,Konnagar,West Bengal,Hugli,IN
+11.58333,77.91667,Konganapuram,Tamil Nadu,Salem,IN
+16.61667,80.53333,Kondapalle,Andhra Pradesh,Krishna,IN
+18.80758,77.76913,Kondalwadi,Maharashtra,Nanded,IN
+19.59083,81.664,Kondagaon,Chhattisgarh,Bastar,IN
+25.99451,79.15127,Konch,Uttar Pradesh,Jalaun,IN
+19.89758,86.11413,Konarka,Odisha,Puri,IN
+12.62994,76.05036,Konanur,Karnataka,Hassan,IN
+9.84672,77.29577,Kombai,Tamil Nadu,Theni,IN
+24.22388,92.67869,Kolasib,Mizoram,Kolasib district,IN
+12.1569,77.10693,Kollegal,Karnataka,Chamrajnagar,IN
+16.69563,74.23167,Kolhapur,Maharashtra,Kolhapur,IN
+25.21942,77.61179,Kolaras,Madhya Pradesh,Shivpuri,IN
+13.13671,78.12917,Kolar,Karnataka,Kolar,IN
+16.45,80.6,Kolanukonda,Andhra Pradesh,Guntur,IN
+8.17938,77.25818,Colachel,Tamil Nadu,Kanniyakumari,IN
+26.40107,90.27286,Kokrajhar,Assam,Kokrajhar,IN
+25.67467,94.11099,Kohima,Nagaland,Kohima,IN
+25.5811,84.79632,Koelwar,Bihar,Bhojpur,IN
+10.22222,76.19917,Kodungallur,Kerala,Thrissur District,IN
+11.07751,77.88363,Kodumudi,Tamil Nadu,Erode,IN
+16.87639,74.1909,Kodoli,Maharashtra,Kolhapur,IN
+12.80065,75.88638,Kodlipet,Karnataka,Kodagu,IN
+20.79393,70.70216,Kodinar,Gujarat,Amreli,IN
+13.72148,77.3862,Kodigenahalli,Karnataka,Tumkur,IN
+24.46802,85.59343,Kodarma,Jharkhand,Kodarma,IN
+16.9985,79.9656,Kodar,Telangana,Nalgonda,IN
+19.62425,84.94075,Kodala,Odisha,Ganjam,IN
+10.23925,77.48932,Kodaikanal,Tamil Nadu,Dindigul,IN
+21.7457,84.35105,Kochinda,Odisha,Sambalpur,IN
+26.32539,89.44508,Koch Bihar,West Bengal,Koch Bihar,IN
+25.32593,84.25976,Koath,Bihar,Rohtas,IN
+10.30067,76.33763,Kizhake Chalakudi,Kerala,Thrissur District,IN
+28.86663,77.93822,Kithor,Uttar Pradesh,Meerut,IN
+33.31346,75.76726,Kishtwar,Kashmir,Kishtwar,IN
+27.02487,79.262,Kishni,Uttar Pradesh,Mainpuri,IN
+25.64107,81.02259,Kishanpur,Uttar Pradesh,Fatehpur,IN
+27.81889,76.72972,Kishangarh,Rajasthan,Alwar,IN
+26.5741,74.86685,Kishangarh,Rajasthan,Ajmer,IN
+26.10282,87.95205,Kishanganj,West Bengal,,IN
+22.08333,85.35,Kiri Buru,Odisha,Kendujhar,IN
+29.50671,78.20613,Kiratpur,Uttar Pradesh,Bijnor,IN
+27.13754,77.78644,Kiraoli,Uttar Pradesh,Agra,IN
+10.59358,77.5028,Kiranur,Tamil Nadu,Dindigul,IN
+10.56988,78.78682,Kiranur,Tamil Nadu,Pudukkottai,IN
+25.63698,82.91605,Kirakat,Uttar Pradesh,Jaunpur,IN
+19.62368,78.2,Kinwat,Maharashtra,Nanded,IN
+10.76721,79.74186,Kilvelur,Tamil Nadu,Nagapattinam,IN
+28.91173,79.51535,Kichha,Uttarakhand,Udham Singh Nagar,IN
+28.20307,80.27046,Khutar,Uttar Pradesh,Shahjahanpur,IN
+25.48034,85.38409,Khusropur,Bihar,Patna,IN
+28.25436,77.85436,Khurja,Uttar Pradesh,Bulandshahr,IN
+20.18268,85.61629,Khurda,Odisha,Khordha,IN
+24.04344,78.33041,Khurai,Madhya Pradesh,Sagar,IN
+23.07533,85.27903,Khunti,Jharkhand,Khunti,IN
+20.00633,75.19213,Khuldabad,Maharashtra,Aurangabad Division,IN
+23.78611,76.61774,Khujner,Madhya Pradesh,Rajgarh,IN
+28.14694,79.7139,Khudaganj,Uttar Pradesh,Shahjahanpur,IN
+24.07964,91.59972,Khowai,Tripura,,IN
+18.78562,73.34589,Khopoli,Maharashtra,Raigarh,IN
+27.01667,95.56667,Khonsa,Arunachal Pradesh,Tirap,IN
+22.16749,76.8601,Khirkian,Madhya Pradesh,Harda,IN
+24.03943,76.578,Khilchipur,Madhya Pradesh,Rajgarh,IN
+28.00069,75.78644,Khetri,Rajasthan,Jhunjhunun,IN
+21.67124,74.58535,Khetia,Maharashtra,,IN
+27.90308,80.79752,Kheri,Uttar Pradesh,Kheri,IN
+23.88534,72.61869,Kheralu,Gujarat,Mahesana,IN
+31.14456,74.55962,Khem Karan,Punjab,Tarn Taran,IN
+28.86667,77.28333,Khekra,Uttar Pradesh,Baghpat,IN
+24.03165,73.04697,Khed Brahma,Gujarat,Sabar Kantha,IN
+22.75218,72.68533,Kheda,Gujarat,Kheda,IN
+18.33811,73.84677,Khed,Maharashtra,Pune Division,IN
+17.71888,73.39693,Khed,Maharashtra,Ratnagiri,IN
+23.37807,93.12797,Khawhai,Mizoram,Champhai,IN
+32.6027,74.80918,Khaur,Kashmir,Jammu,IN
+22.97617,86.85462,Khatra,West Bengal,Bankura,IN
+28.92221,79.97015,Khatima,Uttarakhand,Udham Singh Nagar,IN
+22.5957,76.91363,Khategaon,Madhya Pradesh,Dewas,IN
+29.2788,77.73196,Khatauli,Uttar Pradesh,Muzaffarnagar,IN
+26.51839,92.14722,Kharupatia,Assam,Darrang,IN
+21.98637,83.10613,Kharsia,Chhattisgarh,Raigarh,IN
+22.79041,85.83132,Kharsawan,Jharkhand,Saraikela,IN
+21.74713,82.57915,Kharod,Chhattisgarh,Janjgir-Champa,IN
+28.8787,76.91069,Kharkhauda,Haryana,Sonipat,IN
+28.83704,77.74073,Kharkhauda,Uttar Pradesh,Meerut,IN
+20.28845,82.7606,Kharhial,Odisha,Nuapada,IN
+27.37733,81.98642,Khargupur,Uttar Pradesh,Gonda,IN
+21.82526,75.6107,Khargon,Madhya Pradesh,Khargone,IN
+24.823,79.144,Khargapur,Madhya Pradesh,Tikamgarh,IN
+25.54214,79.81297,Kharela,Uttar Pradesh,Hamirpur,IN
+22.71861,88.37806,Khardah,West Bengal,North 24 Parganas,IN
+30.74572,76.64701,Kharar,Punjab,Ajitgarh,IN
+22.72211,87.67824,Kharar,West Bengal,Paschim Medinipur,IN
+18.43997,73.77545,Kharakvasla,Maharashtra,Pune Division,IN
+25.12446,86.55578,Kharagpur,Bihar,Munger,IN
+22.33971,87.32501,Kharagpur,West Bengal,Paschim Medinipur,IN
+21.42264,78.98165,Khapa,Madhya Pradesh,,IN
+28.53446,78.06546,Khanpur,Uttar Pradesh,Bulandshahr,IN
+24.73241,76.39601,Khanpur,Rajasthan,Jhalawar,IN
+30.703,76.22106,Khanna,Punjab,Ludhiana,IN
+21.82451,76.35202,Khandwa,Madhya Pradesh,East Nimar,IN
+27.60499,75.502,Khandela,Rajasthan,Sikar,IN
+15.63969,74.50847,Khanapur,Karnataka,Belgaum,IN
+17.24767,80.14368,Khammam,Telangana,Khammam,IN
+20.97586,82.2512,Khamharia,Chhattisgarh,Mahasamund,IN
+20.70738,76.56827,Khamgaon,Maharashtra,Buldana,IN
+22.31744,72.61916,Khambhat,Gujarat,Anand,IN
+22.20685,69.65031,Khambhaliya,Gujarat,Jamnagar,IN
+23.22542,79.88005,Khamaria,Madhya Pradesh,Jabalpur,IN
+30.81675,76.3531,Khamanon,Punjab,Fatehgarh Sahib,IN
+19.60908,85.08609,Khallikot,Odisha,Ganjam,IN
+26.77447,83.0709,Khalilabad,Uttar Pradesh,Sant Kabir Nagar,IN
+24.8478,79.93344,Khajuraho,Madhya Pradesh,Chhatarpur,IN
+26.94269,77.8189,Khairagarh,Chhattisgarh,,IN
+21.41879,80.98012,Khairagarh,Chhattisgarh,Raj Nandgaon,IN
+27.52708,80.75553,Khairabad,Uttar Pradesh,Sitapur,IN
+27.94139,77.84373,Khair,Uttar Pradesh,Aligarh,IN
+25.34109,78.53184,Khailar,Uttar Pradesh,Jhansi,IN
+25.58282,85.04547,Khagaul,Bihar,Patna,IN
+25.51049,86.47627,Khagaria,Bihar,Khagaria,IN
+25.77165,81.10143,Khaga,Uttar Pradesh,Fatehpur,IN
+18.5635,73.85205,Khadki,Maharashtra,Pune Division,IN
+27.18333,83.88333,Khada,Uttar Pradesh,Kushinagar,IN
+23.42322,75.28185,Khachrod,Madhya Pradesh,Ujjain,IN
+20.18778,83.21949,Kesinga,Odisha,Kalahandi,IN
+25.29275,75.93948,Keshorai Patan,Rajasthan,Bundi,IN
+21.30328,70.24861,Keshod,Gujarat,Junagadh,IN
+16.01384,75.54631,Kerur,Karnataka,Bagalkot,IN
+23.77574,86.37609,Kenduadih,Jharkhand,Dhanbad,IN
+20.50166,86.42227,Kendraparha,Odisha,Kendrapara,IN
+23.1959,86.51499,Kenda,West Bengal,Puruliya,IN
+28.8054,79.20396,Kemri,Uttar Pradesh,Rampur,IN
+12.60294,77.85214,Kelamangalam,Tamil Nadu,Krishnagiri,IN
+25.97132,75.14992,Kekri,Rajasthan,Ajmer,IN
+8.94708,77.77206,Kayattar,Tamil Nadu,Thoothukkudi,IN
+9.17243,76.50017,Kayankulam,Kerala,Alappuzha,IN
+8.57143,78.11992,Kayalpattinam,Tamil Nadu,Thoothukkudi,IN
+22.00827,81.2321,Kawardha,Chhattisgarh,Kabeerdham,IN
+22.09133,74.05115,Kawant,Gujarat,Vadodara,IN
+12.41957,78.21628,Kaverippattanam,Tamil Nadu,Krishnagiri,IN
+10.56688,72.64203,Kavaratti,Laccadives,Lakshadweep,IN
+15.28829,75.9433,Kavalur,Karnataka,Koppal,IN
+14.91582,79.9912,Kavali,Andhra Pradesh,Nellore,IN
+10.99367,78.21929,Kattuputtur,Tamil Nadu,Tiruchchirappalli,IN
+13.21667,80.31667,Kattivakkam,Tamil Nadu,Thiruvallur,IN
+9.18333,76.55,Kattanam,Kerala,Alappuzha,IN
+23.79752,86.29834,Katras,Jharkhand,Dhanbad,IN
+32.99167,74.93195,Katra,Kashmir,Reasi,IN
+27.50801,82.02707,Katra,Uttar Pradesh,Shrawasti,IN
+21.05869,71.79457,Katpur,Gujarat,Bhavnagar,IN
+12.96951,79.14552,Katpadi,Tamil Nadu,Vellore,IN
+23.64558,88.13258,Katoya,West Bengal,Barddhaman,IN
+21.27388,78.5858,Katol,Maharashtra,Nagpur Division,IN
+25.53852,87.57044,Katihar,Bihar,Katihar,IN
+17.96137,75.88895,Kati,Maharashtra,Osmanabad,IN
+32.37068,75.52457,Kathua,Kashmir,Kathua,IN
+21.28854,72.9407,Kathor,Gujarat,Surat,IN
+22.50254,82.54326,Katghora,Chhattisgarh,Korba,IN
+23.44168,79.79628,Katangi,Madhya Pradesh,Jabalpur,IN
+21.77327,79.80554,Katangi,Madhya Pradesh,Balaghat,IN
+22.12745,75.61101,Kasrawad,Madhya Pradesh,Khargone,IN
+29.21399,78.95693,Kashipur,Uttarakhand,Udham Singh Nagar,IN
+27.80544,78.64602,Kasganj,Uttar Pradesh,Kanshiram Nagar,IN
+30.89856,76.96587,Kasauli,Himachal Pradesh,Solan,IN
+12.49838,74.98959,Kasaragod,Kerala,Kasaragod District,IN
+14.81361,74.12972,Karwar,Karnataka,Uttar Kannada,IN
+10.95771,78.08095,Karur,Tamil Nadu,Karur,IN
+12.70326,80.09231,Karumbakkam,Tamil Nadu,Kancheepuram,IN
+31.44155,75.49992,Kartarpur,Punjab,Jalandhar,IN
+26.88251,88.27729,Karsiyang,West Bengal,Darjiling,IN
+23.94891,78.86584,Karrapur,Madhya Pradesh,Sagar,IN
+28.65156,77.18859,Karol Bagh,NCT,Central Delhi,IN
+29.69197,76.98448,Karnal,Haryana,Karnal,IN
+18.4077,75.19386,Karmala,Maharashtra,Solapur,IN
+13.21051,74.99914,Karkal,Karnataka,Udupi,IN
+18.9107,73.32354,Karjat,Maharashtra,Raigarh,IN
+9.67505,78.09992,Kariapatti,Tamil Nadu,Virudhunagar,IN
+23.97594,88.61917,Karimpur,West Bengal,Nadia,IN
+18.43915,79.12856,Karimnagar,Telangana,Karimnagar,IN
+24.86919,92.35543,Karimganj,Assam,Karimganj,IN
+27.00087,78.93856,Karhal,Uttar Pradesh,Mainpuri,IN
+34.55765,76.12622,Kargil,Kashmir,Kargil,IN
+25.46165,78.13941,Karera,Madhya Pradesh,Shivpuri,IN
+22.91581,79.06318,Kareli,Madhya Pradesh,Narsimhapur,IN
+26.49831,77.02755,Karauli,Rajasthan,Karauli,IN
+25.45241,81.42675,Karari,Uttar Pradesh,Kaushambi District,IN
+20.48263,77.48749,Karanja,Maharashtra,Washim,IN
+22.54243,72.90392,Karamsad,Gujarat,Anand,IN
+10.45787,79.13971,Karambakkudi,Tamil Nadu,Pudukkottai,IN
+11.24058,76.96009,Karamadai,Tamil Nadu,Coimbatore,IN
+10.0661,78.76787,Karaikkudi,Tamil Nadu,Sivaganga,IN
+10.91667,79.83333,Karaikal,Pondicherry,Karaikal,IN
+17.28937,74.18183,Karad,Maharashtra,Satara Division,IN
+31.38011,75.38105,Kapurthala,Punjab,Kapurthala,IN
+26.9265,83.7132,Kaptanganj,Uttar Pradesh,Kushinagar,IN
+25.40529,76.07431,Kapren,Rajasthan,Bundi,IN
+23.02153,73.07213,Kapadvanj,Gujarat,Kheda,IN
+20.36436,85.19634,Kantilo,Odisha,Nayagarh District,IN
+29.05952,78.62874,Kanth,Uttar Pradesh,Moradabad,IN
+20.46709,82.92042,Kantabanji,Odisha,Balangir,IN
+27.80961,79.79228,Kant,Uttar Pradesh,Shahjahanpur,IN
+26.4478,80.34627,Kanpur,Uttar Pradesh,Kanpur,IN
+24.43437,74.26546,Kanor,Rajasthan,Udaipur,IN
+24.08928,72.39372,Kanodar,Gujarat,Banas Kantha,IN
+22.66683,76.73787,Kannod,Madhya Pradesh,Dewas,IN
+8.09008,77.53841,Kanniyakumari,Tamil Nadu,Kanniyakumari,IN
+11.83333,75.66667,Kannavam,Kerala,Kannur,IN
+27.0546,79.922,Kannauj,Uttar Pradesh,Kannauj,IN
+12.30814,75.10632,Kannangad,Kerala,Kasaragod District,IN
+20.25784,75.138,Kannad,Maharashtra,Aurangabad Division,IN
+15.02698,74.04617,Kankon,Goa,South Goa,IN
+16.45,80.78333,Kankipadu,Andhra Pradesh,Krishna,IN
+20.27224,81.49202,Kanker,Chhattisgarh,Uttar Bastar Kanker,IN
+23.43362,85.3211,Kanke,Jharkhand,Ranchi,IN
+16.26609,73.71217,Kankauli,Maharashtra,Sindhudurg,IN
+15.40593,79.50269,Kanigiri,Andhra Pradesh,Prakasam,IN
+32.09087,76.26073,Kangra,Himachal Pradesh,Kangra,IN
+11.00599,77.5609,Kangayam,Tamil Nadu,Tiruppur,IN
+15.21542,79.9039,Kandukur,Andhra Pradesh,Prakasam,IN
+21.42037,79.27638,Kandri,Maharashtra,Nagpur Division,IN
+22.8517,86.05192,Kandra,Jharkhand,Saraikela,IN
+23.03333,70.21667,Kandla,Gujarat,Kachchh,IN
+23.95946,88.04018,Kandi,West Bengal,Murshidabad,IN
+29.32104,77.27101,Kandhla,Uttar Pradesh,Muzaffarnagar,IN
+12.83515,79.70006,Kanchipuram,Tamil Nadu,Kancheepuram,IN
+12.54614,77.42099,Kanakapura,Karnataka,Ramanagara,IN
+10.17209,78.77935,Kanadukattan,Tamil Nadu,Sivaganga,IN
+9.40732,78.37337,Kamuthi,Tamil Nadu,Ramanathapuram,IN
+21.21714,79.19453,Kamthi,Maharashtra,Nagpur Division,IN
+15.40534,76.60286,Kampli,Karnataka,Bellary,IN
+27.61252,79.27793,Kampil,Uttar Pradesh,Farrukhabad,IN
+9.73647,77.2847,Cumbum,Tamil Nadu,Theni,IN
+22.67111,88.37472,Kamarhati,West Bengal,North 24 Parganas,IN
+18.32001,78.34177,Kamareddi,Telangana,Nizamabad District,IN
+27.65791,77.26908,Kaman,Rajasthan,Bharatpur,IN
+24.19593,91.83438,Kamalpur,Tripura,Dhalai,IN
+27.2625,79.63154,Kamalganj,Uttar Pradesh,Farrukhabad,IN
+14.5983,78.66948,Kamalapuram,Andhra Pradesh,Cuddapah,IN
+20.93385,85.54489,Kamakhyanagar,Odisha,Dhenkanal,IN
+22.98333,88.48333,Kalyani,West Bengal,Nadia,IN
+19.2437,73.13554,Kalyan,Maharashtra,Thane,IN
+18.9802,73.12708,Kalundri,Maharashtra,Raigarh,IN
+9.14726,77.70424,Kalugumalai,Tamil Nadu,Thoothukkudi,IN
+26.11667,79.73333,Kalpi,Uttar Pradesh,Jalaun,IN
+11.61056,76.08222,Kalpetta,Kerala,Wayanad,IN
+22.60777,73.46272,Kalol,Gujarat,Panch Mahals,IN
+23.21944,88.36295,Kalna,West Bengal,Barddhaman,IN
+21.23219,78.91988,Kalmeshwar,Maharashtra,Nagpur Division,IN
+9.71667,77.86667,Kallupatti,Tamil Nadu,Madurai,IN
+8.68301,77.46455,Kallidaikurichchi,Tamil Nadu,Tirunelveli Kattabo,IN
+11.7404,78.959,Kallakkurichchi,Tamil Nadu,Villupuram,IN
+30.83915,76.93947,Kalka,Himachal Pradesh,,IN
+25.63442,88.32665,Kaliyaganj,West Bengal,Uttar Dinajpur,IN
+28.33117,76.30884,Kalina Khas,Haryana,Mahendragarh,IN
+28.62019,80.08152,Kalinagar,Uttar Pradesh,Pilibhit,IN
+27.06834,88.46508,Kalimpang,West Bengal,Darjiling,IN
+22.61662,86.2881,Kalikapur,Jharkhand,Purba Singhbhum,IN
+15.18315,74.97099,Kalghatgi,Karnataka,Dharwad,IN
+12.77029,79.41999,Kalavai,Tamil Nadu,Vellore,IN
+22.20789,70.38343,Kalavad,Gujarat,Jamnagar,IN
+18.17241,74.79045,Kalas,Maharashtra,Pune Division,IN
+29.83281,74.97857,Kalanwali,Haryana,Sirsa,IN
+32.01227,75.15063,Kalanaur,Punjab,Gurdaspur,IN
+28.82753,76.39482,Kalanaur,Haryana,Rohtak,IN
+19.67386,77.31149,Kalamnuri,Maharashtra,Hingoli,IN
+19.04437,73.95554,Kalamb,Maharashtra,Pune Division,IN
+8.51228,77.5535,Kalakkadu,Tamil Nadu,Tirunelveli Kattabo,IN
+22.3393,87.22637,Kalaikunda,West Bengal,Paschim Medinipur,IN
+29.47737,78.78513,Kalagarh,Uttarakhand,Garhwal,IN
+29.28319,79.34936,Kaladhungi,Uttarakhand,Naini Tal,IN
+27.89269,79.1945,Kakrala,Uttar Pradesh,Budaun,IN
+26.868,80.7857,Kakori,Uttar Pradesh,Lucknow District,IN
+16.96036,82.23809,Kakinada,Andhra Pradesh,East Godavari,IN
+24.4982,93.98126,Kakching,Manipur,Thoubal,IN
+29.8019,76.39667,Kaithal,Haryana,Kaithal,IN
+29.3959,77.20565,Kairana,Uttar Pradesh,Muzaffarnagar,IN
+20.72102,84.53505,Kaintaragarh,Odisha,Angul District,IN
+23.38465,79.7442,Kaimori,Madhya Pradesh,Jabalpur,IN
+27.55497,79.33747,Kaimganj,Uttar Pradesh,Farrukhabad,IN
+24.33199,92.00391,Kailashahar,Tripura,North Tripura,IN
+26.3054,77.61605,Kailaras,Madhya Pradesh,Morena,IN
+16.55084,81.21177,Kaikalur,Andhra Pradesh,Krishna,IN
+16.57702,74.31544,Kagal,Maharashtra,Kolhapur,IN
+13.55259,76.01096,Kadur,Karnataka,Chikmagalur,IN
+21.21717,73.21972,Kadod,Gujarat,Surat,IN
+14.11252,78.16027,Kadiri,Andhra Pradesh,Anantapur,IN
+26.16779,82.37028,Kadipur,Uttar Pradesh,Sultanpur,IN
+23.29908,72.33362,Kadi,Gujarat,Mahesana,IN
+25.98537,79.83842,Kadaura,Uttar Pradesh,Jalaun,IN
+8.99694,77.86218,Kadambur,Tamil Nadu,Thoothukkudi,IN
+9.07277,77.34152,Kadayanallur,Tamil Nadu,Tirunelveli Kattabo,IN
+22.95998,88.42849,Kanchrapara,West Bengal,Nadia,IN
+25.20651,82.71543,Kachhwa,Uttar Pradesh,Mirzapur,IN
+25.40525,79.99421,Kabrai,Uttar Pradesh,Mahoba,IN
+31.1,77.11667,Jutogh,Himachal Pradesh,Shimla,IN
+19.20815,73.8752,Junnar,Maharashtra,Pune Division,IN
+19.85993,82.93385,Junagarh,Chhattisgarh,,IN
+21.51966,70.45981,Junagadh,Gujarat,Junagadh,IN
+24.4349,85.52951,Jumri Tilaiya,Jharkhand,Kodarma,IN
+31.32556,75.57917,Jalandhar,Punjab,Jalandhar,IN
+29.1244,76.40482,Julana Shadipur,Haryana,Jind,IN
+22.77668,86.18351,Jugsalai,Jharkhand,Purba Singhbhum,IN
+31.10923,77.65085,Jubbal,Himachal Pradesh,Shimla,IN
+15.5307,73.95047,Jua,Goa,North Goa,IN
+30.55588,79.56655,Joshimath,Uttarakhand,Chamoli,IN
+26.75751,94.20306,Jorhat,Assam,Jorhat,IN
+26.34209,77.8092,Jora,Madhya Pradesh,Morena,IN
+12.57045,78.57341,Jolarpettai,Tamil Nadu,Vellore,IN
+31.98727,76.78906,Jogindarnagar,Himachal Pradesh,Mandi,IN
+26.22646,90.57247,Jogighopa,Assam,Bongaigaon,IN
+26.41667,87.25,Jogbani,Bihar,,IN
+22.71667,70.28333,Jodiya Bandar,Gujarat,Jamnagar,IN
+26.26841,73.00594,Jodhpur,Rajasthan,Jodhpur,IN
+21.90174,70.0327,Jodhpur,Gujarat,Jamnagar,IN
+26.97257,75.38752,Jobner,Rajasthan,Jaipur,IN
+22.4161,74.56824,Jobat,Madhya Pradesh,Alirajpur,IN
+24.30871,74.89087,Jiran,Madhya Pradesh,Neemuch,IN
+19.61186,76.6874,Jintur,Maharashtra,Parbhani,IN
+29.31617,76.31436,Jind,Haryana,Jind,IN
+25.43805,81.90606,Jhusi,Uttar Pradesh,Allahabad,IN
+28.12559,75.39797,Jhunjhunun,Rajasthan,Jhunjhunun,IN
+29.52118,77.2247,Jhinjhana,Uttar Pradesh,Muzaffarnagar,IN
+26.56004,79.73442,Jhinjhak,Uttar Pradesh,Kanpur Dehat,IN
+21.86159,84.01788,Jharsuguda,Odisha,Jharsuguda,IN
+23.74079,86.41456,Jharia,Jharkhand,Dhanbad,IN
+22.45384,86.99497,Jhargram,West Bengal,Paschim Medinipur,IN
+25.45446,78.58221,Jhansi,Uttar Pradesh,Jhansi,IN
+26.26467,86.27993,Jhanjharpur,Bihar,Madhubani,IN
+29.33609,78.22608,Jhalu,Uttar Pradesh,Bijnor,IN
+24.54205,76.17242,Jhalrapatan,Rajasthan,Jhalawar,IN
+23.36541,85.97581,Jhalida,West Bengal,Puruliya,IN
+24.59676,76.16503,Jhalawar,Rajasthan,Jhalawar,IN
+28.6063,76.6565,Jhajjar,Haryana,Jhajjar,IN
+24.77418,86.38005,Jha Jha,Bihar,Jamui,IN
+22.76819,74.59143,Jhabua,Madhya Pradesh,Jhabua,IN
+28.12279,77.55622,Jewar,Uttar Pradesh,Gautam Buddha Nagar,IN
+17.01394,76.77317,Jevargi,Karnataka,Gulbarga,IN
+22.34472,73.84093,Jetpur,Gujarat,Vadodara,IN
+21.75482,70.62347,Jetpur,Gujarat,Rajkot,IN
+21.70891,70.57695,Jetalsar,Gujarat,Rajkot,IN
+18.27658,74.16008,Jejuri,Maharashtra,Pune Division,IN
+18.8563,82.5716,Jaypur,Odisha,Koraput,IN
+26.58749,86.13744,Jaynagar,Bihar,Madhubani,IN
+22.17583,88.41778,Jaynagar-Majilpur,West Bengal,South 24 Paraganas,IN
+11.21206,79.36473,Jayamkondacholapuram,Tamil Nadu,Ariyalur,IN
+19.91213,73.22679,Jawhar,Maharashtra,Thane,IN
+23.00953,76.50209,Jawar,Madhya Pradesh,Sehore,IN
+31.87456,76.32013,Jawala Mukhi,Himachal Pradesh,Kangra,IN
+24.59916,74.86261,Jawad,Madhya Pradesh,Neemuch,IN
+25.75506,82.68361,Jaunpur,Uttar Pradesh,Jaunpur,IN
+25.00921,79.04778,Jatara,Madhya Pradesh,Tikamgarh,IN
+20.15975,85.70742,Jatani,Odisha,Khordha,IN
+26.88234,78.90187,Jaswantnagar,Uttar Pradesh,Etawah,IN
+27.23566,78.65256,Jasrana,Uttar Pradesh,Firozabad,IN
+29.27944,78.82656,Jaspur,Uttarakhand,Udham Singh Nagar,IN
+24.51379,86.64576,Jasidih,Jharkhand,Deogarh,IN
+22.88772,84.13925,Jashpurnagar,Chhattisgarh,Jashpur,IN
+22.03709,71.20794,Jasdan,Gujarat,Rajkot,IN
+27.16442,81.53993,Jarwal,Uttar Pradesh,Bahraich,IN
+23.63783,75.12711,Jaora,Madhya Pradesh,Ratlam,IN
+29.32508,77.84945,Jansath,Uttar Pradesh,Muzaffarnagar,IN
+22.0092,82.57769,Janjgir,Chhattisgarh,Janjgir-Champa,IN
+24.47001,88.07659,Jangipur,West Bengal,Murshidabad,IN
+17.72602,79.15236,Jangaon,Telangana,Warangal,IN
+31.56098,75.02862,Jandiala Guru,Punjab,Amritsar,IN
+31.1593,75.61755,Jandiala,Punjab,Jalandhar,IN
+23.70468,87.07872,Jamuria,West Bengal,Barddhaman,IN
+24.92589,86.22574,Jamui,Bihar,Jamui,IN
+23.963,86.80285,Jamtara,Jharkhand,Jamtara,IN
+22.80278,86.18545,Jamshedpur,Jharkhand,Purba Singhbhum,IN
+22.47292,70.06673,Jamnagar,Gujarat,Jamnagar,IN
+32.73569,74.86911,Jammu,Kashmir,Jammu,IN
+14.8474,78.38401,Jammalamadugu,Andhra Pradesh,Cuddapah,IN
+16.50461,75.29146,Jamkhandi,Karnataka,Bagalkot,IN
+22.05236,72.80074,Jambusar,Gujarat,Bharuch,IN
+25.31258,86.48888,Jamalpur,Bihar,Munger,IN
+22.19644,78.59191,Jamai,Madhya Pradesh,Chhindwara,IN
+23.71667,86.4,Jamadoba,Jharkhand,Dhanbad,IN
+26.51667,88.73333,Jalpaiguri,West Bengal,Jalpaiguri,IN
+25.34558,72.61559,Jalor,Rajasthan,Jalore,IN
+19.84102,75.88636,Jalna,Maharashtra,Jalna,IN
+21.05194,76.53464,Jalgaon Jamod,Maharashtra,Buldana,IN
+21.01009,75.56843,Jalgaon,Maharashtra,Jalgaon,IN
+17.74026,73.19087,Jalgaon,Maharashtra,Ratnagiri,IN
+21.80176,87.2225,Jaleshwar,Odisha,Baleshwar,IN
+27.47235,78.30247,Jalesar,Uttar Pradesh,Etah,IN
+26.1451,79.3366,Jalaun,Uttar Pradesh,Jalaun,IN
+26.31041,82.73799,Jalalpur,Uttar Pradesh,Ambedkar Nagar,IN
+20.94896,72.89829,Jalalpur,Gujarat,Navsari,IN
+27.86625,78.25275,Jalali,Uttar Pradesh,Aligarh,IN
+30.60622,74.25727,Jalalabad,Punjab,Ferozepur,IN
+29.61853,77.43908,Jalalabad,Uttar Pradesh,Muzaffarnagar,IN
+27.72665,79.65497,Jalalabad,Uttar Pradesh,Shahjahanpur,IN
+11.69779,77.87298,Jalakandapuram,Tamil Nadu,Salem,IN
+29.79627,75.82392,Jakhal,Haryana,Fatehabad District,IN
+20.84852,86.33729,Jajpur,Odisha,Jajpur,IN
+30.4475,74.88744,Jaito,Punjab,Faridkot,IN
+23.20856,78.61487,Jaithari,Madhya Pradesh,Raisen,IN
+26.20441,73.93686,Jaitaran,Rajasthan,Pali,IN
+16.77639,74.55361,Jaisingpur,Maharashtra,Kolhapur,IN
+23.68582,81.39085,Jaisinghnagar,Madhya Pradesh,Shahdol,IN
+26.91763,70.90387,Jaisalmer,Rajasthan,Jaisalmer,IN
+26.26459,81.5478,Jais,Uttar Pradesh,Rae Bareli,IN
+26.91962,75.78781,Jaipur,Rajasthan,Jaipur,IN
+26.15389,83.33505,Jainpur,Uttar Pradesh,Azamgarh,IN
+25.61994,75.27609,Jahazpur,Rajasthan,Bhilwara,IN
+28.17916,77.70372,Jahangirpur,Uttar Pradesh,Gautam Buddha Nagar,IN
+28.40338,78.10562,Jahangirabad,Uttar Pradesh,Bulandshahr,IN
+28.63048,79.71514,Jahanabad,Uttar Pradesh,Pilibhit,IN
+25.21398,84.98772,Jahanabad,Bihar,Jehanabad,IN
+18.79473,78.91661,Jagtial,Telangana,Karimnagar,IN
+30.79013,75.47492,Jagraon,Punjab,Ludhiana,IN
+26.86243,77.60239,Jagnair,Uttar Pradesh,Agra,IN
+16.8938,80.09807,Jaggayyapeta,Andhra Pradesh,Krishna,IN
+25.46877,84.41925,Jagdispur,Bihar,Bhojpur,IN
+26.74967,80.5451,Jagdishpur,Uttar Pradesh,Unnao,IN
+19.0836,82.02331,Jagdalpur,Chhattisgarh,Bastar,IN
+20.2557,86.17112,Jagatsinghapur,Odisha,Jagatsinghpur,IN
+22.22172,85.63801,Jagannathpur,Jharkhand,Pashchim Singhbhum,IN
+14.51976,76.33892,Jagalur,Karnataka,Davanagere,IN
+30.16719,77.30367,Jagadhri,Haryana,Yamunanagar,IN
+23.16697,79.95006,Jabalpur,Madhya Pradesh,Jabalpur,IN
+27.23423,78.20021,Itimadpur,Uttar Pradesh,Agra,IN
+27.08343,80.89818,Itaunja,Uttar Pradesh,Lucknow District,IN
+22.61477,77.76222,Itarsi,Madhya Pradesh,Hoshangabad,IN
+27.08694,93.60987,Itanagar,Arunachal Pradesh,Papum Pare,IN
+26.26541,88.18982,Islampur,West Bengal,Uttar Dinajpur,IN
+25.14129,85.20432,Islampur,Bihar,Nalanda,IN
+28.32849,78.72412,Islamnagar,Uttar Pradesh,Budaun,IN
+24.83906,77.88274,Isagarh,Madhya Pradesh,Ashoknagar,IN
+11.01867,77.06624,Irugur,Tamil Nadu,Coimbatore,IN
+10.34238,76.21124,Irinjalakuda,Kerala,Thrissur District,IN
+11.56667,75.6,Iringal,Kerala,Kozhikode,IN
+25.00447,88.14573,Ingraj Bazar,West Bengal,Maldah,IN
+29.87999,77.05972,Indri,Haryana,Karnal,IN
+22.71792,75.8333,Indore,Madhya Pradesh,Indore,IN
+17.17735,75.9526,Indi,Karnataka,Bijapur,IN
+26.93521,79.6712,Indergarh,Uttar Pradesh,Kannauj,IN
+18.3,73.25,Indapur,Maharashtra,Raigarh,IN
+24.80805,93.9442,Imphal,Manipur,Imphal East,IN
+10.51347,78.62357,Iluppur,Tamil Nadu,Pudukkottai,IN
+15.95923,76.11351,Ilkal,Karnataka,Bagalkot,IN
+11.60553,78.00665,Ilampillai,Tamil Nadu,Salem,IN
+23.14697,76.39052,Iklehra,Madhya Pradesh,Dewas,IN
+27.5302,81.96877,Ikauna,Uttar Pradesh,Shrawasti,IN
+27.71114,77.93888,Iglas,Uttar Pradesh,Aligarh,IN
+19.69522,73.5626,Igatpuri,Maharashtra,Nashik Division,IN
+9.85,76.96667,Idukki,Kerala,Idukki,IN
+11.58624,77.83891,Idappadi,Tamil Nadu,Salem,IN
+23.02816,77.01729,Ichhawar,Madhya Pradesh,Sehore,IN
+19.11393,84.68721,Ichchapuram,Andhra Pradesh,Srikakulam,IN
+16.69117,74.46054,Ichalkaranji,Maharashtra,Kolhapur,IN
+17.38405,78.45636,Hyderabad,Telangana,Hyderabad,IN
+15.02048,75.93185,Huvinabadgalli,Karnataka,Bellary,IN
+24.52849,84.0,Husainabad,Jharkhand,Palamu,IN
+12.30485,76.2905,Hunsur,Karnataka,Mysore,IN
+16.06226,76.05839,Hungund,Karnataka,Bagalkot,IN
+16.23082,74.60244,Hukeri,Karnataka,Belgaum,IN
+22.90877,88.39674,Hugli,West Bengal,Hugli,IN
+15.34776,75.13378,Hubli,Karnataka,Dharwad,IN
+26.42237,90.98004,Howli,Assam,Barpeta,IN
+12.73647,77.83264,Hosur,Tamil Nadu,Krishnagiri,IN
+15.26954,76.3871,Hospet,Karnataka,Bellary,IN
+13.0707,77.79814,Hoskote,Karnataka,Bangalore Rural,IN
+31.53238,75.90799,Hoshiarpur,Punjab,Hoshiarpur,IN
+22.75357,77.72249,Hoshangabad,Madhya Pradesh,Hoshangabad,IN
+13.79742,76.2831,Hosdurga,Karnataka,Chitradurga,IN
+13.69756,74.95427,Hosangadi,Karnataka,Udupi,IN
+13.91387,75.06503,Hosanagara,Karnataka,Shimoga,IN
+14.27603,77.16827,Hosakote,Karnataka,Tumkur,IN
+14.23976,75.64507,Honnali,Karnataka,Davanagere,IN
+14.28014,74.4452,Honavar,Karnataka,,IN
+17.77074,77.12519,Homnabad,Karnataka,Bidar,IN
+12.78693,76.243,Hole Narsipur,Karnataka,Hassan,IN
+14.04262,76.18424,Holalkere,Karnataka,Chitradurga,IN
+26.00281,92.85605,Hojai,Assam,Nagaon,IN
+27.89208,77.36686,Hodal,Haryana,Palwal,IN
+24.8351,85.41794,Hisua,Bihar,Nawada,IN
+29.15394,75.72294,Hisar,Haryana,Hisar,IN
+13.94387,76.61553,Hiriyur,Karnataka,Chitradurga,IN
+14.45506,75.3952,Hirekerur,Karnataka,Haveri,IN
+21.55679,79.78542,Hirapur,Madhya Pradesh,,IN
+32.45458,75.29309,Hiranagar,Kashmir,Kathua,IN
+21.51667,83.86667,Hirakud,Odisha,Sambalpur,IN
+19.48166,84.74489,Hinjilikatu,Odisha,Ganjam,IN
+19.71908,77.14826,Hingoli,Maharashtra,Hingoli,IN
+20.54765,78.84033,Hinganghat,Maharashtra,Wardha,IN
+13.82908,77.4924,Hindupur,Andhra Pradesh,Anantapur,IN
+23.90264,79.56904,Hindoria,Madhya Pradesh,Damoh,IN
+26.73411,77.03519,Hindaun,Rajasthan,Karauli,IN
+23.59893,72.96602,Himatnagar,Gujarat,Sabar Kantha,IN
+25.31586,85.28153,Hilsa,Bihar,Nalanda,IN
+24.06318,85.87915,Hesla,Jharkhand,Giridih,IN
+30.43863,77.74058,Harbatpur,Uttarakhand,Dehradun,IN
+12.0874,76.3297,Heggadadevankote,Karnataka,Mysore,IN
+23.99507,85.36109,Hazaribag,Jharkhand,Hazaribag,IN
+14.79354,75.40448,Haveri,Karnataka,Haveri,IN
+24.13388,79.60076,Hatta,Madhya Pradesh,Damoh,IN
+22.7943,75.74009,Hatod,Madhya Pradesh,Indore,IN
+27.59621,78.05237,Hathras,Uttar Pradesh,Mahamaya Nagar,IN
+26.74196,83.74459,Hata,Uttar Pradesh,Kushinagar,IN
+29.15602,77.99659,Hastinapur,Uttar Pradesh,Meerut,IN
+13.00715,76.0962,Hassan,Karnataka,Hassan,IN
+26.7469,89.35385,Hasimara,West Bengal,Jalpaiguri,IN
+28.72268,78.28325,Hasanpur,Uttar Pradesh,Jyotiba Phule Nagar,IN
+27.96845,77.49563,Hasanpur,Haryana,Palwal,IN
+12.05267,78.48023,Harur,Tamil Nadu,Dharmapuri,IN
+22.10002,76.73466,Harsud,Madhya Pradesh,East Nimar,IN
+22.61455,79.22235,Harrai,Madhya Pradesh,Chhindwara,IN
+14.78766,75.98863,Harpanahalli,Karnataka,Davanagere,IN
+25.28773,79.33279,Harpalpur,Madhya Pradesh,Chhatarpur,IN
+17.8134,73.09668,Harnai,Maharashtra,,IN
+22.96474,88.57451,Haringhata,West Bengal,Nadia,IN
+23.69356,71.907,Harij,Gujarat,Patan,IN
+14.51288,75.80716,Harihar,Karnataka,Davanagere,IN
+29.94791,78.16025,Haridwar,Uttarakhand,Haridwar,IN
+31.63484,75.839,Hariana,Punjab,Hoshiarpur,IN
+27.94368,78.15658,Harduaganj,Uttar Pradesh,Aligarh,IN
+27.39433,80.1311,Hardoi,Uttar Pradesh,Hardoi,IN
+22.33893,77.09356,Harda,Madhya Pradesh,Harda,IN
+26.79494,82.4644,Haraiya,Uttar Pradesh,Basti,IN
+28.73041,77.78141,Hapur,Uttar Pradesh,Ghaziabad,IN
+22.57688,88.31857,Haora,West Bengal,Haora,IN
+29.58182,74.32938,Hanumangarh,Rajasthan,Hanumangarh,IN
+21.58496,72.80764,Hansot,Gujarat,Bharuch,IN
+29.10005,75.9645,Hansi,Haryana,Hisar,IN
+14.76465,75.1246,Hangal,Karnataka,Haveri,IN
+25.36344,82.18771,Handia,Uttar Pradesh,Allahabad,IN
+15.33524,76.46094,Hampi,Karnataka,Bellary,IN
+31.68411,76.52506,Hamirpur,Himachal Pradesh,Hamirpur,IN
+25.95582,80.14882,Hamirpur,Uttar Pradesh,Hamirpur,IN
+23.01516,71.18029,Halvad,Gujarat,Surendranagar,IN
+22.50321,73.47242,Halol,Gujarat,Panch Mahals,IN
+15.32864,74.75638,Haliyal,Karnataka,Uttar Kannada,IN
+22.93218,88.41859,Halisahar,West Bengal,North 24 Parganas,IN
+29.22254,79.5286,Haldwani,Uttarakhand,Naini Tal,IN
+26.33887,88.7822,Haldibari,West Bengal,Koch Bihar,IN
+29.28979,78.28368,Haldaur,Uttar Pradesh,Bijnor,IN
+26.2452,91.52525,Hajo,Assam,Kamrup,IN
+31.97616,75.75322,Hajipur,Punjab,Hoshiarpur,IN
+25.69003,85.20954,Hajipur,Bihar,Vaishali,IN
+34.29895,74.61681,Hajan,Kashmir,Baramula,IN
+24.68394,92.56097,Hailakandi,Assam,Hailakandi,IN
+25.16478,93.01744,Haflong,Assam,Dima Hasao District,IN
+19.4949,77.6587,Hadgaon,Maharashtra,Nanded,IN
+22.84202,88.65606,Habra,West Bengal,North 24 Parganas,IN
+25.33238,82.4669,Gyanpur,Uttar Pradesh,Sant Ravi Das Nagar,IN
+26.22983,78.17337,Gwalior,Madhya Pradesh,Gwalior,IN
+23.49276,87.73484,Guskhara,West Bengal,Barddhaman,IN
+10.5943,76.0411,Guruvayur,Kerala,Thrissur District,IN
+30.70862,74.40407,Guru Har Sahai,Punjab,Ferozepur,IN
+25.61677,79.18053,Gursarai,Uttar Pradesh,Jhansi,IN
+27.11667,79.71667,Gursahaiganj,Uttar Pradesh,Kannauj,IN
+16.86562,77.39074,Gurmatkal,Karnataka,Yadgir,IN
+24.50202,81.50095,Gurh,Madhya Pradesh,Rewa,IN
+28.4601,77.02635,Gurgaon,Haryana,Gurgaon,IN
+32.0384,75.40344,Gurdaspur,Punjab,Gurdaspur,IN
+19.07956,83.80827,Gunupur,Odisha,Rayagada,IN
+16.29974,80.45729,Guntur,Andhra Pradesh,Guntur,IN
+15.17126,77.36565,Guntakal,Andhra Pradesh,Anantapur,IN
+28.23902,78.43797,Gunnaur,Uttar Pradesh,Budaun,IN
+11.8082,76.69104,Gundlupet,Karnataka,Chamrajnagar,IN
+24.64761,77.31191,Guna,Madhya Pradesh,Guna,IN
+13.40765,80.10879,Gummidipundi,Tamil Nadu,Thiruvallur,IN
+23.04156,84.54397,Gumla,Chhattisgarh,,IN
+23.79896,85.82383,Gumia,Jharkhand,Bokaro,IN
+16.05025,75.78997,Guledagudda,Karnataka,Bagalkot,IN
+17.33763,76.83787,Gulbarga,Karnataka,Gulbarga,IN
+28.58889,77.79185,Gulaothi,Uttar Pradesh,Bulandshahr,IN
+25.90448,74.66025,Gulabpura,Rajasthan,Bhilwara,IN
+15.57552,73.80722,Guirim,Goa,North Goa,IN
+17.48415,73.19289,Guhagar,Maharashtra,Ratnagiri,IN
+12.84519,80.06055,Guduvancheri,Tamil Nadu,Kancheepuram,IN
+17.49174,78.82302,Gudur,Telangana,Nalgonda,IN
+14.14903,79.8514,Gudur,Andhra Pradesh,Nellore,IN
+16.35,81.05,Gudlavalleru,Andhra Pradesh,Krishna,IN
+12.94601,78.87377,Gudiyatham,Tamil Nadu,Vellore,IN
+16.43171,80.9963,Gudivada,Andhra Pradesh,Krishna,IN
+13.67066,77.70437,Gudibanda,Karnataka,Chikkaballapur,IN
+19.34836,83.78095,Gudari,Odisha,Rayagada,IN
+9.67826,77.24951,Gudalur,Tamil Nadu,Theni,IN
+13.31216,76.94102,Gubbi,Karnataka,Tumkur,IN
+22.21361,85.38774,Gua,Jharkhand,Pashchim Singhbhum,IN
+26.69984,89.02565,Goyerkata,West Bengal,Jalpaiguri,IN
+27.50423,76.99938,Govindgarh,Rajasthan,Alwar,IN
+24.37842,81.29918,Govindgarh,Madhya Pradesh,Rewa,IN
+27.49658,77.46263,Govardhan,Uttar Pradesh,Mathura,IN
+26.43946,89.96307,Goshaingaon,Assam,Kokrajhar,IN
+26.76698,81.10968,Goshainganj,Uttar Pradesh,Lucknow District,IN
+26.57079,82.38116,Gosainganj,Uttar Pradesh,Faizabad,IN
+22.16547,88.8007,Gosaba,West Bengal,North 24 Parganas,IN
+12.82323,76.06378,Gorur,Karnataka,Hassan,IN
+18.15483,73.29147,Goregaon,Maharashtra,Raigarh,IN
+29.44768,75.67206,Gorakhpur,Haryana,Fatehabad District,IN
+26.75479,83.37235,Gorakhpur,Uttar Pradesh,Gorakhpur,IN
+22.66301,86.075,Gopinathpur,Jharkhand,Saraikela,IN
+11.45496,77.4422,Gobichettipalayam,Tamil Nadu,Erode,IN
+27.53468,80.28507,Gopamau,Uttar Pradesh,Hardoi,IN
+16.6122,77.80728,Gopalur,Telangana,Mahbubnagar,IN
+19.25861,84.90517,Gopalpur,Odisha,Ganjam,IN
+26.46734,84.44041,Gopalganj,Bihar,Gopalganj,IN
+21.46015,80.19203,Gondia,Maharashtra,Gondiya,IN
+21.96074,70.80255,Gondal,Gujarat,Rajkot,IN
+27.13253,81.96897,Gonda,Uttar Pradesh,Gonda,IN
+23.87355,86.1516,Gomoh,Jharkhand,Dhanbad,IN
+26.10216,89.82275,Golakganj,Assam,Dhuburi,IN
+28.07837,80.47054,Gola Gokarannath,Uttar Pradesh,Kheri,IN
+26.51167,93.95951,Golaghat,Assam,Golaghat,IN
+26.34374,83.35316,Gola Bazar,Uttar Pradesh,Gorakhpur,IN
+27.43879,77.71983,Gokul,Uttar Pradesh,Mathura,IN
+14.55,74.31667,Gokarna,Karnataka,Uttar Kannada,IN
+16.16901,74.82393,Gokak,Karnataka,Belgaum,IN
+26.88184,93.6156,Gohpur,Assam,Sontipur,IN
+25.69895,79.54564,Gohand,Uttar Pradesh,Hamirpur,IN
+29.13777,76.70247,Gohana,Haryana,Sonipat,IN
+26.42416,78.44093,Gohad,Madhya Pradesh,Bhind,IN
+23.55746,75.51665,Gogapur,Madhya Pradesh,Ujjain,IN
+22.77547,73.61488,Godhra,Gujarat,Panch Mahals,IN
+24.82379,87.21285,Godda,Jharkhand,Godda,IN
+23.83556,86.51853,Gobindpur,Jharkhand,Dhanbad,IN
+22.63393,86.07162,Gobindpur,Jharkhand,Saraikela,IN
+22.8774,88.75479,Gobardanga,West Bengal,North 24 Parganas,IN
+15.44384,73.88572,Goa Velha,Goa,North Goa,IN
+26.17668,90.62634,Goalpara,Assam,Goalpara,IN
+24.18561,86.30772,Giridih,Jharkhand,Giridih,IN
+12.2559,79.41724,Gingee,Tamil Nadu,Villupuram,IN
+30.19953,74.66627,Giddarbaha,Punjab,Muktsar,IN
+15.37726,78.92748,Giddalur,Andhra Pradesh,Prakasam,IN
+18.97499,81.39593,Gidam,Chhattisgarh,Dakshin Bastar Dantewada,IN
+19.94593,79.10854,Ghugus,Maharashtra,Chandrapur,IN
+19.71641,73.62821,Ghoti Budrukh,Maharashtra,Nashik Division,IN
+26.10318,83.54379,Ghosi,Uttar Pradesh,Mau,IN
+24.75419,82.77785,Ghorawal,Uttar Pradesh,Sonbhadra,IN
+21.68813,72.2763,Ghogha,Gujarat,Bhavnagar,IN
+25.21758,87.15696,Ghoga,Bihar,Bhagalpur,IN
+27.18893,78.79329,Ghiror,Uttar Pradesh,Mainpuri,IN
+25.58052,83.58058,Ghazipur,Uttar Pradesh,Ghazipur,IN
+28.66249,77.43777,Ghaziabad,Uttar Pradesh,Ghaziabad,IN
+22.58531,86.47682,Ghatsila,Jharkhand,Purba Singhbhum,IN
+20.14195,78.31309,Ghatanji,Maharashtra,Yavatmal,IN
+26.15272,80.16803,Ghatampur,Uttar Pradesh,Kanpur,IN
+22.66244,87.73399,Ghatal,West Bengal,Paschim Medinipur,IN
+22.17427,83.3517,Gharghoda,Chhattisgarh,Raigarh,IN
+29.53692,76.97142,Gharaunda,Haryana,Karnal,IN
+22.65873,79.95032,Ghansor,Madhya Pradesh,Seoni,IN
+30.33162,76.61129,Ghanaur,Punjab,Patiala,IN
+31.44166,76.71509,Ghumarwin,Himachal Pradesh,Bilaspur,IN
+19.26372,75.75007,Gevrai,Maharashtra,Bid,IN
+13.0926,80.2801,George Town,Tamil Nadu,Chennai,IN
+24.79686,85.00385,Gaya,Bihar,Gaya,IN
+28.41975,78.35094,Gawan,Uttar Pradesh,Budaun,IN
+22.98628,75.51959,Gautampura,Madhya Pradesh,Indore,IN
+26.08334,89.96118,Gauripur,Assam,Dhuburi,IN
+13.61072,77.51738,Gauribidanur,Karnataka,Chikkaballapur,IN
+22.75632,81.90161,Gaurela,Madhya Pradesh,,IN
+26.1844,91.7458,Guwahati,Assam,Kamrup Metropolitan,IN
+24.16291,83.81037,Garwa,Jharkhand,Garhwa,IN
+22.63333,88.4,Garui,West Bengal,North 24 Parganas,IN
+21.53889,71.57737,Gariadhar,Gujarat,Bhavnagar,IN
+20.63282,82.0621,Gariaband,Chhattisgarh,Raipur,IN
+31.21537,76.14149,Garhshankar,Punjab,Hoshiarpur,IN
+28.78659,78.09884,Garhmuktesar,Uttar Pradesh,Ghaziabad,IN
+29.5498,77.30881,Garhi Pukhta,Uttar Pradesh,Muzaffarnagar,IN
+23.78015,79.1428,Garhakota,Madhya Pradesh,Sagar,IN
+31.74069,75.75479,Garhdiwala,Punjab,Hoshiarpur,IN
+25.57145,79.29782,Garautha,Uttar Pradesh,Jhansi,IN
+16.54092,80.80213,Gannavaram,Andhra Pradesh,Krishna,IN
+26.95733,80.184,Ganj Muradabad,Uttar Pradesh,Unnao,IN
+19.38705,85.05079,Ganjam,Odisha,Ganjam,IN
+18.66667,84.11667,Ganguvada,Andhra Pradesh,Srikakulam,IN
+27.32574,88.61216,Gangtok,Sikkim,East District,IN
+13.65024,74.67072,Gangolli,Karnataka,,IN
+29.78004,77.26346,Gangoh,Uttar Pradesh,Saharanpur,IN
+15.43342,76.5293,Gangawati,Karnataka,Koppal,IN
+11.49828,78.64966,Gangavalli,Tamil Nadu,Salem,IN
+25.40138,88.52978,Gangarampur,West Bengal,Dakshin Dinajpur,IN
+26.47249,76.71744,Gangapur,Rajasthan,Sawai Madhopur,IN
+25.21954,74.26028,Gangapur,Rajasthan,Bhilwara,IN
+19.69718,75.01045,Gangapur,Maharashtra,Aurangabad Division,IN
+29.92009,73.87496,Ganganagar,Rajasthan,Ganganagar,IN
+18.96962,76.74946,Gangakher,Maharashtra,Parbhani,IN
+8.85597,77.77951,Gangaikondan,Tamil Nadu,Tirunelveli Kattabo,IN
+13.00639,80.25417,Gandhi Nagar,Tamil Nadu,Chennai,IN
+23.21667,72.68333,Ghandinagar,Gujarat,Gandhinagar,IN
+23.08333,70.13333,Gandhidham,Gujarat,Kachchh,IN
+20.81214,72.99811,Gandevi,Gujarat,Navsari,IN
+34.22992,74.7783,Gandarbal,Kashmir,Srinagar,IN
+21.66667,81.1,Gandai,Chhattisgarh,Raj Nandgaon,IN
+23.51995,74.02028,Galiakot,Rajasthan,Dungarpur,IN
+28.84463,78.23874,Gajraula,Uttar Pradesh,Jyotiba Phule Nagar,IN
+15.73628,75.96976,Gajendragarh,Karnataka,Gadag,IN
+31.65846,76.06144,Gagret,Himachal Pradesh,Una,IN
+16.23504,77.79556,Gadwal,Telangana,Mahbubnagar,IN
+16.22291,74.3501,Gadhinglaj,Maharashtra,Kolhapur,IN
+21.96957,71.57828,Gadhada,Gujarat,Bhavnagar,IN
+22.9235,78.7849,Gadarwara,Madhya Pradesh,Narsimhapur,IN
+15.42977,75.62971,Gadag,Karnataka,Gadag,IN
+22.50444,88.18333,Fort Gloster,West Bengal,Haora,IN
+26.29857,87.2671,Forbesganj,Bihar,Araria,IN
+27.78853,76.94496,Firozpur Jhirka,Haryana,Mewat,IN
+30.92574,74.61311,Firozpur,Punjab,Ferozepur,IN
+27.14941,78.4018,Firozabad,Uttar Pradesh,Firozabad,IN
+11.17989,75.84141,Ferokh,Kerala,Kozhikode,IN
+30.40207,74.02836,Fazilka,Punjab,Fazilka,IN
+25.50973,85.30273,Fatwa,Bihar,Patna,IN
+27.0937,77.66003,Fatehpur Sikri,Uttar Pradesh,Agra,IN
+26.78925,80.26547,Fatehpur Chaurasi,Uttar Pradesh,Unnao,IN
+27.99486,74.95628,Fatehpur,Rajasthan,Sikar,IN
+27.17253,81.21077,Fatehpur,Uttar Pradesh,Bara Banki,IN
+25.93036,80.8139,Fatehpur,Uttar Pradesh,Fatehpur,IN
+31.86431,74.95665,Fatehgarh Churian,Punjab,Gurdaspur,IN
+27.36462,79.63123,Fatehgarh,Uttar Pradesh,Farrukhabad,IN
+28.46125,79.30418,Fatehganj West,Uttar Pradesh,Bareilly,IN
+29.51525,75.45554,Fatehabad,Haryana,Fatehabad District,IN
+27.02637,78.30297,Fatehabad,Uttar Pradesh,Agra,IN
+28.44745,76.82391,Farrukhnagar,Haryana,Gurgaon,IN
+17.07787,78.20339,Farrukhnagar,Telangana,Mahbubnagar,IN
+27.39048,79.58007,Farrukhabad,Uttar Pradesh,Farrukhabad,IN
+28.2091,79.5393,Faridpur,Uttar Pradesh,Bareilly,IN
+28.76973,77.62743,Faridnagar,Uttar Pradesh,Ghaziabad,IN
+30.67238,74.75835,Faridkot,Punjab,Faridkot,IN
+28.41252,77.31977,Faridabad,Haryana,Faridabad District,IN
+24.81667,87.9,Farakka,West Bengal,Murshidabad,IN
+27.3209,77.76195,Farah,Uttar Pradesh,Mathura,IN
+26.51963,89.20423,Falakata,West Bengal,Jalpaiguri,IN
+21.16613,75.85862,Faizpur,Maharashtra,Jalgaon,IN
+26.77691,82.13292,Faizabad,Uttar Pradesh,Faizabad,IN
+9.14405,77.99066,Ettaiyapuram,Tamil Nadu,Thoothukkudi,IN
+17.5,82.73333,Etikoppaka,Andhra Pradesh,Vishakhapatnam,IN
+26.7778,79.02159,Etawah,Uttar Pradesh,Etawah,IN
+11.14555,78.29095,Erumaippatti,Tamil Nadu,Namakkal,IN
+14.63853,78.53974,Erraguntla,Andhra Pradesh,Cuddapah,IN
+11.3428,77.72741,Erode,Tamil Nadu,Erode,IN
+9.7,76.78333,Erattupetta,Kerala,Kottayam,IN
+8.2025,77.31538,Eraniel,Tamil Nadu,Kanniyakumari,IN
+20.92461,75.32862,Erandol,Maharashtra,Jalgaon,IN
+8.62392,78.02191,Eral,Tamil Nadu,Thoothukkudi,IN
+15.77098,77.48325,Emmiganuru,Andhra Pradesh,Kurnool,IN
+16.71084,81.10559,Eluru,Andhra Pradesh,West Godavari,IN
+10.06667,76.28333,Elur,Kerala,Ernakulam,IN
+9.86376,77.69939,Elumalai,Tamil Nadu,Madurai,IN
+29.45212,74.6624,Ellenabad,Haryana,Sirsa,IN
+9.27033,77.82494,Elayirampannai,Tamil Nadu,Virudhunagar,IN
+17.54844,82.8494,Elamanchili,Andhra Pradesh,Vishakhapatnam,IN
+21.89947,87.53794,Egra,West Bengal,Purba Medinipur,IN
+22.23944,68.96778,Dwarka,Gujarat,Jamnagar,IN
+29.77836,79.42931,Dwarahat,Uttarakhand,Almora,IN
+12.77517,79.68053,Dusi,Tamil Nadu,Tiruvannamalai,IN
+23.49957,87.32155,Durgapur,West Bengal,Barddhaman,IN
+20.0048,79.30306,Durgapur,Maharashtra,Chandrapur,IN
+21.18333,81.28333,Durg,Chhattisgarh,Durg,IN
+23.84306,73.71466,Dungarpur,Rajasthan,Dungarpur,IN
+21.28777,71.7556,Dungarpur,Gujarat,Bhavnagar,IN
+27.73356,78.94177,Ganj Dundwara,Uttar Pradesh,Kanshiram Nagar,IN
+25.55214,84.15062,Dumraon,Bihar,Buxar,IN
+26.56708,85.5204,Dumra,Bihar,Sitamarhi,IN
+24.26778,87.24855,Dumka,Jharkhand,Dumka,IN
+27.56884,95.55664,Dum Duma,Assam,Tinsukia,IN
+22.63341,88.42286,Dam Dam,West Bengal,North 24 Parganas,IN
+27.37227,95.30754,Duliagaon,Assam,Dibrugarh,IN
+23.74516,86.17175,Dugda,Jharkhand,Bokaro,IN
+24.21296,83.24113,Dudhi,Uttar Pradesh,Sonbhadra,IN
+17.35792,76.36688,Dudhani,Maharashtra,Solapur,IN
+23.7902,87.37648,Dubrajpur,West Bengal,Birbhum,IN
+26.27484,82.47081,Dostpur,Uttar Pradesh,Sultanpur,IN
+17.44475,80.14905,Dornakal,Telangana,Warangal,IN
+30.80026,76.02276,Doraha,Punjab,Ludhiana,IN
+21.18851,80.756,Dongargarh,Chhattisgarh,Raj Nandgaon,IN
+20.9729,80.85222,Dongargaon,Chhattisgarh,Raj Nandgaon,IN
+21.32585,74.56526,Dondaicha,Maharashtra,Dhule,IN
+19.21667,73.08333,Dombivli,Maharashtra,Thane,IN
+30.17895,78.11784,Doiwala,Uttarakhand,Dehradun,IN
+26.27231,83.50952,Dohrighat,Uttar Pradesh,Mau,IN
+29.80677,78.60813,Dogadda,Uttarakhand,Garhwal,IN
+13.29455,77.53745,Dod Ballapur,Karnataka,Bangalore Rural,IN
+33.14875,75.54611,Doda,Kashmir,Doda,IN
+20.71405,70.98224,Diu,Daman and Diu,Diu,IN
+26.13564,91.80069,Dispur,Assam,Kamrup Metropolitan,IN
+24.25612,72.17928,Disa,Gujarat,Banas Kantha,IN
+30.0718,75.99449,Dirba,Punjab,Sangrur,IN
+25.84341,93.43116,Diphu,Assam,Karbi Anglong,IN
+26.13526,89.46129,Dinhata,West Bengal,Koch Bihar,IN
+22.94321,81.07781,Dindori,Madhya Pradesh,Dindori,IN
+10.36896,77.98036,Dindigul,Tamil Nadu,Dindigul,IN
+32.13619,75.47141,Dinanagar,Punjab,Gurdaspur,IN
+25.91174,93.7217,Dimapur,Nagaland,Dimapur,IN
+15.38333,78.83333,Diguvametta,Andhra Pradesh,Prakasam,IN
+20.10367,77.71853,Digras,Maharashtra,Yavatmal,IN
+18.54829,77.57695,Diglur,Maharashtra,Nanded,IN
+25.74359,84.99865,Dighwara,Bihar,Saran,IN
+21.62776,87.51965,Digha,West Bengal,Purba Medinipur,IN
+27.39321,95.61839,Digboi,Assam,Tinsukia,IN
+19.37275,84.57184,Digapahandi,Odisha,Ganjam,IN
+27.47188,77.32564,Dig,Rajasthan,Bharatpur,IN
+27.40096,74.57537,Didwana,Rajasthan,Nagaur,IN
+15.59319,73.94571,Dicholi,Goa,North Goa,IN
+27.47989,94.90837,Dibrugarh,Assam,Dibrugarh,IN
+28.20772,78.26008,Dibai,Uttar Pradesh,Bulandshahr,IN
+22.19303,88.18466,Diamond Harbour,West Bengal,South 24 Paraganas,IN
+22.23779,72.7591,Dhuwaran,Gujarat,Anand,IN
+30.37246,75.86185,Dhuri,Punjab,Sangrur,IN
+26.58904,89.00732,Dhupgari,West Bengal,Jalpaiguri,IN
+24.68333,87.96667,Dhulian,West Bengal,Maldah,IN
+20.90251,74.77735,Dhule,Maharashtra,Dhule,IN
+26.01856,89.98564,Dhuburi,Assam,Dhuburi,IN
+22.567,70.41769,Dhrol,Gujarat,Jamnagar,IN
+22.99167,71.46793,Dhrangadhra,Gujarat,Surendranagar,IN
+21.73359,70.45004,Dhoraji,Gujarat,Rajkot,IN
+15.39524,77.8731,Dhone,Andhra Pradesh,Kurnool,IN
+22.72732,72.44128,Dholka,Gujarat,Ahmadabad,IN
+21.88129,71.77269,Dhola,Gujarat,Bhavnagar,IN
+26.46793,92.47336,Dhing,Assam,Nagaon,IN
+31.5142,75.34494,Dhilwan,Punjab,Kapurthala,IN
+20.65744,85.59693,Dhenkanal,Odisha,Dhenkanal,IN
+27.48333,94.58333,Dhemaji,Assam,Dhemaji,IN
+26.70367,92.47808,Dhekiajuli,Assam,Sontipur,IN
+27.99903,81.08909,Dhaurahra,Uttar Pradesh,Kheri,IN
+26.69286,77.87968,Dhaulpur,Rajasthan,Dhaulpur,IN
+18.82017,76.10937,Dharur,Maharashtra,Bid,IN
+28.20553,76.79691,Dharuhera,Haryana,Rewari District,IN
+32.22006,76.32013,Dharmsala,Himachal Pradesh,Kangra,IN
+14.41494,77.71995,Dharmavaram,Andhra Pradesh,Anantapur,IN
+12.1277,78.15794,Dharmapuri,Tamil Nadu,Dharmapuri,IN
+24.36667,92.16667,Dharmanagar,Tripura,North Tripura,IN
+11.78333,75.43333,Dharmadam,Kerala,,IN
+18.89116,77.8494,Dharmabad,Maharashtra,Nanded,IN
+31.95504,75.32172,Dhariwal,Punjab,Gurdaspur,IN
+21.32855,71.02645,Dhari,Gujarat,Amreli,IN
+29.84707,80.51951,Dharchula,Uttarakhand,Pithoragarh,IN
+10.73828,77.53223,Dharapuram,Tamil Nadu,Tiruppur,IN
+21.01283,75.27239,Dharangaon,Maharashtra,Jalgaon,IN
+22.14951,75.34439,Dharampuri,Madhya Pradesh,Dhar,IN
+20.53693,73.17368,Dharampur,Gujarat,Valsad,IN
+22.59373,75.29774,Dhar,Madhya Pradesh,Dhar,IN
+24.41099,85.98189,Dhanwar,Jharkhand,Giridih,IN
+24.50967,72.02343,Dhanera,Gujarat,Banas Kantha,IN
+22.38185,71.98664,Dhandhuka,Gujarat,Ahmadabad,IN
+23.80199,86.44324,Dhanbad,Jharkhand,Dhanbad,IN
+28.95912,78.25629,Dhanaura,Uttar Pradesh,Jyotiba Phule Nagar,IN
+30.28288,75.57455,Dhanaula,Punjab,Barnala,IN
+23.74697,78.86234,Dhana,Madhya Pradesh,Sagar,IN
+20.70718,81.54874,Dhamtari,Chhattisgarh,Dhamtari,IN
+29.30604,78.50802,Dhampur,Uttar Pradesh,Bijnor,IN
+22.20928,75.47057,Dhamnod,Madhya Pradesh,Dhar,IN
+10.50947,77.18837,Dhali,Tamil Nadu,Tiruppur,IN
+26.67479,85.16698,Dhaka,Bihar,Purba Champaran,IN
+22.96585,76.05526,Dewas,Madhya Pradesh,Dewas,IN
+27.03584,81.16708,Dewa,Uttar Pradesh,Bara Banki,IN
+25.76043,75.38093,Devli,Rajasthan,Tonk,IN
+25.52533,73.90812,Devgarh,Rajasthan,Rajsamand,IN
+22.70517,73.90882,Devgadh Bariya,Gujarat,Dohad,IN
+16.69186,78.92073,Devarkonda,Telangana,Nalgonda,IN
+30.14603,78.60272,Devaprayag,Uttarakhand,Garhwal,IN
+13.24729,77.71179,Devanhalli,Karnataka,Bangalore Rural,IN
+9.94704,78.8233,Devakottai,Tamil Nadu,Sivaganga,IN
+10.14625,77.64371,Devadanappatti,Tamil Nadu,Theni,IN
+20.01757,76.03755,Deulgaon Raja,Maharashtra,Buldana,IN
+12.43727,79.48145,Desur,Tamil Nadu,Tiruvannamalai,IN
+27.79836,73.34297,Deshnoke,Rajasthan,Bikaner,IN
+26.7,93.96667,Dergaon,Assam,Golaghat,IN
+31.87919,76.21871,Dera Gopipur,Himachal Pradesh,Kangra,IN
+32.03733,75.02787,Dera Nanak,Punjab,Gurdaspur,IN
+22.85176,75.54237,Depalpur,Madhya Pradesh,Indore,IN
+23.39087,79.01655,Deori Khas,Madhya Pradesh,Sagar,IN
+26.50167,83.77936,Deoria,Uttar Pradesh,Deoria,IN
+21.45,82.61667,Deori,Chhattisgarh,Raipur,IN
+28.62989,79.47648,Deoranian,Uttar Pradesh,Bareilly,IN
+20.64898,78.48044,Deoli,Maharashtra,Wardha,IN
+19.94404,73.83441,Deolali,Maharashtra,Nashik Division,IN
+21.53768,84.73372,Deogarh,Odisha,Debagarh,IN
+29.69505,77.67964,Deoband,Uttar Pradesh,Saharanpur,IN
+12.5301,77.78887,Denkanikota,Tamil Nadu,Krishnagiri,IN
+20.77544,71.04646,Delvada,Gujarat,Junagadh,IN
+28.65381,77.22897,Delhi,NCT,North Delhi,IN
+18.71851,73.76635,Dehu,Maharashtra,Pune Division,IN
+24.90504,84.18289,Dehri,Bihar,Rohtas,IN
+30.32443,78.03392,Dehradun,Uttarakhand,Dehradun,IN
+24.25029,88.61824,Debipur,West Bengal,Murshidabad,IN
+27.21943,78.02832,Dayal Bagh,Uttar Pradesh,Agra,IN
+15.27221,73.99242,Davorlim,Goa,South Goa,IN
+26.89,76.33584,Dausa,Rajasthan,Dausa,IN
+29.11344,77.70467,Daurala,Uttar Pradesh,Meerut,IN
+18.46515,74.58375,Daund,Maharashtra,Pune Division,IN
+32.05705,76.26097,Daulatpur,Himachal Pradesh,Kangra,IN
+31.78871,75.99154,Daulatpur,Himachal Pradesh,Una,IN
+25.32605,88.32989,Daulatpur,West Bengal,Dakshin Dinajpur,IN
+25.03475,84.40017,Daudnagar,Bihar,Aurangabad,IN
+20.78075,78.1407,Dattapur,Maharashtra,Amravati Division,IN
+25.67249,78.45815,Datia,Madhya Pradesh,Datia,IN
+28.0252,79.40528,Dataganj,Uttar Pradesh,Budaun,IN
+31.81565,75.65315,Dasua,Punjab,Hoshiarpur,IN
+28.67787,77.52071,Dasna,Uttar Pradesh,Ghaziabad,IN
+20.9249,77.32622,Daryapur,Maharashtra,Amravati Division,IN
+20.30862,77.7691,Darwha,Maharashtra,Yavatmal,IN
+24.01336,92.92439,Darlawn,Mizoram,Aizawl,IN
+27.03333,88.26667,Darjiling,West Bengal,Darjiling,IN
+24.94865,74.1342,Dariba,Rajasthan,Rajsamand,IN
+26.15216,85.89707,Darbhanga,Bihar,Darbhanga,IN
+28.35047,77.55345,Dankaur,Uttar Pradesh,Gautam Buddha Nagar,IN
+15.26667,74.61667,Dandeli,Karnataka,Uttar Kannada,IN
+25.6368,85.04586,Danapur,Bihar,Patna,IN
+23.83653,79.44134,Damoh,Madhya Pradesh,Damoh,IN
+21.69232,71.51747,Damnagar,Gujarat,Amreli,IN
+20.41431,72.83236,Daman,Daman and Diu,Daman District,IN
+24.04306,84.06866,Daltenganj,Jharkhand,Palamu,IN
+25.66795,85.83636,Dalsingh Sarai,Bihar,Samastipur,IN
+26.06871,81.0324,Dalmau,Uttar Pradesh,Rae Bareli,IN
+25.87577,87.84009,Dalkola,West Bengal,Uttar Dinajpur,IN
+32.55219,75.94663,Dalhousie,Himachal Pradesh,Chamba,IN
+22.75268,73.14967,Dakor,Gujarat,Kheda,IN
+21.1,85.75,Daitari,Odisha,Jajpur,IN
+22.83188,74.2595,Dahod,Gujarat,Dohad,IN
+23.16903,72.82161,Dahegam,Gujarat,Gandhinagar,IN
+19.96778,72.71263,Dahanu,Maharashtra,,IN
+30.88431,77.05228,Dagshai,Himachal Pradesh,Solan,IN
+28.55315,77.55343,Dadri,Uttar Pradesh,Gautam Buddha Nagar,IN
+29.94878,74.73707,Dabwali,Haryana,Sirsa,IN
+25.89696,78.32938,Dabra,Madhya Pradesh,Gwalior,IN
+26.00239,78.87658,Daboh,Madhya Pradesh,Bhind,IN
+17.58971,73.18001,Dabhol,Maharashtra,Ratnagiri,IN
+22.18333,73.43333,Dabhoi,Gujarat,Vadodara,IN
+20.46497,85.87927,Cuttack,Odisha,Cuttack,IN
+15.41667,74.01667,Curti,Goa,North Goa,IN
+15.26349,74.10875,Curchorem,Goa,South Goa,IN
+15.1773,73.99392,Cuncolim,Goa,South Goa,IN
+15.58302,79.10981,Cumbum,Andhra Pradesh,Prakasam,IN
+14.4775,78.82353,Cuddapah,Andhra Pradesh,Cuddapah,IN
+11.74629,79.76436,Cuddalore,Tamil Nadu,Cuddalore,IN
+15.40247,73.90881,Cortalim,Goa,South Goa,IN
+13.63007,74.69068,Coondapoor,Karnataka,Udupi,IN
+15.27976,73.92285,Colva,Goa,South Goa,IN
+15.63522,73.82426,Colovale,Goa,North Goa,IN
+27.13333,81.7,Colonelganj,Uttar Pradesh,Gonda,IN
+25.26629,87.23327,Colgong,Bihar,Bhagalpur,IN
+15.5439,73.7553,Calangute,Goa,,IN
+11.00555,76.96612,Coimbatore,Tamil Nadu,Coimbatore,IN
+9.93988,76.26022,Cochin,Kerala,Ernakulam,IN
+30.26055,78.01188,Clement Town,Uttarakhand,Dehradun,IN
+28.30415,74.96718,Churu,Rajasthan,Churu,IN
+24.33353,93.66999,Churachandpur,Manipur,Churachandpur,IN
+25.12909,82.8836,Chunar,Uttar Pradesh,Mirzapur,IN
+30.46944,77.77275,Vikasnagar,Uttarakhand,Dehradun,IN
+32.43156,76.02514,Chuari Khas,Himachal Pradesh,Chamba,IN
+22.42347,71.19641,Chotila,Gujarat,Surendranagar,IN
+24.42658,81.66835,Chorhat,Madhya Pradesh,Sidhi,IN
+21.24706,75.29819,Chopda,Maharashtra,Jalgaon,IN
+24.51706,83.02337,Chopan,Uttar Pradesh,Sonbhadra,IN
+9.35193,77.56839,Cholapuram,Tamil Nadu,Tirunelveli Kattabo,IN
+17.82974,82.93769,Chodavaram,Andhra Pradesh,Vishakhapatnam,IN
+17.44088,81.77558,Rampachodavaram,Andhra Pradesh,East Godavari,IN
+10.69967,76.7471,Chittur,Kerala,Palakkad district,IN
+13.21055,79.0956,Chittoor,Andhra Pradesh,Chittoor,IN
+24.88963,74.62403,Chittaurgarh,Rajasthan,Chittaurgarh,IN
+23.85681,86.90324,Chittaranjan,West Bengal,Barddhaman,IN
+18.10907,82.11046,Chitrakonda,Odisha,Malkangiri,IN
+14.22262,76.40038,Chitradurga,Karnataka,Chitradurga,IN
+17.12357,77.0824,Chitapur,Karnataka,Gulbarga,IN
+22.31144,85.27556,Chiria,Jharkhand,Pashchim Singhbhum,IN
+25.57267,78.81425,Chirgaon,Madhya Pradesh,,IN
+28.23937,75.64035,Chidawa,Rajasthan,Jhunjhunun,IN
+15.82465,80.35206,Chirala,Andhra Pradesh,Prakasam,IN
+18.30846,83.56745,Chipurupalle,Andhra Pradesh,Srikakulam,IN
+17.53339,73.50935,Chiplun,Maharashtra,Ratnagiri,IN
+13.40181,78.05448,Chintamani,Karnataka,Chikkaballapur,IN
+11.63325,78.87223,Chinna Salem,Tamil Nadu,Villupuram,IN
+9.83999,77.38109,Chinnamanur,Tamil Nadu,Theni,IN
+17.46483,77.41895,Chincholi,Karnataka,Gulbarga,IN
+15.21447,73.97555,Chinchinim,Goa,South Goa,IN
+19.87458,72.6851,Chinchani,Maharashtra,Thane,IN
+26.28259,83.50678,Chillupar,Uttar Pradesh,Gorakhpur,IN
+16.08943,80.16715,Chilakalurupet,Andhra Pradesh,Guntur,IN
+16.42898,74.58591,Chikodi,Karnataka,Belgaum,IN
+13.41609,76.62063,Chiknayakanhalli,Karnataka,Tumkur,IN
+13.32231,75.774,Chikmagalur,Karnataka,Chikmagalur,IN
+19.20233,84.6145,Chikitigarh,Odisha,Ganjam,IN
+20.75751,73.06268,Chikhli,Gujarat,Navsari,IN
+20.35046,76.25774,Chikhli,Maharashtra,Buldana,IN
+13.43501,77.72781,Chik Ballapur,Karnataka,Chikkaballapur,IN
+11.39907,79.69113,Chidambaram,Tamil Nadu,Cuddalore,IN
+21.46939,79.70164,Chicholi,Maharashtra,Bhandara,IN
+22.83363,78.82611,Chichli,Madhya Pradesh,Narsimhapur,IN
+15.39835,73.84216,Chicalim,Goa,South Goa,IN
+21.52249,80.99748,Chhuikhadan,Chhattisgarh,Raj Nandgaon,IN
+24.38145,74.7012,Chhoti Sadri,Rajasthan,Pratapgarh,IN
+22.30401,74.0158,Chhota Udepur,Gujarat,Vadodara,IN
+22.05697,78.93958,Chhindwara,Madhya Pradesh,Chhindwara,IN
+27.14753,79.49979,Chhibramau,Uttar Pradesh,Kannauj,IN
+24.91422,79.58781,Chhatarpur,Madhya Pradesh,Chhatarpur,IN
+26.22268,87.00346,Chhatapur,Bihar,Supaul,IN
+27.72352,77.50945,Chhata,Uttar Pradesh,Mathura,IN
+27.92458,78.40092,Chharra,Uttar Pradesh,Aligarh,IN
+29.21067,77.17347,Chhaprauli,Uttar Pradesh,Baghpat,IN
+25.781,84.73089,Chhapra,Bihar,Saran,IN
+27.819,74.43936,Chhapar,Rajasthan,Churu,IN
+23.30779,72.77404,Chhala,Gujarat,Gandhinagar,IN
+30.24492,77.36027,Chhachhrauli,Haryana,Yamunanagar,IN
+24.66472,76.84379,Chhabra,Rajasthan,Baran,IN
+12.34948,80.00304,Cheyyur,Tamil Nadu,Kancheepuram,IN
+10.91209,77.03762,Chettipalaiyam,Tamil Nadu,Coimbatore,IN
+13.07,80.24083,Chetput,Tamil Nadu,Chennai,IN
+25.30089,91.69619,Cherrapunji,Meghalaya,East Khasi Hills,IN
+11.16394,77.60414,Chennimalai,Tamil Nadu,Erode,IN
+9.31575,76.61513,Chengannur,Kerala,Alappuzha,IN
+12.30889,78.79137,Chengam,Tamil Nadu,Tiruvannamalai,IN
+12.69274,79.9773,Chengalpattu,Tamil Nadu,Kancheepuram,IN
+10.69195,76.34297,Chelakara,Kerala,Thrissur District,IN
+24.76667,75.88333,Chechat,Rajasthan,Kota,IN
+10.53333,76.05,Chavakkad,Kerala,,IN
+30.9485,77.59162,Chaupal,Himachal Pradesh,Shimla,IN
+26.6051,75.94814,Chaksu,Rajasthan,Jaipur,IN
+19.35574,84.98359,Chatrapur,Odisha,Ganjam,IN
+24.20376,84.87032,Chatra,Jharkhand,Chatra,IN
+17.55303,80.6477,Chatakonda,Telangana,Khammam,IN
+23.63556,86.16712,Chas,Jharkhand,Bokaro,IN
+29.54687,77.59438,Charthawal,Uttar Pradesh,Muzaffarnagar,IN
+28.5963,76.27092,Charkhi Dadri,Haryana,Bhiwani,IN
+25.40139,79.75045,Charkhari,Uttar Pradesh,Mahoba,IN
+26.27266,90.44556,Chapar,Assam,Dhuburi,IN
+12.90648,76.38829,Channarayapatna,Karnataka,Hassan,IN
+12.65481,77.20495,Channapatna,Karnataka,Ramanagara,IN
+14.02399,75.92577,Channagiri,Karnataka,Davanagere,IN
+9.44203,76.53604,Changanacheri,Kerala,Kottayam,IN
+20.33045,74.24439,Chandvad,Maharashtra,Nashik Division,IN
+21.2391,77.74703,Chandur Bazar,Maharashtra,Amravati Division,IN
+20.81389,77.98001,Chandur,Maharashtra,Amravati Division,IN
+19.73437,79.17089,Chandur,Maharashtra,Chandrapur,IN
+19.94711,79.29607,Chandrapur,Maharashtra,Chandrapur,IN
+22.73333,87.51667,Chandrakona,West Bengal,Paschim Medinipur,IN
+29.13506,78.26887,Chandpur,Uttar Pradesh,Bijnor,IN
+25.07199,80.19341,Chandla,Madhya Pradesh,Chhatarpur,IN
+22.95745,86.05331,Chandil,Jharkhand,Saraikela,IN
+30.73629,76.7884,Chandigarh,Chandigarh,Chandigarh,IN
+23.65716,80.70965,Chandia,Madhya Pradesh,Umaria District,IN
+24.71514,78.1376,Chanderi,Madhya Pradesh,Ashoknagar,IN
+20.77519,86.74139,Chandbali,Odisha,Bhadrak,IN
+28.45302,78.78295,Chandausi,Uttar Pradesh,Moradabad,IN
+25.25716,83.26787,Chandauli,Uttar Pradesh,Chandauli District,IN
+22.86225,88.36796,Chandannagar,West Bengal,Hugli,IN
+23.71472,72.11279,Chanasma,Gujarat,Patan,IN
+11.92312,76.93949,Chamrajnagar,Karnataka,Chamrajnagar,IN
+22.06734,85.66463,Champua,Odisha,Kendujhar,IN
+29.33501,80.07783,Champawat,Uttarakhand,Champawat,IN
+22.40026,88.49209,Champahati,West Bengal,South 24 Paraganas,IN
+22.03593,82.64248,Champa,Chhattisgarh,Janjgir-Champa,IN
+32.5558,76.12592,Chamba,Himachal Pradesh,Chamba,IN
+16.11756,80.93139,Challapalle,Andhra Pradesh,Krishna,IN
+14.31199,76.65141,Challakere,Karnataka,Chitradurga,IN
+20.46317,75.01213,Chalisgaon,Maharashtra,Jalgaon,IN
+21.41073,71.16621,Chalala,Gujarat,Amreli,IN
+22.48301,86.71793,Chakulia,Jharkhand,Purba Singhbhum,IN
+30.70369,77.86386,Chakrata,Uttarakhand,Dehradun,IN
+22.67626,85.62906,Chakradharpur,Jharkhand,Pashchim Singhbhum,IN
+22.6532,72.94497,Chaklasi,Gujarat,Kheda,IN
+26.41598,85.04665,Chakia,Bihar,Purba Champaran,IN
+25.05075,83.22148,Chakia,Uttar Pradesh,Chandauli District,IN
+18.76059,73.86351,Chakan,Maharashtra,Pune Division,IN
+25.42616,81.63247,Chail,Uttar Pradesh,Kaushambi District,IN
+22.54825,85.80458,Chaibasa,Jharkhand,Pashchim Singhbhum,IN
+27.48253,95.17451,Chabua,Assam,Dibrugarh,IN
+15.17255,73.94194,Cavelossim,Goa,South Goa,IN
+15.56588,73.98713,Carapur,Goa,North Goa,IN
+22.31453,88.66248,Canning,West Bengal,South 24 Paraganas,IN
+11.86752,75.35763,Cannanore,Kerala,Kannur,IN
+15.51807,73.76259,Candolim,Goa,North Goa,IN
+22.56263,88.36304,Kolkata,West Bengal,Kolkata,IN
+14.67325,75.4868,Byadgi,Karnataka,Haveri,IN
+25.57473,83.97867,Buxar,Bihar,Buxar,IN
+21.5,83.86667,Burla,Odisha,Sambalpur,IN
+30.15911,77.35814,Buriya,Haryana,Yamunanagar,IN
+23.21494,81.53204,Burhar,Madhya Pradesh,Shahdol,IN
+21.30898,76.22996,Burhanpur,Madhya Pradesh,Burhanpur,IN
+23.16139,85.58925,Bundu,Jharkhand,Ranchi,IN
+25.43855,75.63735,Bundi,Rajasthan,Bundi,IN
+20.52933,76.18457,Buldana,Maharashtra,Buldana,IN
+28.40296,77.85824,Bulandshahr,Uttar Pradesh,Bulandshahr,IN
+19.80806,84.79084,Buguda,Odisha,Ganjam,IN
+29.92799,75.56205,Budhlada,Punjab,Mansa,IN
+29.28805,77.47534,Budhana,Uttar Pradesh,Muzaffarnagar,IN
+28.0362,79.12631,Budaun,Uttar Pradesh,Budaun,IN
+21.81667,83.91667,Brajarajnagar,Odisha,Jharsuguda,IN
+19.31151,84.7929,Brahmapur,Odisha,Ganjam,IN
+22.16917,71.66671,Botad,Gujarat,Bhavnagar,IN
+22.40788,72.89817,Borsad,Gujarat,Anand,IN
+19.23496,72.85976,Borivli,Maharashtra,Mumbai Suburban,IN
+26.47703,90.55815,Bongaigaon,Assam,Chirang,IN
+27.26475,92.42472,Bomdila,Arunachal Pradesh,West Kameng,IN
+19.07283,72.88261,Mumbai,Maharashtra,Mumbai Suburban,IN
+23.66278,87.69695,Bolpur,West Bengal,Birbhum,IN
+22.11312,85.33645,Bolanikhodan,Odisha,Kendujhar,IN
+23.78732,85.95622,Bokaro,Jharkhand,Bokaro,IN
+26.64018,93.60052,Bokakhat,Assam,Golaghat,IN
+26.02131,93.77945,Bokajan,Assam,Karbi Anglong,IN
+19.80362,72.75598,Boisar,Maharashtra,Thane,IN
+23.16524,81.43262,Bodri,Madhya Pradesh,Shahdol,IN
+10.01171,77.34976,Bodinayakkanur,Tamil Nadu,Theni,IN
+24.69794,84.99213,Bodh Gaya,Bihar,Gaya,IN
+18.66208,77.88581,Bodhan,Telangana,Nizamabad District,IN
+18.57351,83.35899,Bobbili,Andhra Pradesh,Vizianagaram District,IN
+26.60664,80.27098,Bithur,Uttar Pradesh,Kanpur,IN
+27.49672,80.99688,Biswan,Uttar Pradesh,Sitapur,IN
+28.24737,75.07666,Bissau,Rajasthan,Jhunjhunun,IN
+23.0738,87.31991,Bishnupur,West Bengal,Bankura,IN
+22.37777,88.27411,Bishnupur,West Bengal,South 24 Paraganas,IN
+32.6106,74.85557,Bishnah,Kashmir,Jammu,IN
+25.40362,80.61906,Bisenda Buzurg,Uttar Pradesh,Banda,IN
+28.30822,78.93661,Bisauli,Uttar Pradesh,Budaun,IN
+28.29187,79.80307,Bisalpur,Uttar Pradesh,Pilibhit,IN
+13.59723,75.97167,Birur,Karnataka,Chikmagalur,IN
+26.50823,87.01194,Birpur,Bihar,Supaul,IN
+22.4,84.76667,Birmitrapur,Odisha,Sundargarh,IN
+30.0712,78.28189,Birbhaddar,Uttarakhand,Dehradun,IN
+18.98921,75.75634,Beed,Maharashtra,Bid,IN
+21.03333,83.8,Binika,Odisha,Subarnapur,IN
+26.03613,80.57617,Bindki,Uttar Pradesh,Fatehpur,IN
+24.18386,78.20128,Etawa,Madhya Pradesh,Sagar,IN
+26.12747,83.89078,Belthara,Uttar Pradesh,Ballia,IN
+28.13073,78.91055,Bilsi,Uttar Pradesh,Budaun,IN
+28.24246,79.95182,Bilsanda,Uttar Pradesh,Pilibhit,IN
+18.77494,77.72333,Biloli,Maharashtra,Nanded,IN
+21.4415,70.60063,Bilkha,Gujarat,Junagadh,IN
+20.76957,72.96134,Bilimora,Gujarat,Navsari,IN
+26.84345,80.06388,Bilhaur,Uttar Pradesh,Kanpur,IN
+27.17503,80.03172,Bilgram,Uttar Pradesh,Hardoi,IN
+16.34714,75.61804,Bilgi,Karnataka,Bagalkot,IN
+31.34173,76.7625,Bilaspur,Himachal Pradesh,Bilaspur,IN
+30.3045,77.30424,Bilaspur,Haryana,Yamunanagar,IN
+28.8869,79.26663,Bilaspur,Uttar Pradesh,Rampur,IN
+28.39088,77.62246,Bilaspur,Uttar Pradesh,Gautam Buddha Nagar,IN
+22.07402,82.1566,Bilaspur,Chhattisgarh,Bilaspur,IN
+26.23285,90.2341,Bilasipara,Assam,Dhuburi,IN
+26.19701,83.22771,Bilariaganj,Uttar Pradesh,Azamgarh,IN
+28.62163,78.80314,Bilari,Uttar Pradesh,Moradabad,IN
+26.18048,73.70569,Bilara,Rajasthan,Jodhpur,IN
+25.21262,84.25409,Bikramganj,Bihar,Rohtas,IN
+26.59452,82.13253,Bikapur,Uttar Pradesh,Faizabad,IN
+28.02094,73.30749,Bikaner,Rajasthan,Bikaner,IN
+24.93286,77.64401,Bijroni,Madhya Pradesh,Shivpuri,IN
+29.373,78.13636,Bijnor,Uttar Pradesh,Bijnor,IN
+26.49588,90.70298,Bijni,Assam,Chirang,IN
+33.79403,75.10679,Bijbiara,Kashmir,Anantnag,IN
+24.62625,79.49243,Bijawar,Madhya Pradesh,Chhatarpur,IN
+16.82442,75.71537,Bijapur,Karnataka,Bijapur,IN
+27.01718,93.91673,Bihpuriagaon,Assam,Lakhimpur,IN
+25.19729,85.52374,Bihar Sharif,Bihar,Nalanda,IN
+25.73415,86.98837,Bihariganj,Bihar,Madhepura,IN
+26.34734,80.65698,Bighapur Khurd,Uttar Pradesh,Unnao,IN
+26.80172,79.50829,Bidhuna,Uttar Pradesh,Auraiya,IN
+17.91331,77.53011,Bidar,Karnataka,Bidar,IN
+23.86667,76.91667,Biaora,Madhya Pradesh,Rajgarh,IN
+11.44154,79.64568,Bhuvanagiri,Tamil Nadu,Cuddalore,IN
+21.04658,75.78175,Bhusawal,Maharashtra,Jalgaon,IN
+27.78333,74.93333,Bhuma,Rajasthan,Sikar,IN
+18.45908,75.65877,Bhum,Maharashtra,Osmanabad,IN
+23.25397,69.66928,Bhuj,Gujarat,Kachchh,IN
+16.90742,74.59954,Bhudgaon,Maharashtra,Sangli,IN
+20.27241,85.83385,Bhubaneshwar,Odisha,Khordha,IN
+20.88197,85.83334,Bhuban,Odisha,Dhenkanal,IN
+29.3886,79.50489,Bhowali,Uttarakhand,Naini Tal,IN
+18.14861,73.84336,Bhor,Maharashtra,Pune Division,IN
+23.25469,77.40289,Bhopal,Madhya Pradesh,Bhopal,IN
+17.51544,78.88563,Bhongir,Telangana,Nalgonda,IN
+27.25579,79.18073,Bhongaon,Uttar Pradesh,Mainpuri,IN
+31.5423,75.50774,Bholath,Punjab,Kapurthala,IN
+23.63962,86.44105,Bhojudih,Jharkhand,Dhanbad,IN
+31.55442,75.64271,Bhogpur,Punjab,Jalandhar,IN
+28.79776,76.13833,Bhiwani,Haryana,Bhiwani,IN
+19.30023,73.05881,Bhiwandi,Maharashtra,Thane,IN
+25.79239,78.11077,Bhitarwar,Madhya Pradesh,Gwalior,IN
+24.99944,72.27141,Bhinmal,Rajasthan,Jalore,IN
+27.70354,81.93417,Bhinga,Uttar Pradesh,Shrawasti,IN
+24.50415,74.18595,Bhindar,Rajasthan,Udaipur,IN
+26.56671,78.78728,Bhind,Madhya Pradesh,Bhind,IN
+17.89017,83.45203,Bhimunipatnam,Andhra Pradesh,Vishakhapatnam,IN
+29.34447,79.56336,Bhim Tal,Uttarakhand,Naini Tal,IN
+16.54078,81.52322,Bhimavaram,Andhra Pradesh,West Godavari,IN
+25.34644,74.63523,Bhilwara,Rajasthan,Bhilwara,IN
+21.21667,81.43333,Bhilai,Chhattisgarh,Durg,IN
+30.06114,75.53433,Bhikhi,Punjab,Mansa,IN
+21.86694,75.96561,Bhikangaon,Madhya Pradesh,Khargone,IN
+18.3007,74.76701,Bhigvan,Maharashtra,Pune Division,IN
+21.85523,70.24791,Bhayavadar,Gujarat,Rajkot,IN
+19.30157,72.85107,Bhayandar,Maharashtra,Thane,IN
+19.90765,83.16858,Bhawanipatna,Odisha,Kalahandi,IN
+30.2666,76.03695,Bhawanigarh,Punjab,Sangrur,IN
+24.41582,75.83552,Bhawaniganj,Madhya Pradesh,,IN
+21.77445,72.1525,Bhavnagar,Gujarat,Bhavnagar,IN
+11.44713,77.68424,Bhavani,Tamil Nadu,Erode,IN
+16.1026,80.78074,Bhattiprolu,Andhra Pradesh,Guntur,IN
+22.86643,88.40113,Bhatpara,West Bengal,North 24 Parganas,IN
+13.98194,74.55498,Bhatkal,Karnataka,Uttar Kannada,IN
+30.20712,74.9414,Bhatinda,Punjab,Bathinda,IN
+21.15,81.7,Bhatgaon,Chhattisgarh,Raipur,IN
+21.73333,81.93333,Bhatapara,Chhattisgarh,Raipur,IN
+27.03895,77.04849,Bhasawar,Rajasthan,Bharatpur,IN
+25.5606,81.49174,Bharwari,Uttar Pradesh,Kaushambi District,IN
+21.69482,72.9805,Bharuch,Gujarat,Bharuch,IN
+26.75367,79.22263,Bharthana,Uttar Pradesh,Etawah,IN
+27.21731,77.49009,Bharatpur,Rajasthan,Bharatpur,IN
+21.93053,69.78081,Bhanvad,Gujarat,Jamnagar,IN
+21.09214,80.93121,Bhanpuri,Chhattisgarh,Raj Nandgaon,IN
+24.513,75.7469,Bhanpura,Madhya Pradesh,Mandsaur,IN
+19.92719,84.58201,Bhanjanagar,Odisha,Ganjam,IN
+25.73533,78.74576,Bhander,Madhya Pradesh,Gwalior,IN
+21.16667,79.65,Bhandara,Maharashtra,Bhandara,IN
+18.04348,77.206,Bhalki,Karnataka,Bidar,IN
+19.11285,77.96336,Bhaisa,Telangana,Adilabad,IN
+21.64498,77.63072,Bhainsdehi,Madhya Pradesh,Betul,IN
+26.2239,80.75637,Bhagwantnagar,Uttar Pradesh,Unnao,IN
+25.24446,86.97183,Bhagalpur,Bihar,Bhagalpur,IN
+22.82449,88.33841,Bhadreswar,West Bengal,Hugli,IN
+13.84846,75.70502,Bhadravati,Karnataka,Shimoga,IN
+21.05447,86.5156,Bhadrakh,Odisha,Bhadrak,IN
+17.66846,80.88887,Bhadrachalam,Telangana,Khammam,IN
+29.10298,75.17138,Bhadra,Rajasthan,Hanumangarh,IN
+25.3949,82.56636,Bhadohi,Uttar Pradesh,Sant Ravi Das Nagar,IN
+30.47534,75.33011,Bhadaur,Punjab,Barnala,IN
+28.31457,74.28952,Bhadasar,Rajasthan,Churu,IN
+32.97941,75.71723,Bhadarwah,Kashmir,Doda,IN
+23.29858,70.34279,Bhachau,Gujarat,Kachchh,IN
+25.04133,83.60789,Bhabua,Bihar,Kaimur District,IN
+22.53048,74.32846,Bhabhra,Madhya Pradesh,Alirajpur,IN
+11.17151,75.80611,Beypore,Kerala,Kozhikode,IN
+27.21818,79.2983,Bewar,Uttar Pradesh,Mainpuri,IN
+21.85574,77.92849,Betul Bazar,Madhya Pradesh,Betul,IN
+21.90195,77.90405,Betul,Madhya Pradesh,Betul,IN
+26.8024,84.49873,Bettiah,Bihar,Pashchim Champaran,IN
+22.68616,75.61486,Betma,Madhya Pradesh,Indore,IN
+15.45185,78.14611,Betamcherla,Andhra Pradesh,Kurnool,IN
+27.6379,77.88028,Beswan,Uttar Pradesh,Aligarh,IN
+28.70266,76.57831,Beri Khas,Haryana,Jhajjar,IN
+23.63134,77.43351,Berasia,Madhya Pradesh,Bhopal,IN
+24.02335,81.37812,Beohari,Madhya Pradesh,Shahdol,IN
+27.29293,80.44364,Beniganj,Uttar Pradesh,Hardoi,IN
+15.27004,73.93461,Benaulim,Goa,South Goa,IN
+21.7,81.53333,Bemetara,Chhattisgarh,Durg,IN
+13.16558,75.86519,Belur,Karnataka,Hassan,IN
+11.70691,78.4157,Belur,Tamil Nadu,Salem,IN
+13.98333,75.3,Beltangadi,Karnataka,Shimoga,IN
+26.44365,85.40076,Belsand,Bihar,Sitamarhi,IN
+23.25178,91.45407,Belonia,Tripura,South Tripura,IN
+12.98146,76.7334,Belluru,Karnataka,Mandya,IN
+15.14575,76.91751,Bellary,Karnataka,Bellary,IN
+23.32052,87.22081,Beliator,West Bengal,Bankura,IN
+15.85212,74.50447,Belgaum,Karnataka,Belgaum,IN
+23.93428,88.26018,Beldanga,West Bengal,Murshidabad,IN
+19.88249,84.63801,Belaguntha,Odisha,Ganjam,IN
+25.92104,81.99909,Bela,Uttar Pradesh,Pratapgarh,IN
+27.88832,76.28108,Behror,Rajasthan,Alwar,IN
+30.1705,77.61532,Behat,Uttar Pradesh,Saharanpur,IN
+25.41853,86.13389,Begusarai,Bihar,Begusarai,IN
+24.98333,75.0,Begun,Rajasthan,Chittaurgarh,IN
+31.61152,75.52135,Begowal,Punjab,Kapurthala,IN
+23.59917,78.34064,Begamganj,Madhya Pradesh,Raisen,IN
+22.50143,70.04363,Bedi,Gujarat,Jamnagar,IN
+26.10119,74.32028,Beawar,Rajasthan,Ajmer,IN
+29.15299,79.1064,Bazpur,Uttarakhand,Udham Singh Nagar,IN
+26.90791,77.28985,Bayana,Rajasthan,Bharatpur,IN
+28.80059,77.03473,Bawana,NCT,North West Delhi,IN
+28.07184,76.58312,Bawal,Haryana,Rewari District,IN
+20.83333,84.31667,Bauda,Odisha,Baudh,IN
+33.11826,75.30889,Batoti,Kashmir,Doda,IN
+31.81861,75.20278,Batala,Punjab,Gurdaspur,IN
+27.14955,76.58345,Baswa,Rajasthan,Dausa,IN
+26.46742,90.41951,Basugaon,Assam,Chirang,IN
+21.11974,86.72896,Basudebpur,Odisha,Bhadrak,IN
+26.79446,82.73285,Basti,Uttar Pradesh,Basti,IN
+23.85153,77.93652,Basoda,Madhya Pradesh,Vidisha,IN
+27.17232,73.64519,Basni,Rajasthan,Nagaur,IN
+21.28333,82.81667,Basna,Chhattisgarh,Mahasamund,IN
+19.32872,77.15746,Basmat,Maharashtra,Hingoli,IN
+30.69001,76.40154,Basi,Punjab,Fatehgarh Sahib,IN
+30.5883,76.84389,Basi,Punjab,Ajitgarh,IN
+26.8315,76.04856,Basi,Rajasthan,Jaipur,IN
+16.57278,75.97252,Basavana Bagevadi,Karnataka,Bijapur,IN
+17.87445,76.94972,Basavakalyan,Karnataka,Bidar,IN
+27.99008,94.69451,Basar,Arunachal Pradesh,West Siang,IN
+22.03261,74.89808,Barwani,Madhya Pradesh,Barwani,IN
+29.36747,75.90809,Barwala,Haryana,Hisar,IN
+23.84753,84.11122,Barwadih,Jharkhand,Latehar,IN
+25.47446,85.96681,Baruni,Bihar,Begusarai,IN
+22.35253,88.43882,Baruipur,West Bengal,South 24 Paraganas,IN
+18.23454,75.69275,Barsi,Maharashtra,Solapur,IN
+27.64798,77.37618,Barsana,Uttar Pradesh,Mathura,IN
+26.32293,91.00632,Barpeta,Assam,Barpeta,IN
+26.28709,93.88844,Barpathar,Assam,Golaghat,IN
+21.2,83.58333,Barpali,Odisha,Baragarh,IN
+30.37205,75.54537,Barnala,Punjab,Barnala,IN
+25.74572,71.39211,Barmer,Rajasthan,Barmer,IN
+30.80861,78.20596,Barkot,Uttarakhand,Uttarkashi,IN
+24.17543,85.89077,Barki Saria,Jharkhand,Giridih,IN
+28.45159,79.80477,Barkhera,Uttar Pradesh,Pilibhit,IN
+23.62199,85.46714,Barka Kana,Jharkhand,Ramgarh,IN
+23.42754,87.29037,Barjora,West Bengal,Bankura,IN
+23.6182,91.35596,Barjala,Tripura,West Tripura,IN
+24.41339,74.47331,Bari Sadri,Rajasthan,Chittaurgarh,IN
+25.28848,86.57578,Bariarpur,Bihar,Munger,IN
+26.64661,77.61634,Bari,Rajasthan,Dhaulpur,IN
+25.28814,86.02055,Barhiya,Bihar,Lakhisarai,IN
+24.3,85.41667,patamda,Jharkhand,Hazaribag,IN
+23.903,80.81483,Barhi,Madhya Pradesh,Katni,IN
+25.48438,85.71027,Barh,Bihar,Patna,IN
+22.99136,79.87619,Bargi,Madhya Pradesh,Jabalpur,IN
+22.03111,79.72933,Barghat,Madhya Pradesh,Seoni,IN
+21.33333,83.61667,Bargarh,Odisha,Baragarh,IN
+23.09635,80.05039,Barela,Madhya Pradesh,Jabalpur,IN
+28.34702,79.42193,Bareilly,Uttar Pradesh,Bareilly,IN
+21.12297,73.11151,Bardoli,Gujarat,Surat,IN
+23.25572,87.85691,Barddhaman,West Bengal,Barddhaman,IN
+25.21855,85.7332,Bar Bigha,Bihar,Sheikhpura,IN
+29.10199,77.26334,Baraut,Uttar Pradesh,Baghpat,IN
+26.38149,84.58724,Barauli,Bihar,Gopalganj,IN
+22.72154,88.48198,Barasat,West Bengal,North 24 Parganas,IN
+22.22516,88.45086,Barasat,West Bengal,South 24 Paraganas,IN
+22.64132,88.37727,Baranagar,West Bengal,North 24 Parganas,IN
+25.1,76.51667,Baran,Rajasthan,Baran,IN
+34.209,74.34285,Baramula,Kashmir,Baramula,IN
+18.15174,74.57767,Baramati,Maharashtra,Pune Division,IN
+22.76602,88.36336,Barakpur,West Bengal,North 24 Parganas,IN
+25.47574,78.71244,Baragaon,Uttar Pradesh,Jhansi,IN
+25.42946,82.81655,Baragaon,Uttar Pradesh,Varanasi,IN
+22.56667,88.35,Bara Bazar,West Bengal,Kolkata,IN
+15.90437,80.4675,Bapatla,Andhra Pradesh,Guntur,IN
+30.55375,76.71867,Banur,Punjab,Patiala,IN
+12.89122,75.04097,Bantval,Karnataka,Dakshina Kannada,IN
+21.48815,70.07576,Bantva,Gujarat,Junagadh,IN
+23.54109,74.4425,Banswara,Rajasthan,Banswara,IN
+18.37725,77.88007,Banswada,Telangana,Nizamabad District,IN
+27.17979,82.93409,Bansi,Uttar Pradesh,Siddharthangar,IN
+26.55222,83.34494,Bansgaon,Uttar Pradesh,Gorakhpur,IN
+25.88409,84.21737,Bansdih,Bihar,,IN
+22.95387,88.40098,Bansbaria,West Bengal,Hugli,IN
+22.24834,84.81044,Banposh,Odisha,Sundargarh,IN
+12.33246,76.86178,Bannur,Karnataka,Mysore,IN
+25.88667,87.19491,Banmankhi,Bihar,Purnia,IN
+23.23241,87.0716,Bankura,West Bengal,Bankura,IN
+20.37912,85.52953,Banki,Odisha,Cuttack,IN
+24.88091,86.92257,Banka,Bihar,Banka,IN
+31.639,77.34055,Banjar,Himachal Pradesh,Kulu,IN
+33.41667,75.2,Banihal,Kashmir,Ramban,IN
+26.8912,80.21149,Bangarmau,Uttar Pradesh,Unnao,IN
+12.99199,78.17925,Bangarapet,Karnataka,Kolar,IN
+25.86728,86.51152,Bangaon,Bihar,Saharsa,IN
+23.04553,88.83084,Bangaon,West Bengal,North 24 Parganas,IN
+15.31691,78.22701,Banganapalle,Andhra Pradesh,Kurnool,IN
+12.97194,77.59369,Bangalore,Karnataka,Bangalore Urban,IN
+31.18602,75.99643,Banga,Punjab,Shahid Bhagat Singh Nagar,IN
+15.40823,73.98129,Bandora,Goa,North Goa,IN
+34.41728,74.64308,Bandipura,Kashmir,Bandipore,IN
+27.05087,76.57325,Bandikui,Rajasthan,Dausa,IN
+25.47534,80.3358,Banda,Uttar Pradesh,Banda,IN
+24.04449,78.96163,Banda,Madhya Pradesh,Sagar,IN
+13.40851,76.16292,Banavar,Karnataka,Hassan,IN
+29.46355,77.35478,Banat,Uttar Pradesh,Muzaffarnagar,IN
+19.77889,85.17033,Banapur,Odisha,Khordha,IN
+24.89309,78.1513,Bamor Kalan,Madhya Pradesh,Shivpuri,IN
+24.05539,78.08925,Bamora,Madhya Pradesh,Sagar,IN
+23.09412,74.7595,Bamnia,Madhya Pradesh,Jhabua,IN
+11.7,92.71667,Bamboo Flat,Andaman and Nicobar Islands,,IN
+15.46361,73.8531,Bambolim,Goa,North Goa,IN
+25.22099,88.77732,Balurghat,West Bengal,Dakshin Dinajpur,IN
+20.17811,85.11225,Balugaon,Odisha,Nayagarh District,IN
+27.42766,82.1871,Balrampur,Uttar Pradesh,Balrampur,IN
+25.83242,72.24,Balotra,Rajasthan,Barmer,IN
+21.65678,82.16062,Baloda Bazar,Chhattisgarh,Raipur,IN
+22.13883,82.48135,Baloda,Chhattisgarh,Janjgir-Champa,IN
+20.73081,81.20578,Balod,Chhattisgarh,Durg,IN
+22.64859,88.34115,Bali,West Bengal,Haora,IN
+19.84657,79.34624,Ballalpur,Maharashtra,Chandrapur,IN
+18.2517,82.11091,Balimela,Odisha,Malkangiri,IN
+22.36482,87.55304,Bali Chak,West Bengal,Paschim Medinipur,IN
+25.19725,73.29117,Bali,Rajasthan,Pali,IN
+21.49266,86.93348,Balasore,Odisha,Baleshwar,IN
+24.75619,79.06715,Baldeogarh,Madhya Pradesh,Tikamgarh,IN
+27.40804,77.82382,Baldev,Uttar Pradesh,Mathura,IN
+23.09714,86.22292,Balarampur,West Bengal,Puruliya,IN
+20.66612,76.77386,Balapur,Maharashtra,Akola,IN
+20.70419,83.49029,Balangir,Odisha,Balangir,IN
+21.81667,80.18489,Balaghat,Madhya Pradesh,Balaghat,IN
+31.06062,76.30166,Balachor,Punjab,Shahid Bhagat Singh Nagar,IN
+24.25,79.3,Bakswaho,Madhya Pradesh,Chhatarpur,IN
+23.8832,87.37265,Bakreswar,West Bengal,Birbhum,IN
+32.47939,75.91874,Bakloh,Punjab,,IN
+25.45931,85.53301,Bakhtiyarpur,Bihar,Patna,IN
+26.662,79.17719,Bakewar,Uttar Pradesh,Etawah,IN
+24.28624,76.23709,Bakani,Rajasthan,Jhalawar,IN
+27.89776,77.67779,Bajna,Uttar Pradesh,Mathura,IN
+22.47514,88.17767,Baj Baj,West Bengal,South 24 Paraganas,IN
+25.86302,87.74487,Baisi,Bihar,Purnia,IN
+26.74063,85.27323,Bairagnia,Bihar,Sitamarhi,IN
+13.86667,74.63333,Byndoor,Karnataka,Udupi,IN
+15.81619,74.85752,Bail Hongal,Karnataka,Belgaum,IN
+23.26206,82.56051,Baikunthpur,Chhattisgarh,Koriya,IN
+24.72867,81.40886,Baikanthpur,Madhya Pradesh,Rewa,IN
+22.10176,80.54963,Baihar,Madhya Pradesh,Balaghat,IN
+22.78498,88.32586,Baidyabati,West Bengal,Hugli,IN
+25.83917,80.62244,Bahua,Uttar Pradesh,Fatehpur,IN
+29.20076,77.97084,Bahsuma,Uttar Pradesh,Meerut,IN
+27.5743,81.59588,Bahraich,Uttar Pradesh,Bahraich,IN
+28.39361,78.62212,Bahjoi,Uttar Pradesh,Moradabad,IN
+28.77373,79.49553,Baheri,Uttar Pradesh,Bareilly,IN
+24.10473,88.25155,Baharampur,West Bengal,Murshidabad,IN
+28.69108,76.9316,Bahadurgarh,Haryana,Jhajjar,IN
+26.2594,87.82096,Bahadurganj,Bihar,Kishanganj,IN
+26.86991,78.59443,Bah,Uttar Pradesh,Agra,IN
+23.33664,88.64109,Bagula,West Bengal,Nadia,IN
+23.73333,86.31667,Bagra,Jharkhand,Dhanbad,IN
+22.64141,76.34778,Bagli,Madhya Pradesh,Dewas,IN
+28.94442,77.21878,Baghpat,Uttar Pradesh,Baghpat,IN
+26.69929,88.31177,Baghdogra,West Bengal,Darjiling,IN
+30.68747,75.09572,Bagha Purana,Punjab,Moga,IN
+22.35993,74.79035,Bagh,Madhya Pradesh,Dhar,IN
+29.8376,79.7714,Bageshwar,Uttarakhand,Bageshwar,IN
+13.78338,77.79667,Bagepalli,Karnataka,Chikkaballapur,IN
+21.48719,70.95516,Bagasra,Gujarat,Amreli,IN
+28.1874,75.5005,Bagar,Rajasthan,Jhunjhunun,IN
+16.18673,75.69614,Bagalkot,Karnataka,Bagalkot,IN
+27.09918,84.09003,Bagaha,Bihar,Pashchim Champaran,IN
+24.52627,85.06094,Bagaha,Bihar,Gaya,IN
+14.73959,79.06201,Badvel,Andhra Pradesh,Cuddapah,IN
+22.74431,88.78655,Baduria,West Bengal,North 24 Parganas,IN
+23.02181,75.23268,Badnawar,Madhya Pradesh,Dhar,IN
+19.15516,73.26553,Badlapur,Maharashtra,Thane,IN
+30.68036,75.29239,Badhni Kalan,Punjab,Moga,IN
+24.97613,77.56645,Badarwas,Madhya Pradesh,Shivpuri,IN
+24.86852,92.59606,Badarpur,Assam,Hailakandi,IN
+15.91495,75.67683,Badami,Karnataka,Bagalkot,IN
+11.59641,75.58622,Badagara,Kerala,Kozhikode,IN
+22.11186,85.38684,Bada Barabil,Odisha,Kendujhar,IN
+26.47082,81.11528,Bachhrawan,Uttar Pradesh,Rae Bareli,IN
+28.92497,78.23353,Bachhraon,Uttar Pradesh,Jyotiba Phule Nagar,IN
+28.72364,77.84621,Babugarh,Uttar Pradesh,Ghaziabad,IN
+28.2639,78.40471,Babrala,Uttar Pradesh,Budaun,IN
+21.84577,71.30544,Babra,Gujarat,Amreli,IN
+25.24215,78.46603,Babina,Uttar Pradesh,Jhansi,IN
+25.54711,80.70443,Baberu,Uttar Pradesh,Banda,IN
+22.70256,77.93494,Babai,Madhya Pradesh,Hoshangabad,IN
+26.06758,83.18364,Azamgarh,Uttar Pradesh,Azamgarh,IN
+10.90141,79.17984,Ayyampettai,Tamil Nadu,Thanjavur,IN
+26.79959,82.20414,Ayodhya,Uttar Pradesh,Faizabad,IN
+10.44992,77.55198,Ayakudi,Tamil Nadu,Dindigul,IN
+33.91978,75.01515,Awantipur,Kashmir,Pulwama,IN
+16.02148,80.91808,Avanigadda,Andhra Pradesh,Krishna,IN
+11.19297,77.26865,Avinashi,Tamil Nadu,Tiruppur,IN
+13.1147,80.10981,Avadi,Tamil Nadu,Kancheepuram,IN
+18.24728,76.4993,Ausa,Maharashtra,Latur,IN
+26.91414,80.50792,Auras,Uttar Pradesh,Unnao,IN
+24.75389,84.37407,Aurangabad,Bihar,Aurangabad,IN
+19.87757,75.34226,Aurangabad,Maharashtra,Aurangabad Division,IN
+26.46313,79.51167,Auraiya,Uttar Pradesh,Auraiya,IN
+18.25429,77.4135,Aurad,Karnataka,Bidar,IN
+11.59414,78.60143,Attur,Tamil Nadu,Salem,IN
+8.69282,76.81518,Attingal,Kerala,Thiruvananthapuram,IN
+16.7,81.6,Attili,Andhra Pradesh,West Godavari,IN
+11.53187,78.05416,Attayyampatti,Tamil Nadu,Salem,IN
+26.33273,82.94698,Atraulia,Uttar Pradesh,Azamgarh,IN
+28.02964,78.28571,Atrauli,Uttar Pradesh,Aligarh,IN
+15.88109,78.58704,Atmakur,Andhra Pradesh,Kurnool,IN
+10.34059,79.37905,Adirampattinam,Tamil Nadu,Thanjavur,IN
+16.72613,75.06421,Athni,Karnataka,Belgaum,IN
+20.51999,85.62965,Athagarh,Odisha,Cuttack,IN
+28.1008,76.2598,Ateli Mandi,Haryana,Mahendragarh,IN
+25.2857,80.57144,Atarra Buzurg,Uttar Pradesh,Banda,IN
+25.7342,74.33278,Asind,Rajasthan,Bhilwara,IN
+19.61114,84.65998,Asika,Odisha,Ganjam,IN
+19.35851,79.28415,Asifabad,Telangana,Adilabad,IN
+19.37648,76.22496,Ashti,Maharashtra,Jalna,IN
+23.0179,76.72024,Ashta,Madhya Pradesh,Sehore,IN
+16.94943,74.40936,Ashta,Maharashtra,Sangli,IN
+24.57468,77.73038,Ashoknagar,Madhya Pradesh,Ashoknagar,IN
+25.15046,86.68639,Asarganj,Bihar,Munger,IN
+23.68333,86.98333,Asansol,West Bengal,Barddhaman,IN
+29.52119,76.60552,Asandh,Haryana,Karnal,IN
+20.99585,78.22914,Arvi,Maharashtra,Wardha,IN
+9.50842,78.09449,Aruppukkottai,Tamil Nadu,Virudhunagar,IN
+8.5688,78.09091,Arumuganeri,Tamil Nadu,Thoothukkudi,IN
+11.38167,78.72885,Arumbavur,Tamil Nadu,Perambalur,IN
+9.86667,76.35,Arukutti,Kerala,Alappuzha,IN
+13.31446,76.25704,Arsikere,Karnataka,Hassan,IN
+24.38362,77.4192,Aron,Madhya Pradesh,Guna,IN
+32.52095,74.79845,Arnia,Kashmir,Jammu,IN
+31.15196,76.96675,Arki,Himachal Pradesh,Solan,IN
+12.76521,76.05622,Arkalgud,Karnataka,Hassan,IN
+11.13849,79.07556,Ariyalur,Tamil Nadu,Ariyalur,IN
+10.25639,78.88712,Arimalam,Tamil Nadu,Pudukkottai,IN
+12.90569,79.31897,Arcot,Tamil Nadu,Vellore,IN
+11.36582,76.75858,Aravankadu,Tamil Nadu,Nilgiri,IN
+26.14845,87.51404,Araria,Bihar,Araria,IN
+10.17235,78.99118,Arantangi,Tamil Nadu,Pudukkottai,IN
+12.66987,79.28555,Arani,Tamil Nadu,Tiruvannamalai,IN
+18.67458,75.17976,Arangaon,Maharashtra,Ahmadnagar,IN
+21.2,81.96667,Arang,Chhattisgarh,Raipur,IN
+15.68681,73.70449,Arambol,Goa,North Goa,IN
+22.88333,87.78333,Arambagh,West Bengal,Hugli,IN
+13.08449,79.67053,Arakkonam,Tamil Nadu,Vellore,IN
+25.56314,84.67137,Ara,Bihar,Bhojpur,IN
+28.27359,79.1597,Aonla,Uttar Pradesh,Bareilly,IN
+28.3573,78.26921,Anupshahr,Uttar Pradesh,Bulandshahr,IN
+23.10344,81.69083,Anuppur,Madhya Pradesh,Anuppur,IN
+29.19111,73.20861,Anupgarh,Rajasthan,Ganganagar,IN
+26.05652,81.90339,Antu,Uttar Pradesh,Pratapgarh,IN
+26.05804,78.21027,Antri,Madhya Pradesh,Gwalior,IN
+25.15,76.3,Anta,Rajasthan,Baran,IN
+20.03997,77.31519,Anshing,Maharashtra,Washim,IN
+11.23616,77.10514,Annur,Tamil Nadu,Coimbatore,IN
+15.42513,75.4335,Annigeri,Karnataka,Dharwad,IN
+10.46057,78.70002,Annavasal,Tamil Nadu,Pudukkottai,IN
+11.4,79.73333,Annamalainagar,Tamil Nadu,Cuddalore,IN
+14.66049,74.3047,Ankola,Karnataka,Uttar Kannada,IN
+21.63236,72.99001,Ankleshwar,Gujarat,Bharuch,IN
+23.11316,70.02671,Anjar,Gujarat,Kachchh,IN
+21.16343,77.3107,Anjangaon,Maharashtra,Amravati Division,IN
+22.04171,75.05519,Anjad,Madhya Pradesh,Barwani,IN
+20.84089,85.10192,Angul,Odisha,Angul District,IN
+10.2,76.4,Angamali,Kerala,Ernakulam,IN
+12.7111,77.69557,Anekal,Karnataka,Bangalore Urban,IN
+17.81458,78.07713,Andol,Telangana,Medak,IN
+11.57506,77.59043,Anthiyur,Tamil Nadu,Erode,IN
+9.99854,77.62122,Andippatti,Tamil Nadu,Theni,IN
+33.72993,75.15167,Anantnag,Kashmir,Anantnag,IN
+14.6794,77.59877,Anantapur,Andhra Pradesh,Anantapur,IN
+31.2388,76.50069,Anandpur Sahib,Punjab,Rupnagar,IN
+27.10062,83.27156,Anandnagar,Uttar Pradesh,Maharajganj,IN
+22.55251,72.9552,Anand,Gujarat,Anand,IN
+17.69134,83.00395,Anakapalle,Andhra Pradesh,Vishakhapatnam,IN
+10.58226,76.9347,Anaimalai,Tamil Nadu,Coimbatore,IN
+18.41062,83.90243,Amudalavalasa,Andhra Pradesh,Srikakulam,IN
+22.58344,88.01039,Amta,West Bengal,Haora,IN
+21.25084,72.83878,Amroli,Gujarat,Surat,IN
+28.90314,78.46984,Amroha,Uttar Pradesh,Jyotiba Phule Nagar,IN
+31.63661,74.87476,Amritsar,Punjab,Amritsar,IN
+21.59983,71.21169,Amreli,Gujarat,Amreli,IN
+20.93333,77.75,Amravati,Maharashtra,Amravati Division,IN
+21.99317,72.87047,Amod,Gujarat,Bharuch,IN
+11.61905,77.74302,Ammapettai,Tamil Nadu,Erode,IN
+10.79588,79.31836,Ammapettai,Tamil Nadu,Thanjavur,IN
+30.60995,76.23186,Amloh,Punjab,Fatehgarh Sahib,IN
+20.28333,73.01667,Amli,Dadra and Nagar Haveli,Dadra & Nagar Haveli,IN
+22.84616,87.33559,Amlagora,West Bengal,Paschim Medinipur,IN
+21.92485,78.12786,Amla,Madhya Pradesh,Betul,IN
+26.81482,94.52614,Amguri,Assam,Sibsagar,IN
+28.01667,81.05,Amethi,Uttar Pradesh,Kheri,IN
+26.15683,81.80567,Amethi,Uttar Pradesh,Sultanpur,IN
+25.30609,73.9258,Amet,Rajasthan,Rajsamand,IN
+12.79163,78.71644,Ambur,Tamil Nadu,Vellore,IN
+23.11892,83.19537,Ambikapur,Chhattisgarh,Surguja,IN
+13.09818,80.16152,Ambattur,Tamil Nadu,Thiruvallur,IN
+8.71068,77.4519,Ambasamudram,Tamil Nadu,Tirunelveli Kattabo,IN
+23.936,91.85436,Ambasa,Tripura,Dhalai,IN
+30.36285,76.79516,Ambala,Haryana,Ambala,IN
+18.73312,76.38616,Ambajogai,Maharashtra,Bid,IN
+29.85706,77.33583,Ambahta,Uttar Pradesh,Saharanpur,IN
+26.70531,78.22712,Ambah,Madhya Pradesh,Morena,IN
+20.77661,80.74453,Ambagarh Chauki,Chhattisgarh,Raj Nandgaon,IN
+19.61301,75.78906,Ambad,Maharashtra,Jalna,IN
+22.29869,79.16941,Amarwara,Madhya Pradesh,Chhindwara,IN
+25.03967,86.90247,Amarpur,Bihar,Banka,IN
+23.5257,91.65879,Amarpur,Tripura,South Tripura,IN
+24.31415,80.97759,Amarpatan,Madhya Pradesh,Satna,IN
+19.2,73.16667,Amarnath,Maharashtra,Thane,IN
+22.67466,81.75997,Amarkantak,Madhya Pradesh,Anuppur,IN
+27.71101,78.73899,Amanpur,Uttar Pradesh,Kanshiram Nagar,IN
+24.42656,80.03586,Amanganj,Madhya Pradesh,Panna,IN
+21.04303,75.0601,Amalner,Maharashtra,Jalgaon,IN
+16.57868,82.00609,Amalapuram,Andhra Pradesh,East Godavari,IN
+10.10468,76.3565,Aluva,Kerala,Ernakulam,IN
+8.60511,77.93754,Alwar Tirunagari,Tamil Nadu,Thoothukkudi,IN
+27.56246,76.625,Alwar,Rajasthan,Alwar,IN
+12.97601,75.98485,Alur,Karnataka,Hassan,IN
+23.76336,75.55662,Alot,Madhya Pradesh,Ratlam,IN
+28.16951,94.8006,Along,Arunachal Pradesh,West Siang,IN
+15.42727,74.74111,Alnavar,Karnataka,Dharwad,IN
+29.59726,79.66088,Almora,Uttarakhand,Almora,IN
+9.49004,76.3264,Alleppey,Kerala,Alappuzha,IN
+19.43172,80.06377,Allapalli,Maharashtra,Gadchiroli,IN
+27.54559,79.6873,Allahganj,Uttar Pradesh,Shahjahanpur,IN
+25.44894,81.83329,Allahabad,Uttar Pradesh,Allahabad,IN
+28.79961,77.13151,Alipur,NCT,North West Delhi,IN
+27.88334,78.07475,Aligarh,Uttar Pradesh,Aligarh,IN
+27.49435,79.17045,Aliganj,Uttar Pradesh,Etah,IN
+18.64813,72.87579,Alibag,Maharashtra,Raigarh,IN
+15.59337,73.87482,Aldona,Goa,North Goa,IN
+31.43161,75.65614,Alawalpur,Punjab,Jalandhar,IN
+11.59895,79.71893,Alappakkam,Tamil Nadu,Cuddalore,IN
+8.86404,77.49937,Alangulam,Tamil Nadu,Tirunelveli Kattabo,IN
+10.3606,78.98492,Alangudi,Tamil Nadu,Pudukkottai,IN
+12.62239,78.75158,Alangayam,Tamil Nadu,Vellore,IN
+10.0469,78.09061,Alanganallur,Tamil Nadu,Madurai,IN
+13.0025,80.20611,Alandur,Tamil Nadu,Kancheepuram,IN
+18.67756,73.89868,Alandi,Maharashtra,Pune Division,IN
+17.56425,76.56854,Aland,Karnataka,Gulbarga,IN
+26.02514,78.79697,Alampur,Madhya Pradesh,Bhind,IN
+15.87987,78.13352,Alampur,Telangana,Mahbubnagar,IN
+11.88705,78.91758,Alagapuram,Tamil Nadu,Villupuram,IN
+21.09639,77.05861,Akot,Maharashtra,Akola,IN
+20.70957,76.9981,Akola,Maharashtra,Akola,IN
+23.38055,76.59831,Akodia,Madhya Pradesh,Shajapur,IN
+24.41384,76.56863,Aklera,Rajasthan,Jhalawar,IN
+16.6,81.38333,Akividu,Andhra Pradesh,West Godavari,IN
+32.86667,74.73333,Akhnur,Kashmir,Jammu,IN
+26.43043,82.53673,Akbarpur,Uttar Pradesh,Ambedkar Nagar,IN
+26.38313,79.95035,Akbarpur,Uttar Pradesh,Kanpur Dehat,IN
+22.0253,82.42689,Akaltara,Chhattisgarh,Janjgir-Champa,IN
+17.52646,76.20665,Akalkot,Maharashtra,Solapur,IN
+29.82074,75.89078,Akalgarh,Punjab,Sangrur,IN
+16.11601,74.21097,Ajra,Maharashtra,Kolhapur,IN
+31.84391,74.76166,Ajnala,Punjab,Amritsar,IN
+26.44976,74.64116,Ajmer,Rajasthan,Ajmer,IN
+13.72677,76.00418,Ajjampur,Karnataka,Chikmagalur,IN
+24.89747,80.25894,Ajaigarh,Madhya Pradesh,Panna,IN
+23.72894,92.71791,Aizawl,Mizoram,Aizawl,IN
+20.75718,73.68626,Ahwa,Gujarat,The Dangs,IN
+25.01611,83.03307,Ahraura,Uttar Pradesh,Mirzapur,IN
+23.83009,87.68661,Ahmadpur,West Bengal,Birbhum,IN
+18.70622,76.93731,Ahmadpur,Maharashtra,Latur,IN
+19.09457,74.73843,Ahmadnagar,Maharashtra,Ahmadnagar,IN
+23.02579,72.58727,Ahmedabad,Gujarat,Ahmadabad,IN
+19.41386,80.00359,Ahiri,Maharashtra,Gadchiroli,IN
+27.18333,78.01667,Agra,Uttar Pradesh,Agra,IN
+23.83605,91.27939,Agartala,Tripura,West Tripura,IN
+23.71177,76.01571,Agar,Madhya Pradesh,Shajapur,IN
+17.20005,76.36024,Afzalpur,Karnataka,Gulbarga,IN
+29.39374,78.67356,Afzalgarh,Uttar Pradesh,Bijnor,IN
+11.01542,79.48093,Aduthurai,Tamil Nadu,Thanjavur,IN
+9.16667,76.73333,Adur,Kerala,Pattanamtitta,IN
+23.49668,86.68363,Adra,West Bengal,Puruliya,IN
+15.62509,77.27536,Adoni,Andhra Pradesh,Kurnool,IN
+19.67203,78.5359,Adilabad,Telangana,Adilabad,IN
+15.80994,79.97311,Addanki,Andhra Pradesh,Prakasam,IN
+23.16453,72.58107,Adalaj,Gujarat,Gandhinagar,IN
+27.1787,77.75739,Achhnera,Uttar Pradesh,Agra,IN
+21.25722,77.50861,Achalpur,Maharashtra,Amravati Division,IN
+24.48012,72.78186,Abu Road,Rajasthan,Sirohi,IN
+24.59365,72.71756,Abu,Rajasthan,Sirohi,IN
+30.14453,74.19552,Abohar,Punjab,Ferozepur,IN
+9.44125,78.44065,Abiramam,Tamil Nadu,Ramanathapuram,IN
+26.32255,90.68526,Abhayapuri,Assam,Bongaigaon,IN
+21.77985,87.74892,Contai,West Bengal,Purba Medinipur,IN
+22.06046,88.10975,Haldia,West Bengal,Purba Medinipur,IN
+22.94849,88.01954,Srirampur,West Bengal,Hugli,IN
+22.93611,88.23194,Haripur,West Bengal,Hugli,IN
+22.96833,88.26278,Kesabpur,West Bengal,Hugli,IN
+22.89639,88.47528,Ramchandrapur,West Bengal,North 24 Parganas,IN
+22.93338,88.13856,Bagnan,West Bengal,Hugli,IN
+22.77778,88.24639,Ramnagar,West Bengal,Hugli,IN
+22.84839,88.45126,Sankarpur,West Bengal,North 24 Parganas,IN
+22.7307,88.25764,Begampur,West Bengal,Hugli,IN
+22.6625,88.22222,Parbatipur,West Bengal,Haora,IN
+22.61476,88.1919,Bhandardaha,West Bengal,Haora,IN
+22.61993,88.24566,Dumjor,West Bengal,Haora,IN
+22.67028,88.26944,Krishnapur,West Bengal,Hugli,IN
+22.60291,88.27751,Bankra,West Bengal,Haora,IN
+22.63222,88.34861,Chakapara,West Bengal,Haora,IN
+22.58826,88.23544,Mahiari,West Bengal,Haora,IN
+22.58083,88.23278,Masila,West Bengal,Haora,IN
+22.58213,88.171,Dhulagari,West Bengal,Haora,IN
+22.53665,88.13785,Panchla,West Bengal,Haora,IN
+22.52444,88.16694,Sahapur,West Bengal,Haora,IN
+22.52556,88.19583,Raghudebbati,West Bengal,Haora,IN
+22.59306,88.09139,Gobindapur,West Bengal,Haora,IN
+22.50833,88.21528,Nangi,West Bengal,South 24 Paraganas,IN
+22.4711,88.1453,Pujali,West Bengal,South 24 Paraganas,IN
+22.37046,88.27864,Amtala,West Bengal,South 24 Paraganas,IN
+22.42563,88.19336,Bawali,West Bengal,South 24 Paraganas,IN
+22.33417,88.29778,Balarampur,West Bengal,South 24 Paraganas,IN
+22.31878,88.2305,Jafarpur,West Bengal,South 24 Paraganas,IN
+22.32344,88.30775,Serpur,West Bengal,South 24 Paraganas,IN
+22.10833,88.07889,Monoharpur,West Bengal,Purba Medinipur,IN
+22.12778,88.15861,Solap,West Bengal,Purba Medinipur,IN
+22.03833,88.32139,Harindanga,West Bengal,South 24 Paraganas,IN
+22.73472,88.75944,Gurdaha,West Bengal,North 24 Parganas,IN
+22.7225,88.55556,Ula,West Bengal,North 24 Parganas,IN
+22.61845,88.75119,Gopalpur,West Bengal,North 24 Parganas,IN
+22.41083,88.50944,Raypur,West Bengal,South 24 Paraganas,IN
+22.28806,88.50917,Nabagram,West Bengal,South 24 Paraganas,IN
+34.08049,74.70871,Soyibug,Kashmir,Baramula,IN
+32.83194,74.57639,Jaurian,Kashmir,Jammu,IN
+30.68551,76.08488,Chima,Punjab,Ludhiana,IN
+28.7781,76.7756,Kheri Sampla,Haryana,Rohtak,IN
+32.55556,74.94861,Gho Manhasan,Kashmir,Samba,IN
+30.03209,77.75329,Chhutmalpur,Uttar Pradesh,Saharanpur,IN
+25.52115,75.64028,Borkhera,Rajasthan,Bundi,IN
+17.46982,78.12574,Singapur,Telangana,Rangareddi,IN
+17.31018,78.49969,Balapur,Telangana,Rangareddi,IN
+17.45081,78.68366,Ghatkesar,Telangana,Rangareddi,IN
+17.87455,78.10017,Chandur,Telangana,Medak,IN
+13.29506,77.80228,Vijayapura,Karnataka,Bangalore Rural,IN
+31.43224,75.71484,Adampur,Punjab,Jalandhar,IN
+13.16089,80.25727,Chinnasekkadu,Tamil Nadu,Thiruvallur,IN
+13.03565,80.15821,Porur,Tamil Nadu,Thiruvallur,IN
+13.01083,80.16861,Manappakkam,Tamil Nadu,Kancheepuram,IN
+12.96226,80.19864,Madipakkam,Tamil Nadu,Kancheepuram,IN
+12.96095,80.24094,Perungudi,Tamil Nadu,Kancheepuram,IN
+12.89911,80.169,Vengavasal,Tamil Nadu,Kancheepuram,IN
+12.97795,80.06781,Nandambakkam,Tamil Nadu,Kancheepuram,IN
+12.8525,80.04667,Madambakkam,Tamil Nadu,Kancheepuram,IN
+13.15804,80.10634,Vellanur,Tamil Nadu,Thiruvallur,IN
+34.03056,74.26417,Kupwara,Kashmir,,IN
+19.1164,72.90471,Powai,Maharashtra,Mumbai Suburban,IN
+19.03681,73.01582,Navi Mumbai,Maharashtra,Thane,IN
+12.00549,79.80885,Auroville,Tamil Nadu,Villupuram,IN
+14.1652,77.8117,Puttaparthi,Andhra Pradesh,Anantapur,IN
+14.9959,74.05056,Canacona,Karnataka,,IN
+27.00743,76.6076,Abhaneri,Rajasthan,Dausa,IN
+32.4319,76.012,Chowari,Himachal Pradesh,Chamba,IN
+14.0943,74.4845,Murudeshwara,Karnataka,,IN
+18.53017,73.85263,Shivaji Nagar,Maharashtra,Pune Division,IN
+28.49615,77.53601,Greater Noida,Uttar Pradesh,Gautam Buddha Nagar,IN
+30.67995,76.72211,Mohali,Punjab,Ajitgarh,IN
+28.99132,80.07608,Banbasa,Uttar Pradesh,,IN
+17.09545,82.16565,vadlamuru,Andhra Pradesh,East Godavari,IN
+22.60197,75.69649,Pithampur,Madhya Pradesh,Indore,IN
+21.65685,85.64349,Barbil,Odisha,Kendujhar,IN
+19.15096,72.99625,Airoli,Maharashtra,Thane,IN
+10.10764,76.35158,Aluva,Kerala,Ernakulam,IN
+30.5819,74.83298,Kotkapura,Punjab,Faridkot,IN
+9.97985,76.57381,Muvattupuzha,Kerala,Ernakulam,IN
+10.10695,76.47366,Perumbavoor,Kerala,Ernakulam,IN
+20.37175,72.90493,Vapi,Gujarat,Valsad,IN
+30.95783,76.79136,Baddi,Himachal Pradesh,Solan,IN
+28.58,77.33,Noida,Uttar Pradesh,Gautam Buddha Nagar,IN
+28.21024,76.86056,Bhiwadi,Rajasthan,Alwar,IN
+30.83716,76.96143,Parwanoo,Himachal Pradesh,Solan,IN
+27.10696,88.32332,Jorethang,Sikkim,,IN
+23.08166,77.53328,Mandideep,Madhya Pradesh,Raisen,IN
+24.19973,82.67535,Singrauli,Madhya Pradesh,Singrauli,IN
+10.6102,76.18352,Edakkulam,Kerala,Thrissur District,IN
+10.60826,76.1762,Avanoor,Kerala,Thrissur District,IN
+26.70421,89.14547,Birpara,West Bengal,Jalpaiguri,IN
+26.84766,89.37558,Jaigaon,West Bengal,Jalpaiguri,IN
+9.74356,76.6294,Palackattumala,Kerala,Kottayam,IN
+9.27263,78.90232,Periyapattinam,Tamil Nadu,Ramanathapuram,IN
+28.68964,77.13126,Pitampura,NCT,North West Delhi,IN
+15.59766,73.74496,Vagator,Goa,North Goa,IN
+13.65,79.42,Akkarampalle,Andhra Pradesh,Chittoor,IN
+19.05577,79.493,Bellampalli,Telangana,Adilabad,IN
+15.89794,79.32129,Chemmumiahpet,Andhra Pradesh,Prakasam,IN
+17.36687,78.5242,Gaddi Annaram,Telangana,Rangareddi,IN
+19.65399,78.51213,Dasnapur,Telangana,Adilabad,IN
+16.28584,81.25464,Kanuru,Andhra Pradesh,Krishna,IN
+17.34769,78.55757,Lal Bahadur Nagar,Telangana,Rangareddi,IN
+17.44781,78.52633,Malkajgiri,Telangana,Hyderabad,IN
+18.96506,79.47475,Mandamarri,Telangana,Adilabad,IN
+14.47516,78.8354,Chinnachowk,Andhra Pradesh,Cuddapah,IN
+19.66781,78.5289,Kyathampalle,Telangana,Adilabad,IN
+17.7,83.21667,Gajuwaka,Andhra Pradesh,Vishakhapatnam,IN
+17.98102,80.7547,Manuguru,Telangana,Khammam,IN
+14.54519,77.10552,Kalyandurg,Andhra Pradesh,Anantapur,IN
+16.07114,80.54944,Ponnur,Andhra Pradesh,Guntur,IN
+17.50107,78.45818,Quthbullapur,Telangana,Rangareddi,IN
+16.94516,82.2385,Ramanayyapeta,Andhra Pradesh,East Godavari,IN
+17.58152,80.67651,Palwancha,Telangana,Khammam,IN
+26.50284,90.96937,Barpeta Road,Assam,Barpeta,IN
+17.24968,80.86899,Sathupalli,Telangana,Khammam,IN
+16.48531,80.66746,Yanamalakuduru,Andhra Pradesh,Krishna,IN
+26.37957,92.34146,Marigaon,Assam,Morigaon,IN
+27.10467,93.69518,Naharlagun,Arunachal Pradesh,Papum Pare,IN
+17.49313,78.30196,Serilingampalle,Telangana,Medak,IN
+26.20597,93.80951,Silapathar,Assam,Karbi Anglong,IN
+26.19842,93.80942,Sarupathar,Assam,Karbi Anglong,IN
+25.74903,93.16998,Lumding Railway Colony,Assam,Nagaon,IN
+23.18,88.58,Aistala,West Bengal,Nadia,IN
+22.86416,88.63701,Ashoknagar Kalyangarh,West Bengal,North 24 Parganas,IN
+23.65176,87.16475,Bahula,West Bengal,Barddhaman,IN
+15.85292,80.16468,Pavuluru,Andhra Pradesh,Prakasam,IN
+15.8668,80.16202,pedda nakkalapalem,Andhra Pradesh,Prakasam,IN
+23.3286,72.47314,Jhulasan,Gujarat,Mahesana,IN
+26.45352,87.02744,Bhawanipur,Bihar,Supaul,IN
+30.96853,74.99106,Zira,Punjab,Ferozepur,IN
+12.25539,79.47508,Nangilickondan,Tamil Nadu,Villupuram,IN
+19.03227,73.04276,Artist Village,Maharashtra,Thane,IN
+18.755,79.474,Ramagundam,Telangana,Karimnagar,IN
+32.412,75.79134,Dharkalan,Punjab,Gurdaspur,IN
+16.15477,80.10279,"Govindapuram,Chilakaluripet,Guntur",Andhra Pradesh,Guntur,IN
+10.87655,76.30932,Cherpulassery,Kerala,Palakkad district,IN
+19.33159,79.46605,Kagaznagar,Telangana,Adilabad,IN
+18.63649,81.25827,Kirandul,Chhattisgarh,Dakshin Bastar Dantewada,IN
+23.63371,68.90192,Dayapar,Gujarat,Kachchh,IN
+24.77121,87.92251,Paikpara,West Bengal,Murshidabad,IN
+16.61875,74.70907,Shiraguppi,Maharashtra,,IN
+24.62845,93.76179,Bishnupur,Manipur,Bishnupur,IN
+10.31549,78.15141,V.S.K.Valasai (Dindigul-Dist.),Tamil Nadu,Dindigul,IN
+22.7556,88.22128,Gangadharpur,West Bengal,Hugli,IN
+24.47639,74.86241,Neemuch,Rajasthan,,IN
+13.09904,77.83204,Dasarahalli,Karnataka,Bangalore Rural,IN
+12.9495,80.2592,Neelankarai,Tamil Nadu,Kancheepuram,IN
+12.9162,80.2488,Injambakkam,Tamil Nadu,Kancheepuram,IN
+12.9535,80.2572,Palavakkam,Tamil Nadu,Kancheepuram,IN
+21.9,88.4,Kultali,West Bengal,South 24 Paraganas,IN
+26.5792,91.4261,Mushalpur,Assam,Baksa,IN
+26.30511,87.28865,Shahbazpur,Bihar,Araria,IN
+26.2695,86.06346,Bhagirathpur,Bihar,Madhubani,IN

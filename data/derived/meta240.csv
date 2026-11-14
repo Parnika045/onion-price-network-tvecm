@@ -1,0 +1,241 @@
+mandi,State,Market,District,IMD_Subdivision,Latitude,Longitude,arrivals_total_MT,report_days
+Andhra Pradesh|Kurnool APMC,Andhra Pradesh,Kurnool APMC,Kurnool,Rayalaseema,15.5479,77.5543,138476.8,788
+Bihar|Hajipur APMC,Bihar,Hajipur APMC,Vaishali,Bihar,25.7492,85.3972,51593.5,318
+Bihar|Siwan APMC,Bihar,Siwan APMC,Siwan,Bihar,26.131,84.3911,35405.0,390
+Bihar|Supaul APMC,Bihar,Supaul APMC,Supaul,Bihar,26.2768,86.796,20729.0,356
+Chandigarh|Chandigarh (Grain/F&V) APMC,Chandigarh,Chandigarh (Grain/F&V) APMC,Chandigarh,Punjab,30.7333,76.7794,123027.92,598
+Chhattisgarh|Raigarh APMC,Chhattisgarh,Raigarh APMC,Raigarh,Chhattisgarh,22.2362,83.353,47226.6,1128
+Chhattisgarh|Rajnandgaon APMC,Chhattisgarh,Rajnandgaon APMC,Rajnandgaon,Chhattisgarh,21.0684,80.7971,27623.4,917
+Chhattisgarh|Tiphra APMC,Chhattisgarh,Tiphra APMC,Bilaspur,Chhattisgarh,22.1638,82.1366,108065.2,1167
+Gujarat|Ahmedabad(Chimanbhai Patal Market Vasana) APMC,Gujarat,Ahmedabad(Chimanbhai Patal Market Vasana) APMC,Ahmedabad(Chimanbhai,Gujarat,23.0333,72.5833,641244.5,829
+"Gujarat|Anand(Veg,Yard,Anand) APMC",Gujarat,"Anand(Veg,Yard,Anand) APMC",Anand,Gujarat,27.0995,83.2699,37894.14,1086
+Gujarat|Bhavnagar APMC,Gujarat,Bhavnagar APMC,Bhavnagar,Saurashtra and Kutch,21.5657,71.9078,611777.4,416
+Gujarat|Bhuj APMC,Gujarat,Bhuj APMC,Kutch,Saurashtra and Kutch,23.5833,70.0,21639.97,464
+Gujarat|Deesa(Deesa Veg Yard) APMC,Gujarat,Deesa(Deesa Veg Yard) APMC,Deesa(Deesa,Gujarat,24.2683,72.2044,44999.25,865
+Gujarat|Dhoraji APMC,Gujarat,Dhoraji APMC,Dhoraji,Saurashtra and Kutch,21.722,70.4443,27931.6,298
+Gujarat|Gondal APMC,Gujarat,Gondal APMC,Rajkot,Saurashtra and Kutch,22.0693,71.0289,621746.9,639
+Gujarat|Jetpur(Dist.Rajkot) APMC,Gujarat,Jetpur(Dist.Rajkot) APMC,Rajkot,Saurashtra and Kutch,22.0693,71.0289,20792.2,566
+Gujarat|Mahuva(Station Road) APMC,Gujarat,Mahuva(Station Road) APMC,Mahuva(Station,Saurashtra and Kutch,21.0944,71.7568,2605991.399987,877
+Gujarat|Mehsana(Mehsana Veg) APMC,Gujarat,Mehsana(Mehsana Veg) APMC,Mehsana(Mehsana,Gujarat,23.6013,72.39,45464.6,969
+Gujarat|Porbandar APMC,Gujarat,Porbandar APMC,Porbandar,Saurashtra and Kutch,21.603,69.8538,93657.64,1018
+Gujarat|Rajkot(Veg.Sub Yard) APMC,Gujarat,Rajkot(Veg.Sub Yard) APMC,Rajkot,Saurashtra and Kutch,22.0693,71.0289,328091.3,1057
+Gujarat|Surat APMC,Gujarat,Surat APMC,Surat,Gujarat,21.1924,72.9551,305805.13,1055
+Gujarat|Vadodara(Sayajipura) APMC,Gujarat,Vadodara(Sayajipura) APMC,Vadodara,Gujarat,22.3179,73.3049,221414.79,978
+Haryana|Ambala City(Subji Mandi) APMC,Haryana,Ambala City(Subji Mandi) APMC,Ambala,Haryana,30.3844,76.7704,28863.76,559
+Haryana|Gurgaon APMC,Haryana,Gurgaon APMC,Gurgaon,Haryana,28.4517,77.0298,74509.77,1269
+"Haryana|New Grain Market , Faridabad APMC",Haryana,"New Grain Market , Faridabad APMC",Faridabad,Haryana,28.4031,77.3106,27086.3,583
+"Haryana|New Grain Market(main), Karnal APMC",Haryana,"New Grain Market(main), Karnal APMC",Karnal,Haryana,29.7256,76.9107,32429.8,656
+Haryana|Panipat APMC,Haryana,Panipat APMC,Panipat,Haryana,29.3473,76.8872,26936.6,736
+Haryana|Thanesar APMC,Haryana,Thanesar APMC,Kurukshetra,Haryana,29.9694,76.8483,23368.32,890
+Jammu and Kashmir|Narwal Jammu (F&V),Jammu and Kashmir,Narwal Jammu (F&V),Jammu,Jammu and Kashmir,32.7682,74.9211,198524.1,986
+Jammu and Kashmir|Parimpore Srinagar (F&V),Jammu and Kashmir,Parimpore Srinagar (F&V),Srinagar,Jammu and Kashmir,34.1179,74.9659,30022.76,685
+Karnataka|Belgaum APMC,Karnataka,Belgaum APMC,Belagavi,North Interior Karnataka,16.1588,74.8889,327953.5,947
+Karnataka|Bengaluru APMC,Karnataka,Bengaluru APMC,Bengaluru Urban,South Interior Karnataka,12.9462,77.5504,2786205.6,955
+Karnataka|Davangere APMC,Karnataka,Davangere APMC,Davangere,South Interior Karnataka,14.4452,75.9186,32892.0,989
+Karnataka|Hassan APMC,Karnataka,Hassan APMC,Hassan,South Interior Karnataka,13.0302,76.1745,122836.4,359
+Karnataka|Hubballi APMC,Karnataka,Hubballi APMC,Dharwad,North Interior Karnataka,15.3707,75.1333,458985.999945,1126
+Karnataka|Kalaburagi APMC,Karnataka,Kalaburagi APMC,Kalaburagi,North Interior Karnataka,17.2409,76.7697,42671.5,219
+Karnataka|Mysuru APMC,Karnataka,Mysuru APMC,Mysuru,South Interior Karnataka,12.1968,76.612,97485.9,722
+Karnataka|Raichur APMC,Karnataka,Raichur APMC,Raichur,North Interior Karnataka,16.212,77.3437,33679.3,695
+Karnataka|Vijayapura APMC,Karnataka,Vijayapura APMC,Vijayapura,North Interior Karnataka,16.8144,75.8934,58142.0,326
+Kerala|Aluva Market,Kerala,Aluva Market,Ernakulam,Kerala,9.9837,76.274,31497.5,999
+Kerala|Koduvayoor Market,Kerala,Koduvayoor Market,Palakkad,Kerala,10.7874,76.4742,42385.53,928
+Kerala|Palayam Market,Kerala,Palayam Market,Thiruvananthapuram,Kerala,8.4882,76.9476,55000.0,1095
+Kerala|Thodupuzha Market,Kerala,Thodupuzha Market,Idukki,Kerala,9.8155,76.9992,51298.2,1011
+Kerala|Vandiperiyar Market,Kerala,Vandiperiyar Market,Idukki,Kerala,9.8155,76.9992,22398.39,765
+Madhya Pradesh|Ashta APMC,Madhya Pradesh,Ashta APMC,Ashta,West Madhya Pradesh,21.662,78.1687,29262.539,560
+Madhya Pradesh|Badnawar(F&V) APMC,Madhya Pradesh,Badnawar(F&V) APMC,Badnawar(F&V,West Madhya Pradesh,23.0167,75.2333,398328.18,639
+Madhya Pradesh|Bhopal(F&V) APMC,Madhya Pradesh,Bhopal(F&V) APMC,Bhopal,West Madhya Pradesh,23.484,77.3929,74283.55,939
+Madhya Pradesh|Gautampura APMC,Madhya Pradesh,Gautampura APMC,Gautampura,West Madhya Pradesh,23.312,74.6209,32557.67,415
+Madhya Pradesh|Indore APMC,Madhya Pradesh,Indore APMC,Indore,East Madhya Pradesh,22.7108,75.8077,552074.308003,283
+Madhya Pradesh|Indore(F&V) APMC,Madhya Pradesh,Indore(F&V) APMC,Indore,West Madhya Pradesh,22.7108,75.8077,1817314.72,660
+Madhya Pradesh|Jabalpur(F&V) APMC,Madhya Pradesh,Jabalpur(F&V) APMC,Jabalpur,East Madhya Pradesh,23.223,79.9826,36116.0,860
+Madhya Pradesh|Jaora APMC,Madhya Pradesh,Jaora APMC,Jaora,West Madhya Pradesh,23.6379,75.1282,52792.602007,653
+Madhya Pradesh|Kalapipal APMC,Madhya Pradesh,Kalapipal APMC,Kalapipal,West Madhya Pradesh,23.3331,76.835,40494.26,902
+Madhya Pradesh|Khandwa APMC,Madhya Pradesh,Khandwa APMC,Khandwa,East Madhya Pradesh,21.977,76.5675,24218.6,320
+Madhya Pradesh|Khandwa(F&V) APMC,Madhya Pradesh,Khandwa(F&V) APMC,Khandwa(F&V,West Madhya Pradesh,21.8333,76.35,64867.2,930
+Madhya Pradesh|Lashkar(F&V) APMC,Madhya Pradesh,Lashkar(F&V) APMC,Lashkar(F&V,East Madhya Pradesh,26.2167,78.1667,35330.75,892
+Madhya Pradesh|Mandsaur APMC,Madhya Pradesh,Mandsaur APMC,Mandsaur,West Madhya Pradesh,24.2628,75.3857,209941.654994,870
+Madhya Pradesh|Narsinghgarh APMC,Madhya Pradesh,Narsinghgarh APMC,Narsinghgarh,East Madhya Pradesh,23.7091,77.0887,73571.369999,661
+Madhya Pradesh|Neemuch APMC,Madhya Pradesh,Neemuch APMC,Neemuch,West Madhya Pradesh,24.6306,75.1829,37117.117004,787
+Madhya Pradesh|Ratlam APMC,Madhya Pradesh,Ratlam APMC,Ratlam,East Madhya Pradesh,23.5022,74.9552,140023.612997,242
+Madhya Pradesh|Ratlam(F&V) APMC,Madhya Pradesh,Ratlam(F&V) APMC,Ratlam,West Madhya Pradesh,23.5022,74.9552,474750.8,902
+Madhya Pradesh|Sagar(F&V) APMC,Madhya Pradesh,Sagar(F&V) APMC,Sagar,East Madhya Pradesh,23.8402,91.2816,22148.1,658
+Madhya Pradesh|Sailana APMC,Madhya Pradesh,Sailana APMC,Sailana,West Madhya Pradesh,23.4559,74.9274,72795.802002,845
+Madhya Pradesh|Sehore APMC,Madhya Pradesh,Sehore APMC,Sehore,West Madhya Pradesh,23.115,77.0665,77132.001,732
+Madhya Pradesh|Shajapur APMC,Madhya Pradesh,Shajapur APMC,Shajapur,East Madhya Pradesh,23.4171,76.6075,162411.724001,255
+Madhya Pradesh|Shajapur(F&V) APMC,Madhya Pradesh,Shajapur(F&V) APMC,Shajapur,West Madhya Pradesh,23.4171,76.6075,592730.46,807
+Madhya Pradesh|Shujalpur APMC,Madhya Pradesh,Shujalpur APMC,Shujalpur,West Madhya Pradesh,23.3806,76.7232,142246.050999,972
+Madhya Pradesh|Ujjain APMC,Madhya Pradesh,Ujjain APMC,Ujjain,East Madhya Pradesh,23.2933,75.6263,71567.262,256
+Madhya Pradesh|Ujjain(F&V) APMC,Madhya Pradesh,Ujjain(F&V) APMC,Ujjain,West Madhya Pradesh,23.2933,75.6263,1305622.79,546
+Maharashtra|AGRICULTURE PRODUCE MARKET COMITEE CHANDWAD,Maharashtra,AGRICULTURE PRODUCE MARKET COMITEE CHANDWAD,Nashik,Madhya Maharashtra,20.2255,74.1042,392864.45,448
+Maharashtra|Ahilyanagar APMC,Maharashtra,Ahilyanagar APMC,Ahilyanagar,Madhya Maharashtra,19.1628,74.858,1697672.2,417
+Maharashtra|Akola APMC,Maharashtra,Akola APMC,Akola,Vidarbha,20.7618,77.1921,23946.5,435
+Maharashtra|Akole APMC,Maharashtra,Akole APMC,Akole,Madhya Maharashtra,19.5419,74.0093,45816.1,375
+Maharashtra|Amrawati(Frui & Veg. Market) APMC,Maharashtra,Amrawati(Frui & Veg. Market) APMC,Amrawati(Frui,Vidarbha,20.9333,77.75,37955.8,905
+Maharashtra|Chandrapur(Ganjwad) APMC,Maharashtra,Chandrapur(Ganjwad) APMC,Chandrapur,Vidarbha,20.0968,79.5045,28830.9,676
+Maharashtra|Chandvad APMC,Maharashtra,Chandvad APMC,Chandvad,Madhya Maharashtra,20.3278,74.2387,437511.399999,518
+Maharashtra|Chattrapati Sambhajinagar APMC,Maharashtra,Chattrapati Sambhajinagar APMC,Chattrapati,Madhya Maharashtra,19.227,72.9682,201770.6,1098
+Maharashtra|Devala APMC,Maharashtra,Devala APMC,Devala,Madhya Maharashtra,19.9468,79.2554,541436.2,815
+Maharashtra|Dhule APMC,Maharashtra,Dhule APMC,Dhule,Madhya Maharashtra,21.1305,74.4901,111007.2,748
+Maharashtra|Dindori APMC,Maharashtra,Dindori APMC,Nashik,Madhya Maharashtra,20.2255,74.1042,21364.3,248
+Maharashtra|Dindori(Vani) APMC,Maharashtra,Dindori(Vani) APMC,Dindori(Vani,Madhya Maharashtra,20.2167,73.85,398360.3,707
+Maharashtra|Gangapur APMC,Maharashtra,Gangapur APMC,Aurangabad,Madhya Maharashtra,24.8033,84.411,72796.6,443
+Maharashtra|Jalgaon APMC,Maharashtra,Jalgaon APMC,Jalgaon,Madhya Maharashtra,20.8429,75.5261,110473.199999,933
+Maharashtra|Jamkhed APMC,Maharashtra,Jamkhed APMC,Jamkhed,Madhya Maharashtra,18.6688,75.3524,39801.3,366
+Maharashtra|Junnar APMC,Maharashtra,Junnar APMC,Junnar,Madhya Maharashtra,19.2624,73.9842,111419.6,337
+Maharashtra|Junnar(Alephata) APMC,Maharashtra,Junnar(Alephata) APMC,Junnar(Alephata,Madhya Maharashtra,19.2,73.8833,468537.7,530
+Maharashtra|Junnar(Otur) APMC,Maharashtra,Junnar(Otur) APMC,Pune,Madhya Maharashtra,18.6449,73.9224,272319.0,296
+Maharashtra|Kalvan APMC,Maharashtra,Kalvan APMC,Kalvan,Madhya Maharashtra,19.0067,73.0323,681618.1,727
+Maharashtra|Karjat(Raigad) APMC,Maharashtra,Karjat(Raigad) APMC,Karjat(Raigad,Konkan,18.9086,73.3211,27397.0,524
+Maharashtra|Khed(Chakan) APMC,Maharashtra,Khed(Chakan) APMC,Khed(Chakan,Madhya Maharashtra,18.7486,73.84,130417.0,933
+Maharashtra|Kolhapur APMC,Maharashtra,Kolhapur APMC,Kolhapur,Madhya Maharashtra,16.4627,74.0895,539804.1,1113
+Maharashtra|Kopargaon APMC,Maharashtra,Kopargaon APMC,Kopargaon,Madhya Maharashtra,19.8809,74.4767,484517.8,867
+Maharashtra|Lasalgaon APMC,Maharashtra,Lasalgaon APMC,Lasalgaon,Madhya Maharashtra,20.1427,74.2378,1624128.3,1037
+Maharashtra|Lasalgaon(Niphad) APMC,Maharashtra,Lasalgaon(Niphad) APMC,Lasalgaon(Niphad,Madhya Maharashtra,20.1427,74.2378,317274.0,1010
+Maharashtra|Lasalgaon(Vinchur) APMC,Maharashtra,Lasalgaon(Vinchur) APMC,Lasalgaon(Vinchur,Madhya Maharashtra,20.1167,74.0333,1354976.2,1043
+Maharashtra|Lasur Station APMC,Maharashtra,Lasur Station APMC,Lasur,Marathwada,20.8729,77.2375,279974.5,647
+Maharashtra|Lonand APMC,Maharashtra,Lonand APMC,Lonand,Madhya Maharashtra,18.0388,74.1869,54115.5,283
+Maharashtra|Manchar APMC,Maharashtra,Manchar APMC,Manchar,Madhya Maharashtra,19.0033,73.9427,326174.9,573
+Maharashtra|Manmad APMC,Maharashtra,Manmad APMC,Manmad,Madhya Maharashtra,20.2598,74.4534,560542.8,1028
+Maharashtra|Mumbai-Onion & Potato Market APMC,Maharashtra,Mumbai-Onion & Potato Market APMC,Mumbai,Konkan,18.9328,72.8371,1150607.2,1084
+Maharashtra|Nagpur APMC,Maharashtra,Nagpur APMC,Nagpur,Vidarbha,21.153,79.0145,224839.0,828
+Maharashtra|Nampur APMC,Maharashtra,Nampur APMC,Nampur,Madhya Maharashtra,20.7295,74.3109,613242.3,616
+Maharashtra|Nandgaon APMC,Maharashtra,Nandgaon APMC,Nandgaon,Madhya Maharashtra,19.6282,77.0207,719097.6,681
+Maharashtra|Nasik APMC,Maharashtra,Nasik APMC,Nasik,Madhya Maharashtra,19.9718,73.8167,247630.3,1011
+Maharashtra|Newasa(Ghodegaon) APMC,Maharashtra,Newasa(Ghodegaon) APMC,Newasa(Ghodegaon,Madhya Maharashtra,19.5333,74.9833,1282571.1,507
+Maharashtra|Paithan APMC,Maharashtra,Paithan APMC,Aurangabad,Marathwada,24.8033,84.411,39729.2,254
+Maharashtra|Pandharpur APMC,Maharashtra,Pandharpur APMC,Pandharpur,Madhya Maharashtra,17.6859,75.3332,20992.0,385
+Maharashtra|Parner APMC,Maharashtra,Parner APMC,Parner,Madhya Maharashtra,18.9226,74.51,471414.4,513
+Maharashtra|Pathardi APMC,Maharashtra,Pathardi APMC,Pathardi,Madhya Maharashtra,19.9558,73.7604,21257.9,455
+Maharashtra|Pimpalgaon APMC,Maharashtra,Pimpalgaon APMC,Pimpalgaon,Madhya Maharashtra,20.8919,79.7317,728654.0,381
+Maharashtra|Pimpalgaon Baswant APMC,Maharashtra,Pimpalgaon Baswant APMC,Nashik,Madhya Maharashtra,20.2255,74.1042,1239412.7,691
+Maharashtra|Pimpalgaon Baswant(Saykheda) APMC,Maharashtra,Pimpalgaon Baswant(Saykheda) APMC,Pimpalgaon,Madhya Maharashtra,20.8919,79.7317,436361.9,987
+Maharashtra|Pune APMC,Maharashtra,Pune APMC,Pune,Madhya Maharashtra,18.6449,73.9224,1286618.3,1137
+Maharashtra|Pune(Moshi) APMC,Maharashtra,Pune(Moshi) APMC,Pune,Madhya Maharashtra,18.6449,73.9224,48414.2,1134
+Maharashtra|Rahata APMC,Maharashtra,Rahata APMC,Rahata,Madhya Maharashtra,19.5787,74.4641,264975.8,679
+Maharashtra|Rahuri APMC,Maharashtra,Rahuri APMC,Rahuri,Madhya Maharashtra,19.4032,74.6106,600905.2,486
+Maharashtra|Rahuri(Vambori) APMC,Maharashtra,Rahuri(Vambori) APMC,Rahuri(Vambori,Madhya Maharashtra,19.3833,74.65,275483.5,503
+Maharashtra|SHRI.SIDDHESHWAR  APMC,Maharashtra,SHRI.SIDDHESHWAR  APMC,Solapur,Madhya Maharashtra,17.8499,75.2763,1733426.9,678
+Maharashtra|Sakri APMC,Maharashtra,Sakri APMC,Sakri,Madhya Maharashtra,20.9911,74.3154,333975.2,450
+Maharashtra|Sangamner APMC,Maharashtra,Sangamner APMC,Sangamner,Madhya Maharashtra,19.6344,74.2855,596573.099991,888
+"Maharashtra|Sangli(Phale, Bhajipala Market) APMC",Maharashtra,"Sangli(Phale, Bhajipala Market) APMC",Sangli,Madhya Maharashtra,17.1727,74.5868,310925.6,922
+Maharashtra|Satana APMC,Maharashtra,Satana APMC,Satana,Madhya Maharashtra,20.5991,74.2021,690261.5,636
+Maharashtra|Satara APMC,Maharashtra,Satara APMC,Satara,Madhya Maharashtra,17.6361,74.2983,25069.0,1047
+Maharashtra|Shevgaon APMC,Maharashtra,Shevgaon APMC,Shevgaon,Madhya Maharashtra,19.3797,75.2955,191231.300029,312
+Maharashtra|Shrigonda APMC,Maharashtra,Shrigonda APMC,Shrigonda,Madhya Maharashtra,18.802,74.6452,26785.4,224
+Maharashtra|Shrirampur APMC,Maharashtra,Shrirampur APMC,Shrirampur,Madhya Maharashtra,19.6182,74.6642,250015.5,479
+Maharashtra|Sinner APMC,Maharashtra,Sinner APMC,Sinner,Madhya Maharashtra,19.8973,74.1623,186828.1,768
+Maharashtra|Solapur APMC,Maharashtra,Solapur APMC,Solapur,Madhya Maharashtra,17.8499,75.2763,802599.0,352
+Maharashtra|Umrane APMC,Maharashtra,Umrane APMC,Umrane,Madhya Maharashtra,20.4241,74.3469,796729.0,533
+Maharashtra|Vaijpur APMC,Maharashtra,Vaijpur APMC,Vaijpur,Marathwada,19.9667,75.1833,439784.3,999
+Maharashtra|Yeola APMC,Maharashtra,Yeola APMC,Yeola,Madhya Maharashtra,20.0429,74.488,842618.6,846
+NCT of Delhi|APMC Azadpur,NCT of Delhi,APMC Azadpur,North Delhi,East Uttar Pradesh,28.7872,77.0981,810588.6,892
+NCT of Delhi|APMC Keshopur,NCT of Delhi,APMC Keshopur,West Delhi,East Uttar Pradesh,28.6408,77.0794,62956.74,648
+NCT of Delhi|APMC Shahdara,NCT of Delhi,APMC Shahdara,Shahdara,East Uttar Pradesh,28.6742,77.2897,331571.24,1138
+Odisha|Bargarh(Barapalli) APMC,Odisha,Bargarh(Barapalli) APMC,Bargarh(Barapalli,Odisha,21.3333,83.6167,21248.22,949
+Odisha|Hinjilicut APMC,Odisha,Hinjilicut APMC,Hinjilicut,Odisha,19.4857,84.7443,48457.6,1223
+Punjab|Amritsar(Amritsar Mewa Mandi) APMC,Punjab,Amritsar(Amritsar Mewa Mandi) APMC,Amritsar,Punjab,31.634,74.8723,128562.1,1020
+Punjab|Barnala APMC,Punjab,Barnala APMC,Barnala,Punjab,30.3717,75.504,47444.72,946
+Punjab|Khanna APMC,Punjab,Khanna APMC,Khanna,Punjab,30.7006,76.2221,48078.3,1037
+Punjab|Ludhiana APMC,Punjab,Ludhiana APMC,Ludhiana,Punjab,30.7894,75.827,251881.0,1102
+Punjab|Malerkotla APMC,Punjab,Malerkotla APMC,Malerkotla,Punjab,30.5372,75.9089,20844.6,963
+Punjab|Nabha APMC,Punjab,Nabha APMC,Nabha,Punjab,30.3463,76.1272,148817.0,881
+Punjab|Phagwara APMC,Punjab,Phagwara APMC,Phagwara,Punjab,31.2207,75.7696,22919.38,912
+Rajasthan|Ajmer(F&V) APMC,Rajasthan,Ajmer(F&V) APMC,Ajmer,West Rajasthan,26.3319,74.717,194369.6,1005
+Rajasthan|Alwar FV,Rajasthan,Alwar FV,Alwar,East Rajasthan,27.414,76.617,343728.7,1179
+Rajasthan|Bikaner (F&V) APMC,Rajasthan,Bikaner (F&V) APMC,Bikaner,West Rajasthan,28.1162,73.1106,78486.0,694
+Rajasthan|Jaipur (F&V) APMC,Rajasthan,Jaipur (F&V) APMC,Jaipur,East Rajasthan,26.9784,75.7122,75364.58,437
+Rajasthan|Jodhpur (F&V) APMC,Rajasthan,Jodhpur (F&V) APMC,Jodhpur,West Rajasthan,26.4105,72.9647,221602.6,1094
+Rajasthan|Kota (F&V) APMC,Rajasthan,Kota (F&V) APMC,Kota,East Rajasthan,30.7171,77.9524,113984.23,1043
+Rajasthan|Pratapgarh APMC,Rajasthan,Pratapgarh APMC,Pratapgarh,West Rajasthan,25.75,81.75,29653.25,874
+Rajasthan|Sikar APMC,Rajasthan,Sikar APMC,Sikar,West Rajasthan,27.6624,75.028,281514.4,1206
+Rajasthan|Sriganganagar (F&V) APMC,Rajasthan,Sriganganagar (F&V) APMC,Sri Ganganagar,West Rajasthan,29.9167,73.8833,20902.5,617
+Rajasthan|Udaipur (F&V) APMC,Rajasthan,Udaipur (F&V) APMC,Udaipur,West Rajasthan,24.4535,73.407,33331.6,1029
+Telangana|Bowenpally APMC,Telangana,Bowenpally APMC,Bowenpally,Telangana,17.4632,78.4725,81878.8,1254
+Telangana|Gudimalkapur APMC,Telangana,Gudimalkapur APMC,Gudimalkapur,Telangana,17.3919,78.4373,173525.7,1244
+Telangana|Mahboob Manison APMC,Telangana,Mahboob Manison APMC,Mahboob,Telangana,17.6227,78.0971,3576952.3,993
+Telangana|Sadasivpet APMC,Telangana,Sadasivpet APMC,Sadasivpet,Telangana,17.6212,77.9503,37821.65,841
+Uttar Pradesh|Agra APMC,Uttar Pradesh,Agra APMC,Agra,East Uttar Pradesh,27.0756,77.8754,167215.5,1177
+Uttar Pradesh|Ahirora APMC,Uttar Pradesh,Ahirora APMC,Ahirora,East Uttar Pradesh,25.1,81.65,23268.0,1012
+Uttar Pradesh|Akbarpur APMC,Uttar Pradesh,Akbarpur APMC,Akbarpur,East Uttar Pradesh,26.4201,82.5383,21376.1,1173
+Uttar Pradesh|Aligarh APMC,Uttar Pradesh,Aligarh APMC,Aligarh,East Uttar Pradesh,27.8761,78.1358,99570.5,1282
+Uttar Pradesh|Amroha APMC,Uttar Pradesh,Amroha APMC,Amroha,East Uttar Pradesh,28.9,78.47,48473.691,1288
+Uttar Pradesh|Azamgarh APMC,Uttar Pradesh,Azamgarh APMC,Azamgarh,East Uttar Pradesh,26.0236,83.0293,160396.739,1220
+Uttar Pradesh|Badayoun APMC,Uttar Pradesh,Badayoun APMC,Badayoun,East Uttar Pradesh,28.0333,79.1167,28849.9,1326
+Uttar Pradesh|Bahraich APMC,Uttar Pradesh,Bahraich APMC,Bahraich,East Uttar Pradesh,27.7344,81.4765,63554.8,1251
+Uttar Pradesh|Ballia APMC,Uttar Pradesh,Ballia APMC,Ballia,East Uttar Pradesh,25.875,84.121,92241.5,1187
+Uttar Pradesh|Barabanki APMC,Uttar Pradesh,Barabanki APMC,Barabanki,East Uttar Pradesh,26.9421,81.3856,77393.95,1213
+Uttar Pradesh|Bareilly APMC,Uttar Pradesh,Bareilly APMC,Bareilly,West Uttar Pradesh,28.4582,79.4047,115580.894,1332
+Uttar Pradesh|Basti APMC,Uttar Pradesh,Basti APMC,Basti,East Uttar Pradesh,26.8387,82.5351,91265.944,1317
+Uttar Pradesh|Bijnaur APMC,Uttar Pradesh,Bijnaur APMC,Bijnaur,East Uttar Pradesh,29.8575,78.5599,33229.6,1169
+Uttar Pradesh|Buland Shahr APMC,Uttar Pradesh,Buland Shahr APMC,Buland,East Uttar Pradesh,27.0943,77.6628,22767.3,1137
+Uttar Pradesh|Chandoli APMC,Uttar Pradesh,Chandoli APMC,Chandoli,East Uttar Pradesh,27.7026,76.5815,31389.0,1294
+Uttar Pradesh|Chorichora APMC,Uttar Pradesh,Chorichora APMC,Chorichora,East Uttar Pradesh,26.7667,83.7667,38417.5,916
+Uttar Pradesh|Devariya APMC,Uttar Pradesh,Devariya APMC,Devariya,East Uttar Pradesh,25.6591,75.9084,81732.7,1135
+Uttar Pradesh|Etah APMC,Uttar Pradesh,Etah APMC,Etah,East Uttar Pradesh,27.555,78.5992,20520.0,1203
+Uttar Pradesh|Etawah APMC,Uttar Pradesh,Etawah APMC,Etawah,East Uttar Pradesh,26.7156,79.0917,67836.0,1244
+Uttar Pradesh|Faizabad APMC,Uttar Pradesh,Faizabad APMC,Faizabad,East Uttar Pradesh,26.75,82.0,73904.3,1241
+Uttar Pradesh|Fatehpur APMC,Uttar Pradesh,Fatehpur APMC,Fatehpur,East Uttar Pradesh,25.8348,80.9155,20154.1,1263
+Uttar Pradesh|Firozabad APMC,Uttar Pradesh,Firozabad APMC,Firozabad,East Uttar Pradesh,27.1942,78.4605,36389.9,1234
+Uttar Pradesh|Gazipur APMC,Uttar Pradesh,Gazipur APMC,Gazipur,East Uttar Pradesh,25.6035,83.5076,47093.3,1138
+Uttar Pradesh|Ghaziabad APMC,Uttar Pradesh,Ghaziabad APMC,Ghaziabad,West Uttar Pradesh,28.775,77.4587,152340.9,1343
+Uttar Pradesh|Golagokarnath APMC,Uttar Pradesh,Golagokarnath APMC,Golagokarnath,East Uttar Pradesh,28.0833,80.4667,27127.7,1169
+Uttar Pradesh|Gonda APMC,Uttar Pradesh,Gonda APMC,Gonda,East Uttar Pradesh,27.1104,81.9239,20866.8,1274
+Uttar Pradesh|Gorakhpur APMC,Uttar Pradesh,Gorakhpur APMC,Gorakhpur,East Uttar Pradesh,26.6678,83.3642,203450.1,1165
+Uttar Pradesh|Haathras APMC,Uttar Pradesh,Haathras APMC,Haathras,East Uttar Pradesh,27.5967,78.0644,25983.4,1130
+Uttar Pradesh|Hapur APMC,Uttar Pradesh,Hapur APMC,Hapur,West Uttar Pradesh,28.7297,77.776,30061.0,1161
+Uttar Pradesh|Hardoi APMC,Uttar Pradesh,Hardoi APMC,Hardoi,East Uttar Pradesh,27.337,80.0998,34376.4,1239
+Uttar Pradesh|Jangipura APMC,Uttar Pradesh,Jangipura APMC,Jangipura,East Uttar Pradesh,20.6624,75.5817,31952.767,677
+Uttar Pradesh|Jaunpur APMC,Uttar Pradesh,Jaunpur APMC,Jaunpur,East Uttar Pradesh,25.7967,82.4889,48655.7,1021
+Uttar Pradesh|Jhansi APMC,Uttar Pradesh,Jhansi APMC,Jhansi,East Uttar Pradesh,25.5299,78.6528,51968.8,1180
+Uttar Pradesh|Kanpur(Grain) APMC,Uttar Pradesh,Kanpur(Grain) APMC,Kanpur,East Uttar Pradesh,26.5,80.0,1419966.1,1194
+Uttar Pradesh|Khaga APMC,Uttar Pradesh,Khaga APMC,Khaga,East Uttar Pradesh,25.5377,81.2317,33492.0,1208
+Uttar Pradesh|Khalilabad APMC,Uttar Pradesh,Khalilabad APMC,Khalilabad,East Uttar Pradesh,26.7772,83.0575,72089.64,711
+Uttar Pradesh|Kopaganj APMC,Uttar Pradesh,Kopaganj APMC,Kopaganj,East Uttar Pradesh,26.0205,83.5686,110122.75,932
+Uttar Pradesh|Lakhimpur APMC,Uttar Pradesh,Lakhimpur APMC,Lakhimpur,East Uttar Pradesh,28.1834,80.7131,197385.0,1383
+Uttar Pradesh|Lucknow APMC,Uttar Pradesh,Lucknow APMC,Lucknow,East Uttar Pradesh,26.8312,80.9174,361923.65,1335
+Uttar Pradesh|Mathura APMC,Uttar Pradesh,Mathura APMC,Mathura,West Uttar Pradesh,27.6333,77.5833,44253.6,1174
+Uttar Pradesh|Meerut APMC,Uttar Pradesh,Meerut APMC,Meerut,West Uttar Pradesh,29.0019,77.768,94388.8,1119
+Uttar Pradesh|Mirzapur APMC,Uttar Pradesh,Mirzapur APMC,Mirzapur,East Uttar Pradesh,24.9317,82.628,52444.0,1178
+Uttar Pradesh|Mohammdi APMC,Uttar Pradesh,Mohammdi APMC,Mohammdi,East Uttar Pradesh,27.9239,80.1639,42921.06,1021
+Uttar Pradesh|Muradabad APMC,Uttar Pradesh,Muradabad APMC,Muradabad,East Uttar Pradesh,26.9569,80.183,118172.2,1337
+Uttar Pradesh|Muradnagar APMC,Uttar Pradesh,Muradnagar APMC,Muradnagar,East Uttar Pradesh,28.7734,77.5034,34299.3,369
+Uttar Pradesh|Muzzafarnagar APMC,Uttar Pradesh,Muzzafarnagar APMC,Muzzafarnagar,West Uttar Pradesh,29.3992,77.7826,28321.5,1379
+Uttar Pradesh|Naanpara APMC,Uttar Pradesh,Naanpara APMC,Naanpara,East Uttar Pradesh,27.8667,81.5,26952.6,1204
+Uttar Pradesh|Noida APMC,Uttar Pradesh,Noida APMC,Noida,East Uttar Pradesh,28.5888,77.3447,63910.78,1210
+Uttar Pradesh|Paliakala APMC,Uttar Pradesh,Paliakala APMC,Pali,East Uttar Pradesh,27.5673,77.459,21492.8,628
+Uttar Pradesh|Partaval APMC,Uttar Pradesh,Partaval APMC,Partaval,East Uttar Pradesh,27.6833,83.4167,45390.1,1081
+Uttar Pradesh|Pilibhit APMC,Uttar Pradesh,Pilibhit APMC,Pilibhit,East Uttar Pradesh,28.4947,80.1076,94445.9,1395
+Uttar Pradesh|Pratapgarh APMC,Uttar Pradesh,Pratapgarh APMC,Pratapgarh,East Uttar Pradesh,25.75,81.75,23322.35,1405
+Uttar Pradesh|Prayagraj APMC,Uttar Pradesh,Prayagraj APMC,Agra,East Uttar Pradesh,27.0756,77.8754,229611.5,1071
+Uttar Pradesh|Puranpur APMC,Uttar Pradesh,Puranpur APMC,Puranpur,East Uttar Pradesh,28.5143,80.1513,52481.55,1340
+Uttar Pradesh|Raibareilly APMC,Uttar Pradesh,Raibareilly APMC,Bareilly,East Uttar Pradesh,28.4582,79.4047,35651.4,1283
+Uttar Pradesh|Rampur APMC,Uttar Pradesh,Rampur APMC,Rampur,West Uttar Pradesh,28.7935,79.1846,39584.4,1302
+Uttar Pradesh|Rasda APMC,Uttar Pradesh,Rasda APMC,Rasda,East Uttar Pradesh,24.8748,80.9996,31884.6,1123
+Uttar Pradesh|Robertsganj APMC,Uttar Pradesh,Robertsganj APMC,Robertsganj,East Uttar Pradesh,24.683,83.0649,36391.9,1140
+Uttar Pradesh|Saharanpur APMC,Uttar Pradesh,Saharanpur APMC,Saharanpur,West Uttar Pradesh,29.9857,77.5041,148454.6,1323
+Uttar Pradesh|Shahjahanpur APMC,Uttar Pradesh,Shahjahanpur APMC,Shahjahanpur,West Uttar Pradesh,27.9129,79.7476,52870.8,796
+Uttar Pradesh|Sirsa APMC,Uttar Pradesh,Sirsa APMC,Sirsa,East Uttar Pradesh,28.1555,77.5499,63425.73,808
+Uttar Pradesh|Sitapur APMC,Uttar Pradesh,Sitapur APMC,Sitapur,East Uttar Pradesh,27.5027,80.8335,148414.3,1195
+Uttar Pradesh|Sultanpur APMC,Uttar Pradesh,Sultanpur APMC,Sultanpur,East Uttar Pradesh,26.2605,82.2381,77316.5,1378
+Uttar Pradesh|Varanasi(F&V) APMC,Uttar Pradesh,Varanasi(F&V) APMC,Varanasi,East Uttar Pradesh,25.3719,82.9414,241362.0,895
+Uttarakhand|Dehradoon APMC,Uttarakhand,Dehradoon APMC,Dehradoon,Uttarakhand,30.3165,78.0322,100269.0,1054
+Uttarakhand|Haldwani APMC,Uttarakhand,Haldwani APMC,Nainital,Uttarakhand,29.2211,79.5136,41097.64,871
+Uttarakhand|Haridwar Union APMC,Uttarakhand,Haridwar Union APMC,Haridwar,Uttarakhand,29.9124,78.0087,22554.59,1158
+West Bengal|Asansol APMC,West Bengal,Asansol APMC,Asansol,Gangetic West Bengal,23.6661,86.9393,26014.8,1337
+West Bengal|Bankura Sadar APMC,West Bengal,Bankura Sadar APMC,Bankura,Gangetic West Bengal,23.1324,87.2082,27237.2,1117
+West Bengal|Bara Bazar (Posta Bazar) APMC,West Bengal,Bara Bazar (Posta Bazar) APMC,Bara,Gangetic West Bengal,22.575,88.3501,121675.0,1028
+West Bengal|Barasat APMC,West Bengal,Barasat APMC,Barasat,Gangetic West Bengal,22.7037,88.4719,59612.0,1399
+West Bengal|Birbhum APMC,West Bengal,Birbhum APMC,Birbhum,Gangetic West Bengal,24.0622,87.6983,44752.6,1126
+West Bengal|Bolpur APMC,West Bengal,Bolpur APMC,Bolpur,Gangetic West Bengal,23.6781,87.6893,42247.8,1093
+West Bengal|Burdwan APMC,West Bengal,Burdwan APMC,Paschim Bardhaman,Gangetic West Bengal,23.6003,87.3041,24765.5,1064
+West Bengal|Durgapur APMC,West Bengal,Durgapur APMC,Paschim Bardhaman,Gangetic West Bengal,23.48,87.3,27084.8,1331
+West Bengal|Habra APMC,West Bengal,Habra APMC,Habra,Gangetic West Bengal,22.8383,88.6218,32461.7,1412
+West Bengal|Jangipur APMC,West Bengal,Jangipur APMC,Jangipur,Gangetic West Bengal,24.4562,88.1074,69930.25,1250
+West Bengal|Karsiyang(Matigara) APMC,West Bengal,Karsiyang(Matigara) APMC,Karsiyang(Matigara,Sub-Himalayan West Bengal and Sikkim,26.8833,88.3833,23796.5,1146
+West Bengal|Purulia APMC,West Bengal,Purulia APMC,Purulia,Gangetic West Bengal,23.2021,86.3229,26972.5,1208
+West Bengal|Rampurhat APMC,West Bengal,Rampurhat APMC,Rampurhat,Gangetic West Bengal,24.1763,87.786,33935.000003,981
+West Bengal|Sainthia APMC,West Bengal,Sainthia APMC,Sainthia,Gangetic West Bengal,23.9497,87.6829,50126.0,1046
+West Bengal|Sheoraphuly APMC,West Bengal,Sheoraphuly APMC,Sheoraphuly,Gangetic West Bengal,22.7711,88.3208,26443.0,1424
+West Bengal|Siliguri APMC,West Bengal,Siliguri APMC,Siliguri,Sub-Himalayan West Bengal and Sikkim,26.6923,88.4465,46659.3,1070
