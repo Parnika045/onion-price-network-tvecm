@@ -1,5 +1,9 @@
 # Replication package: Do Large Price Gaps Close Faster? Spatial Arbitrage, Market Networks and Weather Shocks in India’s Onion Markets
 
+[![DOI](https://zenodo.org/badge/1457789295.svg)](https://doi.org/10.5281/zenodo.24221727)
+
+Archived at Zenodo: https://doi.org/10.5281/zenodo.24221728
+
 Author: Parnika Sabharwal (Dr. B. R. Ambedkar School of Economics University, Bengaluru)
 
 ## Overview
