@@ -1,6 +1,6 @@
 """Shared paths, constants and helper functions for the replication package.
 
-Network Topology and Nonlinear Price Adjustment in Indian Onion Markets.
+Do Large Price Gaps Close Faster? Spatial Arbitrage, Market Networks and Weather Shocks in India’s Onion Markets.
 All scripts import from here so that every constant used in the paper is set in one place.
 """
 from __future__ import annotations

@@ -50,7 +50,7 @@ STEPS = [
 ]
 
 md("""
-# Network Structure and Nonlinear Price Adjustment in India's Wholesale Onion Market
+# Do Large Price Gaps Close Faster? Spatial Arbitrage, Market Networks and Weather Shocks in India’s Onion Markets
 ## Replication notebook
 
 This notebook runs every computation in the paper, from the raw AGMARKNET file to the numbers quoted in the text,

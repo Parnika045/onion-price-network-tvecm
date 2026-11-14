@@ -1,4 +1,4 @@
-# Replication package: Network Structure and Nonlinear Price Adjustment in India's Wholesale Onion Market
+# Replication package: Do Large Price Gaps Close Faster? Spatial Arbitrage, Market Networks and Weather Shocks in India’s Onion Markets
 
 Author: Parnika Sabharwal (Dr. B. R. Ambedkar School of Economics University, Bengaluru)
 
